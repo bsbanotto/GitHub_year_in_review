@@ -9,6 +9,7 @@ This project aims to do something similar, except for your GitHub!
 This project is currently in development. An ever-evolving punch list is below:
 
 ~~- [X] Python files for API call to get a users repos and commit messages in JSON format using a persons access token.~~
+
 - [X] Puthon files for API call to get a users repos and commit messages in JSON format using only their GitHub username.
 - [ ] Extract simple statistics for a dashboard.
   - [ ] Total number of repos used.
