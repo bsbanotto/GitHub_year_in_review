@@ -28,7 +28,6 @@ def get_commit_info(commit):
 def get_commit_metrics(
         username,
         repo_name,
-        access_token,
         start_date,
         end_date
         ):
@@ -40,7 +39,6 @@ def get_commit_metrics(
     Args:
         username (str): GitHub username.
         repo_name (str): Repository name.
-        access_token (str): GitHub personal access token.
         start_date (datetime): Start date for commit search.
         end_date (datetime): End date for commit search.
 
@@ -65,7 +63,6 @@ def get_commit_metrics(
             response = requests.get(
                 base_url,
                 params=params,
-                headers={'Authorization': f'Bearer {access_token}'}
                 )
             response.raise_for_status()
             commits = response.json()
@@ -104,7 +101,6 @@ def get_commit_metrics(
 def get_commit_data_for_repos(
         username,
         repo_names,
-        access_token,
         start_date,
         end_date
         ):
@@ -114,7 +110,6 @@ def get_commit_data_for_repos(
     Args:
         username (str): GitHub username.
         repo_names (list): List of repository names.
-        access_token (str): GitHub personal access token.
         start_date (datetime object): Start date for query
         end_date (datetime object): End date for query
 
@@ -128,7 +123,6 @@ def get_commit_data_for_repos(
             get_commit_metrics(
                                username,
                                repo_name,
-                               access_token,
                                start_date,
                                end_date
                                )
@@ -166,8 +160,7 @@ if __name__ == "__main__":
     get_github_repos = __import__('get_repos').get_github_repos
 
     username = 'bsbanotto'
-    access_token = 'ACCESS_TOKEN_HERE'
-    repo_names = get_github_repos(username, access_token)
+    repo_names = get_github_repos(username)
     filename = username + '_commit_info.json'
     start_date = datetime(2023, 1, 1)
     end_date = datetime(2023, 12, 31)
@@ -175,7 +168,6 @@ if __name__ == "__main__":
     commit_info_per_repo = get_commit_data_for_repos(
         username,
         repo_names,
-        access_token,
         start_date,
         end_date
         )
