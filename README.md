@@ -8,15 +8,15 @@ This project aims to do something similar, except for your GitHub!
 
 This project is currently in development. An ever-evolving punch list is below:
 
-- [X] Python files for API call to get a users repos and commit messages in JSON format using a persons access token.
-- [ ] Puthon files for API call to get a users repos and commit messages in JSON format using only their GitHub username
-- [ ] Extract simple statistics for a dashboard
-  - [ ] Total number of repos used
-  - [ ] Total number of commits
-  - [ ] Commits per repo
-- [ ] Create a word map of words used in commits
-- [ ] Sentiment analysis timeline on commit messages (were they useful commits or just fixing typos?)
-- [ ] Remote hosting so people don't have to clone the repository, it just returns a nice image of a dashboard
+~~- [X] Python files for API call to get a users repos and commit messages in JSON format using a persons access token.~~
+- [X] Puthon files for API call to get a users repos and commit messages in JSON format using only their GitHub username.
+- [ ] Extract simple statistics for a dashboard.
+  - [ ] Total number of repos used.
+  - [ ] Total number of commits.
+  - [ ] Commits per repo.
+- [ ] Create a word map of words used in commits.
+- [ ] Sentiment analysis timeline on commit messages (were they useful commits or just fixing typos?).
+- [ ] Remote hosting so people don't have to clone the repository, it just returns a nice image of a dashboard.
 
 ## Installation and Setup Instructions
 
