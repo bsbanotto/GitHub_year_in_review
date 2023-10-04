@@ -24,7 +24,7 @@ I'll add instructions for a user to clone this repository and set up a conda env
 
 ## Reflection
 
-This project is something I've been thinking about for a while. I know the spotify year in review is coming up, and I'll be seeing that all over social media, so my goal is to get this wrapped up and mostly functional before then to try and ride that wave and see if I can convince my friends to give it a shot. 
+This project is something I've been thinking about for a while. I know the spotify year in review is coming up, and I'll be seeing that all over social media, so my goal is to get this wrapped up and mostly functional before then to try and ride that wave and see if I can convince my friends to give it a shot.
 
 Something else I want to learn / focus on is making a good looking repo that's mostly ready for production. What's the correct file structure / heirarchy. How does data move around. These are things we don't really get to touch on a lot at Holberton. I want it to be as professional as possible for something that's mainly fun and farcical.
 
