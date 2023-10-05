@@ -161,7 +161,7 @@ if __name__ == "__main__":
 
     username = 'bsbanotto'
     repo_names = get_github_repos(username)
-    filename = username + '_commit_info.json'
+    filename = './json_files/' + username + '_commit_info.json'
     start_date = datetime(2023, 1, 1)
     end_date = datetime(2023, 12, 31)
 
