@@ -14,8 +14,8 @@ This project is currently in development. An ever-evolving punch list is below:
 - [ ] Extract simple statistics for a dashboard.
   - [ ] Total number of repos used.
   - [ ] Total number of commits.
-  - [ ] Commits per repo.
-  - [ ] What times are you typically committing.
+  - [X] Commits per repo.
+  - [X] What times are you typically committing.
 - [ ] Create a word map of words used in commits.
 - [ ] Sentiment analysis timeline on commit messages (were they useful commits or just fixing typos?).
 - [ ] Remote hosting so people don't have to clone the repository, it just returns a nice image of a dashboard.
