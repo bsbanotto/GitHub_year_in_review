@@ -9,7 +9,7 @@ from datetime import datetime
 import pytz
 
 
-def what_times(file):
+def what_times(file, username):
     """
     Args:
         file (str): file name to extract information from
@@ -39,8 +39,6 @@ def what_times(file):
             commit_date).astimezone(central_timezone)
         commit_hours.append(central_date.hour)
 
-    print(commit_lists)
-
     # Create a histogram
     bins = [x for x in range(25)]
     labels = ['12AM', '1AM', '2AM', '3AM', '4AM', '5AM', '6AM', '7AM', '8AM',
@@ -49,20 +47,17 @@ def what_times(file):
 
     plt.figure(figsize=(10, 6), facecolor='black')
     plt.hist(commit_hours, bins=bins, edgecolor='black', alpha=0.7)
-    plt.xlabel('Commit Hour', color='white', fontweight='bold')
-    plt.ylabel('Number of Commits', color='white', fontweight='bold')
+    plt.xlabel('Commit Hour', color='white', fontweight='bold',
+               fontsize='x-large')
+    plt.ylabel('Number of Commits', color='white', fontweight='bold',
+               fontsize='x-large')
     plt.title(username + ' Commit Time Distribution (in Hours)',
-              color='white', fontweight='bold')
+              color='white', fontweight='bold', fontsize='xx-large')
     plt.xticks(bins, labels, rotation=45, ha='right', color='white',
                fontweight='bold')
+    plt.yticks(color='white', fontweight='bold')
     plt.grid(axis='y', linestyle='--', alpha=0.7)
     plt.tight_layout()
     ax = plt.gca()
     ax.set_facecolor('black')
     plt.show()
-
-
-if __name__ == "__main__":
-    username = 'bsbanotto'
-    file = './json_files/' + username + '_commit_info.json'
-    what_times(file)

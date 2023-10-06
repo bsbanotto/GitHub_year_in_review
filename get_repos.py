@@ -37,16 +37,3 @@ def get_github_repos(username, access_token):
     except Exception as e:
         print(f"An error occurred: {e}")
         return None
-
-
-if __name__ == "__main__":
-    username = 'bsbanotto'
-    access_token = 'ACCESS_TOKEN'
-
-    repos = get_github_repos(username, access_token)
-    if repos:
-        print(f"GitHub repositories for {username}:")
-        for repo in repos:
-            print(repo)
-    else:
-        print("Failed to retrieve GitHub repositories.")

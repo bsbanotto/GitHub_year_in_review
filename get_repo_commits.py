@@ -6,6 +6,7 @@ worth of commit information and store it in a JSON file.
 import requests
 import json
 from datetime import datetime
+import os
 
 
 def get_commit_info(commit):
@@ -72,7 +73,9 @@ def get_commit_metrics(
                 headers=headers,
                 )
 
-            print("Metrics: " + str(params) + str(repo_name) + str(response), end="\r", flush=False)
+            # Print message to console
+            print("Metrics: " + str(repo_name) +
+                  "\t\tPage: " + str(params['page']), end="\r", flush=True)
 
             response.raise_for_status()
             commits = response.json()
@@ -164,27 +167,9 @@ def create_commit_data_json(username, commit_data_per_repo, output_file):
         'commit_data_per_repo': commit_data_per_repo
     }
 
+    path = 'json_files'
+    if not os.path.exists(path):
+        os.makedirs(path)
+
     with open(output_file, 'w') as json_file:
         json.dump(data, json_file, indent=4)
-
-
-if __name__ == "__main__":
-    get_github_repos = __import__('get_repos').get_github_repos
-
-    username = 'bsbanotto'
-    access_token = 'ACCESS_TOKEN'
-
-    repo_names = get_github_repos(username, access_token)
-    filename = './json_files/' + username + '_commit_info.json'
-    start_date = datetime(2023, 1, 1)
-    end_date = datetime(2023, 12, 31)
-
-    commit_info_per_repo = get_commit_data_for_repos(
-        username,
-        repo_names,
-        access_token,
-        start_date,
-        end_date
-        )
-
-    create_commit_data_json(username, commit_info_per_repo, filename)

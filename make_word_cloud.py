@@ -46,15 +46,15 @@ def make_wordcloud(file):
         word_frequencies.pop(key, None)
 
     # Create a WordCloud object
-    wordcloud = WordCloud(width=800, height=400, background_color='black').generate_from_frequencies(word_frequencies)
+    wordcloud = WordCloud(
+        width=800,
+        height=400,
+        background_color='black').generate_from_frequencies(
+        word_frequencies
+        )
 
     # Display the word cloud using matplotlib
     plt.figure(figsize=(10, 5))
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis('off')
     plt.show()
-
-if __name__ == "__main__":
-    username = 'bsbanotto'
-    file = './json_files/' + username + '_commit_info.json'
-    make_wordcloud(file)

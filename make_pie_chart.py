@@ -7,7 +7,7 @@ import json
 import matplotlib.pyplot as plt
 
 
-def make_pie(file):
+def make_pie(file, username):
     """
     Args:
         file (str): file name to extract information from
@@ -47,13 +47,16 @@ def make_pie(file):
     commit_counts = commit_counts[:-to_pop]
     commit_counts.append(other)
 
-    plt.figure(figsize=(10, 6))
-    plt.pie(commit_counts, labels=repo_names, autopct='%1.1f%%')
-    plt.title(username + ' - Commits per Repository')
+    # Build the Pie Chart
+    fig, ax = plt.subplots(figsize=(10, 6))
+    fig.patch.set_facecolor('black')
+    ax.set_facecolor('black')
+
+    ax.pie(commit_counts, labels=repo_names, autopct='%1.1f%%')
+    for text in ax.texts:
+        text.set_color('white')
+
+    ax.set_title(username + ' - Commits per Repository', color='white',
+                 fontweight='bold', fontsize='x-large')
+
     plt.show()
-
-
-if __name__ == "__main__":
-    username = 'bsbanotto'
-    file = './json_files/' + username + '_commit_info.json'
-    make_pie(file)
