@@ -8,9 +8,10 @@ This project aims to do something similar, except for your GitHub!
 
 This project is currently in development. An ever-evolving punch list is below:
 
-~~- [X] Python files for API call to get a users repos and commit messages in JSON format using a persons access token.~~
+- [X] Python files for API call to get a users repos and commit messages in JSON format using a persons access token.
 
-- [X] Puthon files for API call to get a users repos and commit messages in JSON format using only their GitHub username.
+~~- [X] Puthon files for API call to get a users repos and commit messages in JSON format using only their GitHub username.~~
+
 - [ ] Extract simple statistics for a dashboard.
   - [ ] Total number of repos used.
   - [ ] Total number of commits.
@@ -22,7 +23,35 @@ This project is currently in development. An ever-evolving punch list is below:
 
 ## Installation and Setup Instructions
 
-I'll add instructions for a user to clone this repository and set up a conda environment to run locally. I think this is safest since as it is right now, they'll need an access token and this way that stays on their machine. If I can figure out that it'll work without needing an access token (should work since it's designed for public repos only) then maybe I can look at hosting on a lambda instance.
+To run this file in a conda environment:
+
+```bash
+git clone https://github.com/bsbanotto/GitHub_year_in_review.git
+cd <cloned_repo>
+conda env create -f environment.yml
+conda activate GitHub_year_in_review
+python3 ./run.py <username> <access_token>
+```
+
+If you want to remove the conda environment when you're done, follow these instructions.
+
+```bash
+conda deactivate
+conda remove --name GitHub_year_in_review --all
+```
+
+ When prompted
+
+```bash
+Proceed ([y]/n)?
+```
+
+enter 'Y'
+
+If you don't want to use a conda environment, the versions of the Python libraries for this code are below in the Technologies section. You can install locally and run without anaconda.
+
+- Comming Soon - Google COLAB notebook so you won't have to worryabout a conda environment
+- Comming Soon - Optional usage without access token (may not get all of your commits due to API limits)
 
 ## Reflection
 
@@ -36,4 +65,8 @@ Something else I want to learn / focus on is making a good looking repo that's m
   - requests
   - json
   - datetime
+  - pytz
+  - matplotlib
+  - sys
+  - os
 - Anaconda

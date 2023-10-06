@@ -1,0 +1,10 @@
+name: GitHub_year_in_review
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip==23.2.1
+  - pip:
+    - pytz==2022.7.1
+    - matplotlib==3.6.2
+    - requests
