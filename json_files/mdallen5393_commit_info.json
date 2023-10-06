@@ -1,0 +1,5109 @@
+{
+    "username": "mdallen5393",
+    "commit_data_per_repo": {
+        "Draco_v2": {
+            "earliest_date": "2023-08-14T14:43:22",
+            "latest_date": "2023-08-23T15:40:52",
+            "total_commits": 31,
+            "commit_messages": [
+                {
+                    "date": "2023-08-23T15:40:52Z",
+                    "message": "fixed search bar i think"
+                },
+                {
+                    "date": "2023-08-22T21:10:33Z",
+                    "message": "added reload to webpage when user is signed out"
+                },
+                {
+                    "date": "2023-08-22T21:06:25Z",
+                    "message": "made signout function for user; have not implemented it in the HTML yet. it has to be called in the console as signOutUser() for now"
+                },
+                {
+                    "date": "2023-08-22T20:33:31Z",
+                    "message": "task 420"
+                },
+                {
+                    "date": "2023-08-22T19:44:02Z",
+                    "message": "fixing merge conflicts when merging pagination branch into main"
+                },
+                {
+                    "date": "2023-08-22T19:35:45Z",
+                    "message": "Partially fixed pagination"
+                },
+                {
+                    "date": "2023-08-22T18:16:46Z",
+                    "message": "task 69"
+                },
+                {
+                    "date": "2023-08-22T15:55:28Z",
+                    "message": "doc on ready"
+                },
+                {
+                    "date": "2023-08-22T03:18:31Z",
+                    "message": "made cart costs make a little more sense than i had it before"
+                },
+                {
+                    "date": "2023-08-22T03:02:46Z",
+                    "message": "shopping cart looks good and working on my end as far as I can tell!"
+                },
+                {
+                    "date": "2023-08-22T02:49:11Z",
+                    "message": "working cart except checkout math"
+                },
+                {
+                    "date": "2023-08-22T00:13:06Z",
+                    "message": "cart works to save to; working on cart page"
+                },
+                {
+                    "date": "2023-08-21T18:44:06Z",
+                    "message": "bunch o bs"
+                },
+                {
+                    "date": "2023-08-21T18:42:23Z",
+                    "message": "made sign-in page"
+                },
+                {
+                    "date": "2023-08-21T18:41:05Z",
+                    "message": "made sign-in page"
+                },
+                {
+                    "date": "2023-08-21T16:14:06Z",
+                    "message": "checking out pagination yo"
+                },
+                {
+                    "date": "2023-08-18T18:46:18Z",
+                    "message": "head is hurty"
+                },
+                {
+                    "date": "2023-08-18T16:32:46Z",
+                    "message": "made auth html file with intention of checking user before showing the shop; may have to be reworked"
+                },
+                {
+                    "date": "2023-08-18T16:25:10Z",
+                    "message": "fbui auth initialized"
+                },
+                {
+                    "date": "2023-08-17T19:21:53Z",
+                    "message": "auth scripts and such"
+                },
+                {
+                    "date": "2023-08-17T18:17:03Z",
+                    "message": "auth and cart stuffs"
+                },
+                {
+                    "date": "2023-08-16T20:02:14Z",
+                    "message": "Merge branch 'main' of https://github.com/mdallen5393/Draco_v2 into main"
+                },
+                {
+                    "date": "2023-08-16T20:01:58Z",
+                    "message": "user auth started"
+                },
+                {
+                    "date": "2023-08-15T19:19:28Z",
+                    "message": "fixed cart overflowing into footer"
+                },
+                {
+                    "date": "2023-08-15T19:03:35Z",
+                    "message": "Added code for pagination and lots of bugs"
+                },
+                {
+                    "date": "2023-08-15T17:03:27Z",
+                    "message": "made pages.js file; need to implement pages to shopfront"
+                },
+                {
+                    "date": "2023-08-15T15:58:20Z",
+                    "message": "all gas no brakes; we got a web socket"
+                },
+                {
+                    "date": "2023-08-14T20:13:43Z",
+                    "message": "Initial commit for Draco v2 project"
+                },
+                {
+                    "date": "2023-08-14T19:49:57Z",
+                    "message": "Initial commit for Draco v2 project"
+                },
+                {
+                    "date": "2023-08-14T19:29:30Z",
+                    "message": "Initial commit for Draco v2 project"
+                },
+                {
+                    "date": "2023-08-14T14:43:22Z",
+                    "message": "Initial commit"
+                }
+            ]
+        },
+        "hbtn-live_codings": {
+            "earliest_date": "2023-02-16T03:22:01",
+            "latest_date": "2023-06-18T20:36:28",
+            "total_commits": 8,
+            "commit_messages": [
+                {
+                    "date": "2023-06-18T20:36:28Z",
+                    "message": "Pointers live coding"
+                },
+                {
+                    "date": "2023-06-14T14:49:44Z",
+                    "message": "Added actually live-coded code"
+                },
+                {
+                    "date": "2023-06-12T23:40:38Z",
+                    "message": "added Recursion live coding"
+                },
+                {
+                    "date": "2023-04-07T13:31:30Z",
+                    "message": "javascript tips files"
+                },
+                {
+                    "date": "2023-04-05T17:48:10Z",
+                    "message": "JavaScript Tips Live Coding"
+                },
+                {
+                    "date": "2023-02-21T20:39:19Z",
+                    "message": "Added README, removed trash files"
+                },
+                {
+                    "date": "2023-02-21T07:03:32Z",
+                    "message": "malloc_free live coding files"
+                },
+                {
+                    "date": "2023-02-16T03:22:01Z",
+                    "message": "misc commit"
+                }
+            ]
+        },
+        "holbertonschool-AirBnB_clone_v4": {
+            "earliest_date": "2023-01-05T15:55:43",
+            "latest_date": "2023-01-30T20:09:48",
+            "total_commits": 4,
+            "commit_messages": [
+                {
+                    "date": "2023-01-30T20:09:48Z",
+                    "message": "committing final changes"
+                },
+                {
+                    "date": "2023-01-05T16:12:36Z",
+                    "message": "fixing merge conflicts"
+                },
+                {
+                    "date": "2023-01-05T16:12:12Z",
+                    "message": "Merge branch 'master' of https://github.com/mdallen5393/holbertonschool-AirBnB_clone_v4"
+                },
+                {
+                    "date": "2023-01-05T15:55:43Z",
+                    "message": "??"
+                }
+            ]
+        },
+        "holbertonschool-binary_trees": {
+            "earliest_date": "2023-04-07T15:42:11",
+            "latest_date": "2023-04-10T14:01:31",
+            "total_commits": 45,
+            "commit_messages": [
+                {
+                    "date": "2023-04-10T14:01:31Z",
+                    "message": "Task 1. BST - Insert"
+                },
+                {
+                    "date": "2023-04-10T14:00:36Z",
+                    "message": "Task 1. BST - Insert"
+                },
+                {
+                    "date": "2023-04-10T13:59:23Z",
+                    "message": "Task 1. BST - Insert"
+                },
+                {
+                    "date": "2023-04-10T13:51:18Z",
+                    "message": "Task 1. BST - Insert"
+                },
+                {
+                    "date": "2023-04-10T13:22:58Z",
+                    "message": "Task 0. Is BST"
+                },
+                {
+                    "date": "2023-04-10T13:21:00Z",
+                    "message": "Task 0. Is BST"
+                },
+                {
+                    "date": "2023-04-10T13:13:29Z",
+                    "message": "Task 0. Is BST"
+                },
+                {
+                    "date": "2023-04-10T13:08:23Z",
+                    "message": "Task 0. Is BST"
+                },
+                {
+                    "date": "2023-04-09T21:39:30Z",
+                    "message": "Task 0. Is BST"
+                },
+                {
+                    "date": "2023-04-09T21:39:10Z",
+                    "message": "Task 0. Is BST"
+                },
+                {
+                    "date": "2023-04-09T21:38:12Z",
+                    "message": "Task 0. Is BST"
+                },
+                {
+                    "date": "2023-04-09T21:37:35Z",
+                    "message": "Task 0. Is BST"
+                },
+                {
+                    "date": "2023-04-09T21:11:17Z",
+                    "message": "Task 18. Uncle"
+                },
+                {
+                    "date": "2023-04-09T21:09:48Z",
+                    "message": "Task 18. Uncle"
+                },
+                {
+                    "date": "2023-04-09T21:02:27Z",
+                    "message": "Task 17. Sibling"
+                },
+                {
+                    "date": "2023-04-09T20:52:48Z",
+                    "message": "Task 16. Is perfect"
+                },
+                {
+                    "date": "2023-04-09T20:22:19Z",
+                    "message": "Task 15. Is full"
+                },
+                {
+                    "date": "2023-04-09T20:10:44Z",
+                    "message": "Task 14. Balance factor"
+                },
+                {
+                    "date": "2023-04-09T20:09:46Z",
+                    "message": "Task 14. Balance factor"
+                },
+                {
+                    "date": "2023-04-09T20:07:08Z",
+                    "message": "Task 14. Balance factor"
+                },
+                {
+                    "date": "2023-04-09T16:28:43Z",
+                    "message": "Task 13. Nodes"
+                },
+                {
+                    "date": "2023-04-09T16:23:52Z",
+                    "message": "Task 12. Leaves"
+                },
+                {
+                    "date": "2023-04-09T16:19:02Z",
+                    "message": "Task 11. Size"
+                },
+                {
+                    "date": "2023-04-09T16:08:41Z",
+                    "message": "Task 10. Depth"
+                },
+                {
+                    "date": "2023-04-09T16:00:10Z",
+                    "message": "Task 9. Height"
+                },
+                {
+                    "date": "2023-04-09T15:54:00Z",
+                    "message": "Task 8. Post-order traversal"
+                },
+                {
+                    "date": "2023-04-09T15:52:53Z",
+                    "message": "Task 7. In-order traversal"
+                },
+                {
+                    "date": "2023-04-09T15:51:36Z",
+                    "message": "Task 6. Pre-order traversal"
+                },
+                {
+                    "date": "2023-04-09T15:51:12Z",
+                    "message": "Task 6. Pre-order traversal"
+                },
+                {
+                    "date": "2023-04-09T15:48:54Z",
+                    "message": "Task 6. Pre-order traversal"
+                },
+                {
+                    "date": "2023-04-09T15:37:54Z",
+                    "message": "Task 5. Is root"
+                },
+                {
+                    "date": "2023-04-09T15:35:21Z",
+                    "message": "Task 3. Delete"
+                },
+                {
+                    "date": "2023-04-09T15:35:07Z",
+                    "message": "Task 3. Delete"
+                },
+                {
+                    "date": "2023-04-09T15:27:32Z",
+                    "message": "Task 4. Is leaf"
+                },
+                {
+                    "date": "2023-04-09T15:26:44Z",
+                    "message": "Task 4. Is leaf"
+                },
+                {
+                    "date": "2023-04-09T15:22:30Z",
+                    "message": "Task 2. Insert right"
+                },
+                {
+                    "date": "2023-04-09T15:20:45Z",
+                    "message": "Task 1. Insert left"
+                },
+                {
+                    "date": "2023-04-09T15:19:35Z",
+                    "message": "Task 1. Insert left"
+                },
+                {
+                    "date": "2023-04-09T15:18:47Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-04-07T16:17:44Z",
+                    "message": "Task 1. Insert left"
+                },
+                {
+                    "date": "2023-04-07T15:59:01Z",
+                    "message": "Task 0. New node"
+                },
+                {
+                    "date": "2023-04-07T15:58:11Z",
+                    "message": "Task 0. New node"
+                },
+                {
+                    "date": "2023-04-07T15:54:18Z",
+                    "message": "Task 0. New node"
+                },
+                {
+                    "date": "2023-04-07T15:53:20Z",
+                    "message": "Task 0. New node"
+                },
+                {
+                    "date": "2023-04-07T15:42:11Z",
+                    "message": "Initial commit for projects 0x07. Binary Trees 0 and 0x08. Binary Trees 1"
+                }
+            ]
+        },
+        "holbertonschool-files_manager": {
+            "earliest_date": "2023-07-20T18:56:16",
+            "latest_date": "2023-07-26T20:31:06",
+            "total_commits": 31,
+            "commit_messages": [
+                {
+                    "date": "2023-07-26T20:31:06Z",
+                    "message": "New endpoints in index.js for task 6"
+                },
+                {
+                    "date": "2023-07-26T20:01:36Z",
+                    "message": "files controller rework again"
+                },
+                {
+                    "date": "2023-07-26T19:50:00Z",
+                    "message": "reverted back"
+                },
+                {
+                    "date": "2023-07-26T19:37:20Z",
+                    "message": "Files controller rework"
+                },
+                {
+                    "date": "2023-07-26T16:19:36Z",
+                    "message": "added import back"
+                },
+                {
+                    "date": "2023-07-25T22:00:25Z",
+                    "message": "import changes"
+                },
+                {
+                    "date": "2023-07-25T21:45:40Z",
+                    "message": "Task 5 attempt: First file"
+                },
+                {
+                    "date": "2023-07-25T17:33:07Z",
+                    "message": "Task 4. Authenticate a user"
+                },
+                {
+                    "date": "2023-07-25T17:23:10Z",
+                    "message": "Task 4. Authenticate a user"
+                },
+                {
+                    "date": "2023-07-25T17:19:51Z",
+                    "message": "Task 4. Authenticate a user"
+                },
+                {
+                    "date": "2023-07-25T16:39:05Z",
+                    "message": "Task 3 reattempt"
+                },
+                {
+                    "date": "2023-07-25T16:21:54Z",
+                    "message": "accidentally broke task 2 somehow?"
+                },
+                {
+                    "date": "2023-07-25T14:04:08Z",
+                    "message": "Task 3 attempt"
+                },
+                {
+                    "date": "2023-07-25T13:54:12Z",
+                    "message": "Task 3. Create a new user"
+                },
+                {
+                    "date": "2023-07-25T13:30:58Z",
+                    "message": "Task 2 attempt"
+                },
+                {
+                    "date": "2023-07-25T13:28:04Z",
+                    "message": "Task 2 attempt"
+                },
+                {
+                    "date": "2023-07-24T19:55:26Z",
+                    "message": "Task 2. First API attempt"
+                },
+                {
+                    "date": "2023-07-24T18:41:00Z",
+                    "message": "Task 1 attempt"
+                },
+                {
+                    "date": "2023-07-24T18:39:25Z",
+                    "message": "Task 1 attempt"
+                },
+                {
+                    "date": "2023-07-24T15:24:55Z",
+                    "message": "Task 1 attempt"
+                },
+                {
+                    "date": "2023-07-21T19:14:35Z",
+                    "message": "Task 1 attempt"
+                },
+                {
+                    "date": "2023-07-21T19:07:17Z",
+                    "message": "Task 1 attempt"
+                },
+                {
+                    "date": "2023-07-21T19:04:59Z",
+                    "message": "Task 1 attempt"
+                },
+                {
+                    "date": "2023-07-21T19:00:57Z",
+                    "message": "Task 1 attempt"
+                },
+                {
+                    "date": "2023-07-21T18:55:36Z",
+                    "message": "Task 1 attempt"
+                },
+                {
+                    "date": "2023-07-21T18:46:49Z",
+                    "message": "Task 1 attempt"
+                },
+                {
+                    "date": "2023-07-21T15:36:49Z",
+                    "message": "Task 0 eslint fix"
+                },
+                {
+                    "date": "2023-07-21T15:33:32Z",
+                    "message": "Task 0 reattempt with promises"
+                },
+                {
+                    "date": "2023-07-21T13:23:47Z",
+                    "message": "Task 0. Redis utils - created RedisClient class"
+                },
+                {
+                    "date": "2023-07-20T19:11:59Z",
+                    "message": "Initial commit for project Files manager"
+                },
+                {
+                    "date": "2023-07-20T18:56:16Z",
+                    "message": "Initial commit"
+                }
+            ]
+        },
+        "holbertonschool-headphones": {
+            "earliest_date": "2023-02-21T14:44:23",
+            "latest_date": "2023-02-24T06:22:45",
+            "total_commits": 3,
+            "commit_messages": [
+                {
+                    "date": "2023-02-24T06:22:45Z",
+                    "message": "significant work done"
+                },
+                {
+                    "date": "2023-02-23T02:42:54Z",
+                    "message": "Initial commit for project 0x04. Implement a design from scratch"
+                },
+                {
+                    "date": "2023-02-21T14:44:23Z",
+                    "message": "Initial commit for project 0x04. Implement a design from scratch"
+                }
+            ]
+        },
+        "holbertonschool-low_level_programming": {
+            "earliest_date": "2023-02-16T03:36:48",
+            "latest_date": "2023-03-20T13:35:50",
+            "total_commits": 20,
+            "commit_messages": [
+                {
+                    "date": "2023-03-20T13:35:50Z",
+                    "message": "linear skip"
+                },
+                {
+                    "date": "2023-03-10T14:50:18Z",
+                    "message": "Initial commit for project 0x06. Search Algorithms 2"
+                },
+                {
+                    "date": "2023-03-10T14:23:39Z",
+                    "message": "Initial commit for project 0x06. Search Algorithms 2"
+                },
+                {
+                    "date": "2023-03-05T20:55:16Z",
+                    "message": "Updated for styling"
+                },
+                {
+                    "date": "2023-03-05T20:54:43Z",
+                    "message": "Updated for styling"
+                },
+                {
+                    "date": "2023-03-05T20:54:19Z",
+                    "message": "Updated for styling"
+                },
+                {
+                    "date": "2023-03-05T20:53:05Z",
+                    "message": "Task 0. Advanced binary search"
+                },
+                {
+                    "date": "2023-02-24T07:11:58Z",
+                    "message": "Initial commit for project 0x05. Searching Algorithms 1"
+                },
+                {
+                    "date": "2023-02-16T04:11:37Z",
+                    "message": "Task 6. Big O #4"
+                },
+                {
+                    "date": "2023-02-16T04:11:15Z",
+                    "message": "Task 6. Big O #4"
+                },
+                {
+                    "date": "2023-02-16T04:10:03Z",
+                    "message": "Task 5. Big O #3"
+                },
+                {
+                    "date": "2023-02-16T04:09:26Z",
+                    "message": "Task 4. Big O #2"
+                },
+                {
+                    "date": "2023-02-16T04:08:22Z",
+                    "message": "task 3. Big O #1"
+                },
+                {
+                    "date": "2023-02-16T04:07:33Z",
+                    "message": "Task 2. Big O #0"
+                },
+                {
+                    "date": "2023-02-16T04:07:13Z",
+                    "message": "Task 2. Big O #0"
+                },
+                {
+                    "date": "2023-02-16T04:05:58Z",
+                    "message": "Task 1. Binary search"
+                },
+                {
+                    "date": "2023-02-16T03:52:49Z",
+                    "message": "Task 0. Linear search"
+                },
+                {
+                    "date": "2023-02-16T03:51:33Z",
+                    "message": "Task 0. Linear search"
+                },
+                {
+                    "date": "2023-02-16T03:42:40Z",
+                    "message": "Initial commit for project 0x0E. Searching Algorithms 0"
+                },
+                {
+                    "date": "2023-02-16T03:36:48Z",
+                    "message": "Initial commit for project 0x0E. Searching Algorithms 0"
+                }
+            ]
+        },
+        "holbertonschool-smiling-school": {
+            "earliest_date": "2023-03-03T16:14:32",
+            "latest_date": "2023-03-28T13:36:23",
+            "total_commits": 11,
+            "commit_messages": [
+                {
+                    "date": "2023-03-28T13:36:23Z",
+                    "message": "committing misc. changes"
+                },
+                {
+                    "date": "2023-03-09T19:50:19Z",
+                    "message": "Task 7. header for pricing"
+                },
+                {
+                    "date": "2023-03-08T20:45:30Z",
+                    "message": "Final version of homepage (with errors)"
+                },
+                {
+                    "date": "2023-03-08T17:32:02Z",
+                    "message": "Task 5. added latest videos section"
+                },
+                {
+                    "date": "2023-03-07T21:23:45Z",
+                    "message": "Task 4. Added free membership section"
+                },
+                {
+                    "date": "2023-03-07T20:38:28Z",
+                    "message": "Task 3. almost complete; popular tutorials carousel still needs to be fixed"
+                },
+                {
+                    "date": "2023-03-07T20:11:42Z",
+                    "message": "Task 3. love you sarah"
+                },
+                {
+                    "date": "2023-03-07T15:14:57Z",
+                    "message": "Task 2. created carousel on homepage"
+                },
+                {
+                    "date": "2023-03-07T04:09:14Z",
+                    "message": "Task 1. completed header of homepage"
+                },
+                {
+                    "date": "2023-03-07T04:08:45Z",
+                    "message": "Task 1. completed header of homepage"
+                },
+                {
+                    "date": "2023-03-03T16:14:32Z",
+                    "message": "Initial commit for project `0x01. Implement a design with bootstrap"
+                }
+            ]
+        },
+        "holbertonschool-smiling-school-javascript": {
+            "earliest_date": "2023-03-28T13:26:56",
+            "latest_date": "2023-04-04T14:30:26",
+            "total_commits": 7,
+            "commit_messages": [
+                {
+                    "date": "2023-04-04T14:30:26Z",
+                    "message": "Completed pricing.html"
+                },
+                {
+                    "date": "2023-04-04T14:25:12Z",
+                    "message": "Completed pricing.html"
+                },
+                {
+                    "date": "2023-04-04T13:13:17Z",
+                    "message": "details on the homepage"
+                },
+                {
+                    "date": "2023-03-31T15:40:43Z",
+                    "message": "fixed some carousels!"
+                },
+                {
+                    "date": "2023-03-30T14:39:07Z",
+                    "message": "About to change carousels to JS"
+                },
+                {
+                    "date": "2023-03-28T13:38:35Z",
+                    "message": "Task 0. Reuse and polish your Bootstrap integration"
+                },
+                {
+                    "date": "2023-03-28T13:26:56Z",
+                    "message": "Initial commit"
+                }
+            ]
+        },
+        "holbertonschool-sorting_algorithms": {
+            "earliest_date": "2023-01-10T16:24:52",
+            "latest_date": "2023-02-16T03:23:05",
+            "total_commits": 22,
+            "commit_messages": [
+                {
+                    "date": "2023-02-16T03:23:05Z",
+                    "message": "misc commit"
+                },
+                {
+                    "date": "2023-02-13T15:02:22Z",
+                    "message": "changed count array to always have 10 elements"
+                },
+                {
+                    "date": "2023-02-13T14:47:31Z",
+                    "message": "fixed edge cases of trivially sorted arrays and arrays that dont exist"
+                },
+                {
+                    "date": "2023-02-13T14:23:58Z",
+                    "message": "Project 0x03. Sorting Algorithms 2: task 0. Radix sort"
+                },
+                {
+                    "date": "2023-02-13T14:19:32Z",
+                    "message": "Project 0x03. Sorting Algorithms 2: task 0. Radix sort"
+                },
+                {
+                    "date": "2023-02-13T14:17:08Z",
+                    "message": "Project 0x03. Sorting Algorithms 2: task 0. Radix sort"
+                },
+                {
+                    "date": "2023-01-19T04:11:24Z",
+                    "message": "Task 0. Heap sort"
+                },
+                {
+                    "date": "2023-01-19T04:10:44Z",
+                    "message": "Task 0. Heap sort"
+                },
+                {
+                    "date": "2023-01-19T04:09:40Z",
+                    "message": "Task 0. Heap sort"
+                },
+                {
+                    "date": "2023-01-17T14:36:28Z",
+                    "message": "Task 0. Merge sort"
+                },
+                {
+                    "date": "2023-01-11T19:23:50Z",
+                    "message": "Heap sort is working, not printing when it should"
+                },
+                {
+                    "date": "2023-01-11T19:11:44Z",
+                    "message": "Committing files. Implemenatation not working but want to check bigO"
+                },
+                {
+                    "date": "2023-01-11T17:37:54Z",
+                    "message": "Fixed typo in betty documentation for print_my_array"
+                },
+                {
+                    "date": "2023-01-11T17:35:09Z",
+                    "message": "Cleaned up comments"
+                },
+                {
+                    "date": "2023-01-11T17:30:48Z",
+                    "message": "I think I got it."
+                },
+                {
+                    "date": "2023-01-11T16:34:29Z",
+                    "message": "Successfully splits an array into individual elements"
+                },
+                {
+                    "date": "2023-01-10T21:25:15Z",
+                    "message": "added in a copy_array function"
+                },
+                {
+                    "date": "2023-01-10T21:16:39Z",
+                    "message": "Writing some functions to print and copy arrays"
+                },
+                {
+                    "date": "2023-01-10T16:34:14Z",
+                    "message": "Committing to see what works with C"
+                },
+                {
+                    "date": "2023-01-10T16:30:20Z",
+                    "message": "Betty compliant empty file for merge sort"
+                },
+                {
+                    "date": "2023-01-10T16:29:31Z",
+                    "message": "Committing file for merge_sort"
+                },
+                {
+                    "date": "2023-01-10T16:24:52Z",
+                    "message": "Committing Big-O notation for merge sort"
+                }
+            ]
+        },
+        "holbertonschool-the-joy-of-painting-api": {
+            "earliest_date": "2023-07-31T13:44:21",
+            "latest_date": "2023-08-09T13:53:47",
+            "total_commits": 5,
+            "commit_messages": [
+                {
+                    "date": "2023-08-09T13:53:47Z",
+                    "message": "many changes; wow, this is a useful commit message; im so burnt out"
+                },
+                {
+                    "date": "2023-08-02T13:18:35Z",
+                    "message": "Added create.sql which creates the database"
+                },
+                {
+                    "date": "2023-07-31T15:00:27Z",
+                    "message": "Added data files"
+                },
+                {
+                    "date": "2023-07-31T14:05:41Z",
+                    "message": "Readme"
+                },
+                {
+                    "date": "2023-07-31T13:44:21Z",
+                    "message": "Initial commit"
+                }
+            ]
+        },
+        "holbertonschool-web_back_end": {
+            "earliest_date": "2023-01-06T17:57:45",
+            "latest_date": "2023-09-12T13:25:31",
+            "total_commits": 534,
+            "commit_messages": [
+                {
+                    "date": "2023-09-12T13:25:31Z",
+                    "message": "Removed Author from README"
+                },
+                {
+                    "date": "2023-09-12T13:24:53Z",
+                    "message": "Added Author to README"
+                },
+                {
+                    "date": "2023-07-06T04:56:13Z",
+                    "message": "Task 10. Deep equality & Post integration testing"
+                },
+                {
+                    "date": "2023-07-06T04:51:02Z",
+                    "message": "Task 10. Deep equality & Post integration testing"
+                },
+                {
+                    "date": "2023-07-06T04:43:51Z",
+                    "message": "Task 10. Deep equality & Post integration testing"
+                },
+                {
+                    "date": "2023-07-06T04:25:10Z",
+                    "message": "Task 9. Regex integration testing"
+                },
+                {
+                    "date": "2023-07-05T19:02:53Z",
+                    "message": "Task 8. Basic Integration testing"
+                },
+                {
+                    "date": "2023-07-05T18:34:18Z",
+                    "message": "Task 7. Skip"
+                },
+                {
+                    "date": "2023-07-05T18:31:43Z",
+                    "message": "Task 6. Async tests with done"
+                },
+                {
+                    "date": "2023-07-05T18:12:17Z",
+                    "message": "Task 5. Hooks"
+                },
+                {
+                    "date": "2023-07-05T17:49:01Z",
+                    "message": "Task 4. Stubs"
+                },
+                {
+                    "date": "2023-07-05T17:43:53Z",
+                    "message": "Task 4. Stubs"
+                },
+                {
+                    "date": "2023-07-05T16:54:23Z",
+                    "message": "Task 3. Spies"
+                },
+                {
+                    "date": "2023-07-05T16:53:39Z",
+                    "message": "Task 3. Spies"
+                },
+                {
+                    "date": "2023-07-05T16:47:46Z",
+                    "message": "Task 3. Spies"
+                },
+                {
+                    "date": "2023-07-05T13:42:54Z",
+                    "message": "Task 2. Basic test using Chai assertion library"
+                },
+                {
+                    "date": "2023-07-05T13:07:14Z",
+                    "message": "Task 1. Combining descriptions"
+                },
+                {
+                    "date": "2023-07-03T18:58:19Z",
+                    "message": "Initial commit for project Unittests in JS"
+                },
+                {
+                    "date": "2023-07-03T18:56:22Z",
+                    "message": "Initial commit for project Unittests in JS"
+                },
+                {
+                    "date": "2023-07-03T18:54:02Z",
+                    "message": "Initial commit for project Unittests in JS"
+                },
+                {
+                    "date": "2023-07-03T18:52:57Z",
+                    "message": "Initial commit for project Unittests in JS"
+                },
+                {
+                    "date": "2023-07-03T18:46:06Z",
+                    "message": "Initial commit for project Unittests in JS"
+                },
+                {
+                    "date": "2023-07-03T18:38:59Z",
+                    "message": "Initial commit for project Unittests in JS"
+                },
+                {
+                    "date": "2023-06-29T19:31:07Z",
+                    "message": "Task 7. Create a more complex HTTP server using Express"
+                },
+                {
+                    "date": "2023-06-29T19:27:30Z",
+                    "message": "Task 7. Create a more complex HTTP server using Express"
+                },
+                {
+                    "date": "2023-06-29T19:22:35Z",
+                    "message": "Task 7. Create a more complex HTTP server using Express"
+                },
+                {
+                    "date": "2023-06-29T19:08:20Z",
+                    "message": "Task 6. Create a small HTTP server using Express"
+                },
+                {
+                    "date": "2023-06-29T16:12:43Z",
+                    "message": "Task 5. Create a more complex HTTP server using Nodes HTTP module"
+                },
+                {
+                    "date": "2023-06-29T16:09:02Z",
+                    "message": "Task 5. Create a more complex HTTP server using Nodes HTTP module"
+                },
+                {
+                    "date": "2023-06-28T17:45:28Z",
+                    "message": "Task 4. Create a small HTTP server using Nodes HTTP module"
+                },
+                {
+                    "date": "2023-06-28T17:35:51Z",
+                    "message": "Task 4. Create a small HTTP server using Nodes HTTP module"
+                },
+                {
+                    "date": "2023-06-28T17:35:08Z",
+                    "message": "Task 4. Create a small HTTP server using Nodes HTTP module"
+                },
+                {
+                    "date": "2023-06-28T17:23:16Z",
+                    "message": "Task 3. Reading a file asynchronously with Node JS"
+                },
+                {
+                    "date": "2023-06-28T16:48:22Z",
+                    "message": "Task 3. Reading a file asynchronously with Node JS"
+                },
+                {
+                    "date": "2023-06-28T16:30:39Z",
+                    "message": "Task 2. Reading a file synchronously with Node JS"
+                },
+                {
+                    "date": "2023-06-27T00:31:58Z",
+                    "message": "Task 1. Using Process stdin"
+                },
+                {
+                    "date": "2023-06-27T00:05:09Z",
+                    "message": "Task 1. Using Process stdin"
+                },
+                {
+                    "date": "2023-06-27T00:03:02Z",
+                    "message": "Task 1. Using Process stdin"
+                },
+                {
+                    "date": "2023-06-27T00:02:18Z",
+                    "message": "Task 1. Using Process stdin"
+                },
+                {
+                    "date": "2023-06-26T18:48:10Z",
+                    "message": "Task 1 attempt"
+                },
+                {
+                    "date": "2023-06-26T00:43:10Z",
+                    "message": "Task 1. added EOF handling"
+                },
+                {
+                    "date": "2023-06-26T00:34:19Z",
+                    "message": "Task 1 attempt"
+                },
+                {
+                    "date": "2023-06-26T00:32:50Z",
+                    "message": "Task 1 attempt"
+                },
+                {
+                    "date": "2023-06-23T19:22:24Z",
+                    "message": "Task 1 attempt"
+                },
+                {
+                    "date": "2023-06-23T19:21:15Z",
+                    "message": "Task 1 attempt"
+                },
+                {
+                    "date": "2023-06-23T19:19:18Z",
+                    "message": "Task 1 attempt"
+                },
+                {
+                    "date": "2023-06-23T19:09:43Z",
+                    "message": "Task 1. Using Process stdin"
+                },
+                {
+                    "date": "2023-06-23T19:06:02Z",
+                    "message": "Task 1. Using Process stdin"
+                },
+                {
+                    "date": "2023-06-23T18:35:42Z",
+                    "message": "Task 0. Executing basic javascript with Node JS"
+                },
+                {
+                    "date": "2023-06-23T13:31:02Z",
+                    "message": "Initial commit for project NodeJS Basics"
+                },
+                {
+                    "date": "2023-06-22T16:44:44Z",
+                    "message": "Task 11. No table for a meeting"
+                },
+                {
+                    "date": "2023-06-22T16:38:21Z",
+                    "message": "Task 10. Safe divide"
+                },
+                {
+                    "date": "2023-06-22T16:34:15Z",
+                    "message": "Task 10. Safe divide"
+                },
+                {
+                    "date": "2023-06-22T16:31:50Z",
+                    "message": "Task 10. Safe divide"
+                },
+                {
+                    "date": "2023-06-22T16:28:23Z",
+                    "message": "Task 10. Safe divide"
+                },
+                {
+                    "date": "2023-06-22T16:26:03Z",
+                    "message": "Task 10. Safe divide"
+                },
+                {
+                    "date": "2023-06-22T16:24:56Z",
+                    "message": "Task 10. Safe divide"
+                },
+                {
+                    "date": "2023-06-22T16:19:09Z",
+                    "message": "Task 9. Oprimize search and score"
+                },
+                {
+                    "date": "2023-06-22T16:16:32Z",
+                    "message": "Task 8. Optimize simple search"
+                },
+                {
+                    "date": "2023-06-22T16:15:12Z",
+                    "message": "Task 8. Optimize simple search"
+                },
+                {
+                    "date": "2023-06-22T16:12:49Z",
+                    "message": "Task 8. Optimize simple search"
+                },
+                {
+                    "date": "2023-06-22T15:15:48Z",
+                    "message": "Task 7. Average score"
+                },
+                {
+                    "date": "2023-06-22T15:07:09Z",
+                    "message": "Task 7. Average score"
+                },
+                {
+                    "date": "2023-06-22T14:26:14Z",
+                    "message": "Task 6. Add bonus"
+                },
+                {
+                    "date": "2023-06-22T14:22:27Z",
+                    "message": "Task 6. Add bonus"
+                },
+                {
+                    "date": "2023-06-22T12:55:25Z",
+                    "message": "Task 5. Email validation to sent; added test files 5-init.sql and 5-main.sql"
+                },
+                {
+                    "date": "2023-06-22T12:40:03Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-06-21T20:55:07Z",
+                    "message": "Task 12 test"
+                },
+                {
+                    "date": "2023-06-21T20:37:13Z",
+                    "message": "Task 12. Log stats"
+                },
+                {
+                    "date": "2023-06-21T20:27:39Z",
+                    "message": "Task 11. Where can I learn Python?"
+                },
+                {
+                    "date": "2023-06-21T20:20:39Z",
+                    "message": "Task 10. Change school topics"
+                },
+                {
+                    "date": "2023-06-21T20:19:18Z",
+                    "message": "Task 10. Change school topics"
+                },
+                {
+                    "date": "2023-06-21T20:18:14Z",
+                    "message": "Task 10. Change school topics"
+                },
+                {
+                    "date": "2023-06-21T20:16:20Z",
+                    "message": "Task 10. Change school topics"
+                },
+                {
+                    "date": "2023-06-21T20:10:05Z",
+                    "message": "Task 9. Insert a document in Python"
+                },
+                {
+                    "date": "2023-06-21T20:02:02Z",
+                    "message": "Task 8. List all documents in Python"
+                },
+                {
+                    "date": "2023-06-21T19:59:38Z",
+                    "message": "Task 8. List all documents in Python"
+                },
+                {
+                    "date": "2023-06-21T19:51:07Z",
+                    "message": "Task 7. Delete by match"
+                },
+                {
+                    "date": "2023-06-21T19:50:05Z",
+                    "message": "Task 7. Delete by match"
+                },
+                {
+                    "date": "2023-06-21T19:47:18Z",
+                    "message": "Task 7. Delete by match"
+                },
+                {
+                    "date": "2023-06-21T19:42:57Z",
+                    "message": "Task 6. Update"
+                },
+                {
+                    "date": "2023-06-21T19:42:07Z",
+                    "message": "Task 6. Update"
+                },
+                {
+                    "date": "2023-06-21T19:41:31Z",
+                    "message": "Task 6. Update"
+                },
+                {
+                    "date": "2023-06-21T19:39:22Z",
+                    "message": "Task 6. Update"
+                },
+                {
+                    "date": "2023-06-21T19:38:05Z",
+                    "message": "Task 6. Update"
+                },
+                {
+                    "date": "2023-06-21T19:29:51Z",
+                    "message": "Task 5. Count"
+                },
+                {
+                    "date": "2023-06-21T19:27:19Z",
+                    "message": "Task 4. All matches"
+                },
+                {
+                    "date": "2023-06-21T19:20:57Z",
+                    "message": "Task 3. All documents"
+                },
+                {
+                    "date": "2023-06-21T19:15:40Z",
+                    "message": "Task 2. Insert"
+                },
+                {
+                    "date": "2023-06-21T19:09:40Z",
+                    "message": "Task 2. Insert"
+                },
+                {
+                    "date": "2023-06-21T19:05:26Z",
+                    "message": "Task 1. Create a database"
+                },
+                {
+                    "date": "2023-06-21T19:02:38Z",
+                    "message": "Task 0 attempt"
+                },
+                {
+                    "date": "2023-06-21T18:53:52Z",
+                    "message": "Task 0. List all databases"
+                },
+                {
+                    "date": "2023-06-21T18:53:05Z",
+                    "message": "Task 0. List all databases"
+                },
+                {
+                    "date": "2023-06-21T15:35:12Z",
+                    "message": "Initial commit for project NoSQL"
+                },
+                {
+                    "date": "2023-06-20T23:21:18Z",
+                    "message": "Task 4. Retrieving lists"
+                },
+                {
+                    "date": "2023-06-20T23:06:20Z",
+                    "message": "Task 4. Retrieving lists"
+                },
+                {
+                    "date": "2023-06-20T23:04:34Z",
+                    "message": "Task 4. Retrieving lists"
+                },
+                {
+                    "date": "2023-06-20T23:02:19Z",
+                    "message": "Task 4. Retrieving lists"
+                },
+                {
+                    "date": "2023-06-20T23:02:08Z",
+                    "message": "Task 4. Retrieving lists"
+                },
+                {
+                    "date": "2023-06-20T22:51:11Z",
+                    "message": "Task 3. Storing lists"
+                },
+                {
+                    "date": "2023-06-20T22:43:53Z",
+                    "message": "Task 2. Incrementing values"
+                },
+                {
+                    "date": "2023-06-20T22:33:51Z",
+                    "message": "Added 1-main.py for testing; Task 1. Reading from Redis and recovering original type"
+                },
+                {
+                    "date": "2023-06-20T22:17:03Z",
+                    "message": "Task 0. Writing strings to Redis"
+                },
+                {
+                    "date": "2023-06-20T22:14:41Z",
+                    "message": "Task 0. Writing strings to Redis"
+                },
+                {
+                    "date": "2023-06-19T23:42:08Z",
+                    "message": "Initial commit for project Redis basic"
+                },
+                {
+                    "date": "2023-06-18T21:54:07Z",
+                    "message": "Task 4. Buy buy buy"
+                },
+                {
+                    "date": "2023-06-18T21:53:24Z",
+                    "message": "Task 4. Buy buy buy"
+                },
+                {
+                    "date": "2023-06-18T21:52:54Z",
+                    "message": "Task 4. Buy buy buy"
+                },
+                {
+                    "date": "2023-06-18T21:51:16Z",
+                    "message": "Task 4. Buy buy buy"
+                },
+                {
+                    "date": "2023-06-18T21:34:33Z",
+                    "message": "Task 3. Old school band"
+                },
+                {
+                    "date": "2023-06-18T21:33:36Z",
+                    "message": "Task 3. Old school band"
+                },
+                {
+                    "date": "2023-06-18T21:28:05Z",
+                    "message": "Task 3. Old school band"
+                },
+                {
+                    "date": "2023-06-18T21:26:28Z",
+                    "message": "Task 3. Old school band"
+                },
+                {
+                    "date": "2023-06-18T21:21:15Z",
+                    "message": "Task 3. Old school band"
+                },
+                {
+                    "date": "2023-06-18T21:08:44Z",
+                    "message": "Task 2. Best band ever!"
+                },
+                {
+                    "date": "2023-06-15T16:08:04Z",
+                    "message": "Task 1. In and not out"
+                },
+                {
+                    "date": "2023-06-15T16:05:59Z",
+                    "message": "Task 1. In and not out"
+                },
+                {
+                    "date": "2023-06-15T15:08:08Z",
+                    "message": "Task 0. We are all unique!"
+                },
+                {
+                    "date": "2023-06-15T15:05:07Z",
+                    "message": "Attempting to commit again"
+                },
+                {
+                    "date": "2023-06-14T15:59:42Z",
+                    "message": "Initial commit for project MySQL advanced"
+                },
+                {
+                    "date": "2023-06-14T15:59:12Z",
+                    "message": "Initial commit for project MySQL advanced"
+                },
+                {
+                    "date": "2023-06-07T18:41:43Z",
+                    "message": "Task 5 reattempt"
+                },
+                {
+                    "date": "2023-06-07T18:40:15Z",
+                    "message": "Task 5 reattempt"
+                },
+                {
+                    "date": "2023-06-07T18:37:08Z",
+                    "message": "Task 5 reattempt"
+                },
+                {
+                    "date": "2023-06-07T18:35:17Z",
+                    "message": "Task 5 reattempt"
+                },
+                {
+                    "date": "2023-06-07T18:32:46Z",
+                    "message": "Task 5 reattempt"
+                },
+                {
+                    "date": "2023-06-07T18:11:02Z",
+                    "message": "Task 5 reattempt"
+                },
+                {
+                    "date": "2023-06-07T18:10:02Z",
+                    "message": "Task 5 reattempt"
+                },
+                {
+                    "date": "2023-06-07T18:07:54Z",
+                    "message": "Task 5 reattempt"
+                },
+                {
+                    "date": "2023-06-07T18:00:33Z",
+                    "message": "Task 7. Infer appropriate time zone"
+                },
+                {
+                    "date": "2023-06-07T17:45:26Z",
+                    "message": "Task 7. Infer appropriate time zone"
+                },
+                {
+                    "date": "2023-06-07T17:35:53Z",
+                    "message": "Task 6. Use user locale"
+                },
+                {
+                    "date": "2023-06-07T17:33:42Z",
+                    "message": "Task 6. Use user locale"
+                },
+                {
+                    "date": "2023-06-07T16:46:56Z",
+                    "message": "Task 5 FINALLY maybe hopefully"
+                },
+                {
+                    "date": "2023-06-07T16:45:56Z",
+                    "message": "Task 5 FINALLY maybe hopefully"
+                },
+                {
+                    "date": "2023-06-07T16:42:34Z",
+                    "message": "Task 5 FINALLY maybe hopefully"
+                },
+                {
+                    "date": "2023-06-07T16:37:04Z",
+                    "message": "Task 5 FINALLY maybe hopefully"
+                },
+                {
+                    "date": "2023-06-07T16:32:15Z",
+                    "message": "Task 5 FINALLY maybe hopefully"
+                },
+                {
+                    "date": "2023-06-07T16:08:08Z",
+                    "message": "Task 5 attempt"
+                },
+                {
+                    "date": "2023-06-07T16:02:33Z",
+                    "message": "Task 5 attempt"
+                },
+                {
+                    "date": "2023-06-06T01:47:55Z",
+                    "message": "Task 5. Mock logging in"
+                },
+                {
+                    "date": "2023-06-06T01:44:45Z",
+                    "message": "Task 5. Mock logging in"
+                },
+                {
+                    "date": "2023-06-06T01:41:39Z",
+                    "message": "Task 5. Mock logging in"
+                },
+                {
+                    "date": "2023-06-06T01:39:27Z",
+                    "message": "Task 5. Mock logging in"
+                },
+                {
+                    "date": "2023-06-06T01:38:34Z",
+                    "message": "Task 5. Mock logging in"
+                },
+                {
+                    "date": "2023-06-06T01:35:58Z",
+                    "message": "Task 5. Mock logging in"
+                },
+                {
+                    "date": "2023-06-06T01:24:53Z",
+                    "message": "repeating task 3 to try to get task 4..."
+                },
+                {
+                    "date": "2023-06-06T01:23:58Z",
+                    "message": "repeating task 3 to try to get task 4..."
+                },
+                {
+                    "date": "2023-06-06T01:19:57Z",
+                    "message": "Task 4. Force locale with URL parameter"
+                },
+                {
+                    "date": "2023-06-06T01:17:03Z",
+                    "message": "Task 4. Force locale with URL parameter"
+                },
+                {
+                    "date": "2023-06-06T00:45:35Z",
+                    "message": "Task 4. Force locale with URL parameter"
+                },
+                {
+                    "date": "2023-06-06T00:40:55Z",
+                    "message": "Task 4. Force locale with URL parameter"
+                },
+                {
+                    "date": "2023-06-06T00:39:24Z",
+                    "message": "Task 4. Force locale with URL parameter"
+                },
+                {
+                    "date": "2023-06-06T00:37:08Z",
+                    "message": "Task 4. Force locale with URL parameter"
+                },
+                {
+                    "date": "2023-06-06T00:33:38Z",
+                    "message": "Fixing filenames for all render templates"
+                },
+                {
+                    "date": "2023-06-06T00:32:55Z",
+                    "message": "Task 4. Force locale with URL parameter"
+                },
+                {
+                    "date": "2023-06-06T00:32:00Z",
+                    "message": "Task 4. Force locale with URL parameter"
+                },
+                {
+                    "date": "2023-06-06T00:25:01Z",
+                    "message": "Task 4. Force locale with URL parameter"
+                },
+                {
+                    "date": "2023-06-06T00:21:00Z",
+                    "message": "Task 3. Parametrize templates"
+                },
+                {
+                    "date": "2023-06-06T00:19:11Z",
+                    "message": "Task 3. Parametrize templates"
+                },
+                {
+                    "date": "2023-06-06T00:18:44Z",
+                    "message": "Task 3. Parametrize templates"
+                },
+                {
+                    "date": "2023-06-06T00:17:15Z",
+                    "message": "Task 3. Parametrize templates"
+                },
+                {
+                    "date": "2023-06-06T00:16:30Z",
+                    "message": "Task 3. Parametrize templates"
+                },
+                {
+                    "date": "2023-06-06T00:07:26Z",
+                    "message": "Task 3. Parametrize templates"
+                },
+                {
+                    "date": "2023-06-06T00:03:26Z",
+                    "message": "Task 3. Parametrize templates"
+                },
+                {
+                    "date": "2023-06-05T23:53:38Z",
+                    "message": "Task 2. Get locale from request"
+                },
+                {
+                    "date": "2023-06-05T23:52:05Z",
+                    "message": "Task 2. Get locale from request"
+                },
+                {
+                    "date": "2023-06-05T23:49:18Z",
+                    "message": "Task 1. Basic Babel setup"
+                },
+                {
+                    "date": "2023-06-05T23:48:13Z",
+                    "message": "Task 1. Basic Babel setup"
+                },
+                {
+                    "date": "2023-06-05T23:44:50Z",
+                    "message": "Task 1. Basic Babel setup"
+                },
+                {
+                    "date": "2023-06-05T23:43:34Z",
+                    "message": "Task 1. Basic Babel setup"
+                },
+                {
+                    "date": "2023-06-05T23:37:46Z",
+                    "message": "Task 0. Basic Flask app"
+                },
+                {
+                    "date": "2023-06-05T23:36:59Z",
+                    "message": "Task 0. Basic Flask app"
+                },
+                {
+                    "date": "2023-06-05T23:36:11Z",
+                    "message": "Task 0. Basic Flask app"
+                },
+                {
+                    "date": "2023-06-05T19:53:52Z",
+                    "message": "Initial commit for project i18n"
+                },
+                {
+                    "date": "2023-06-05T19:53:40Z",
+                    "message": "Initial commit for project i18n"
+                },
+                {
+                    "date": "2023-06-05T19:10:08Z",
+                    "message": "Initial commit for project i18n"
+                },
+                {
+                    "date": "2023-06-05T18:28:23Z",
+                    "message": "Task 8. Integration test: fixtures"
+                },
+                {
+                    "date": "2023-06-05T18:14:00Z",
+                    "message": "Task 7. Parameterize"
+                },
+                {
+                    "date": "2023-06-05T18:08:10Z",
+                    "message": "Task 6. More patching"
+                },
+                {
+                    "date": "2023-06-05T18:03:53Z",
+                    "message": "Task 6. More patching"
+                },
+                {
+                    "date": "2023-06-05T17:51:18Z",
+                    "message": "Task 5. mocking a property"
+                },
+                {
+                    "date": "2023-06-05T17:50:34Z",
+                    "message": "Task 5. mocking a property"
+                },
+                {
+                    "date": "2023-06-05T17:28:50Z",
+                    "message": "Task 4. Parameterize and patch as decorators"
+                },
+                {
+                    "date": "2023-06-05T17:27:34Z",
+                    "message": "Task 4. Parameterize and patch as decorators"
+                },
+                {
+                    "date": "2023-06-05T16:56:58Z",
+                    "message": "Task 3. Parameterize and patch"
+                },
+                {
+                    "date": "2023-06-05T16:55:09Z",
+                    "message": "Task 3. Parameterize and patch"
+                },
+                {
+                    "date": "2023-06-05T16:31:13Z",
+                    "message": "test_utils.py"
+                },
+                {
+                    "date": "2023-06-05T16:14:19Z",
+                    "message": "Task 1. Parameterize a unit test"
+                },
+                {
+                    "date": "2023-06-05T16:06:00Z",
+                    "message": "Task 0. Parameterize a unit test"
+                },
+                {
+                    "date": "2023-06-05T15:58:24Z",
+                    "message": "Task 0. Parameterize a unit test"
+                },
+                {
+                    "date": "2023-06-05T15:26:12Z",
+                    "message": "Initial commit for project Unittests and Integration Tests"
+                },
+                {
+                    "date": "2023-05-31T07:08:48Z",
+                    "message": "Task 19. Update password end-point"
+                },
+                {
+                    "date": "2023-05-31T07:08:00Z",
+                    "message": "Task 19. Update password end-point"
+                },
+                {
+                    "date": "2023-05-31T07:06:20Z",
+                    "message": "Task 19. Update password end-point"
+                },
+                {
+                    "date": "2023-05-31T06:58:18Z",
+                    "message": "Task 18. Update password"
+                },
+                {
+                    "date": "2023-05-31T06:57:44Z",
+                    "message": "Task 18. Update password"
+                },
+                {
+                    "date": "2023-05-31T06:55:00Z",
+                    "message": "Task 18. Update password"
+                },
+                {
+                    "date": "2023-05-31T06:51:23Z",
+                    "message": "Task 17. Get reset password token"
+                },
+                {
+                    "date": "2023-05-31T06:47:15Z",
+                    "message": "Task 17. Get reset password token"
+                },
+                {
+                    "date": "2023-05-31T06:40:04Z",
+                    "message": "Task 16. Generate reset password token"
+                },
+                {
+                    "date": "2023-05-31T06:34:09Z",
+                    "message": "Task 15. User profile"
+                },
+                {
+                    "date": "2023-05-31T06:26:58Z",
+                    "message": "Task 15. User profile"
+                },
+                {
+                    "date": "2023-05-31T06:23:20Z",
+                    "message": "Task 14. Log out"
+                },
+                {
+                    "date": "2023-05-31T06:22:51Z",
+                    "message": "Task 14. Log out"
+                },
+                {
+                    "date": "2023-05-31T06:19:40Z",
+                    "message": "Task 14. Log out"
+                },
+                {
+                    "date": "2023-05-31T06:13:20Z",
+                    "message": "Task 13. Destroy session"
+                },
+                {
+                    "date": "2023-05-31T06:10:32Z",
+                    "message": "Task 13. Destroy session"
+                },
+                {
+                    "date": "2023-05-31T06:10:18Z",
+                    "message": "Task 13. Destroy session"
+                },
+                {
+                    "date": "2023-05-31T06:09:41Z",
+                    "message": "Task 13. Destroy session"
+                },
+                {
+                    "date": "2023-05-31T06:06:06Z",
+                    "message": "Task 12. Find user by session ID"
+                },
+                {
+                    "date": "2023-05-31T06:01:45Z",
+                    "message": "Task 11. Log in"
+                },
+                {
+                    "date": "2023-05-31T06:01:08Z",
+                    "message": "Task 11. Log in"
+                },
+                {
+                    "date": "2023-05-31T05:48:23Z",
+                    "message": "Task 10. Get session ID"
+                },
+                {
+                    "date": "2023-05-31T05:41:43Z",
+                    "message": "Task 9. Generate UUIDs"
+                },
+                {
+                    "date": "2023-05-31T05:41:15Z",
+                    "message": "Task 9. Generate UUIDs"
+                },
+                {
+                    "date": "2023-05-31T05:40:22Z",
+                    "message": "Task 9. Generate UUIDs"
+                },
+                {
+                    "date": "2023-05-31T05:36:53Z",
+                    "message": "Task 8. Credentials validation"
+                },
+                {
+                    "date": "2023-05-31T05:26:03Z",
+                    "message": "updated requirements"
+                },
+                {
+                    "date": "2023-05-31T05:21:14Z",
+                    "message": "test"
+                },
+                {
+                    "date": "2023-05-31T04:55:40Z",
+                    "message": "Task 7. Register user"
+                },
+                {
+                    "date": "2023-05-31T04:14:54Z",
+                    "message": "Task 6. Basic Flask app"
+                },
+                {
+                    "date": "2023-05-31T04:14:17Z",
+                    "message": "Task 6. Basic Flask app"
+                },
+                {
+                    "date": "2023-05-31T04:13:48Z",
+                    "message": "Task 6. Basic Flask app"
+                },
+                {
+                    "date": "2023-05-31T04:13:45Z",
+                    "message": "Task 6. Basic Flask app"
+                },
+                {
+                    "date": "2023-05-31T04:02:45Z",
+                    "message": "Task 5. Register user"
+                },
+                {
+                    "date": "2023-05-31T03:36:36Z",
+                    "message": "Task 3. update user"
+                },
+                {
+                    "date": "2023-05-31T03:36:06Z",
+                    "message": "Task 3. update user"
+                },
+                {
+                    "date": "2023-05-31T03:35:14Z",
+                    "message": "Task 3. update user"
+                },
+                {
+                    "date": "2023-05-31T03:34:43Z",
+                    "message": "Task 3. update user"
+                },
+                {
+                    "date": "2023-05-31T03:25:25Z",
+                    "message": "Task 3. update user"
+                },
+                {
+                    "date": "2023-05-31T03:22:30Z",
+                    "message": "Task 3. update user"
+                },
+                {
+                    "date": "2023-05-31T03:18:50Z",
+                    "message": "Task 3. update user"
+                },
+                {
+                    "date": "2023-05-31T03:12:36Z",
+                    "message": "Task 2. Find user"
+                },
+                {
+                    "date": "2023-05-31T03:11:54Z",
+                    "message": "Task 2. Find user"
+                },
+                {
+                    "date": "2023-05-31T03:04:38Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-05-31T03:04:26Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-05-31T02:49:13Z",
+                    "message": "Task 1. create user"
+                },
+                {
+                    "date": "2023-05-31T02:47:52Z",
+                    "message": "Task 1. create user"
+                },
+                {
+                    "date": "2023-05-31T02:33:22Z",
+                    "message": "Task 0. User model"
+                },
+                {
+                    "date": "2023-05-31T02:31:14Z",
+                    "message": "Task 0. User model"
+                },
+                {
+                    "date": "2023-05-31T02:11:31Z",
+                    "message": "Task 8. Logout"
+                },
+                {
+                    "date": "2023-05-31T02:10:09Z",
+                    "message": "Task 8. Logout"
+                },
+                {
+                    "date": "2023-05-31T02:08:47Z",
+                    "message": "Task 8. Logout"
+                },
+                {
+                    "date": "2023-05-31T01:15:27Z",
+                    "message": "Task 8. Logout"
+                },
+                {
+                    "date": "2023-05-30T20:00:21Z",
+                    "message": "Changed before_request method logic"
+                },
+                {
+                    "date": "2023-05-30T18:35:50Z",
+                    "message": "Initial commit for project User authentication service"
+                },
+                {
+                    "date": "2023-05-30T16:58:39Z",
+                    "message": "Initial commit for project User authentication service"
+                },
+                {
+                    "date": "2023-05-30T16:07:55Z",
+                    "message": "Task 8 attempt"
+                },
+                {
+                    "date": "2023-05-30T16:03:05Z",
+                    "message": "Task 8 attempt"
+                },
+                {
+                    "date": "2023-05-30T14:44:12Z",
+                    "message": "Task 7 again"
+                },
+                {
+                    "date": "2023-05-30T14:14:33Z",
+                    "message": "Task 7 again"
+                },
+                {
+                    "date": "2023-05-30T01:33:21Z",
+                    "message": "Attempt number 1 trillion of Task 7. New view for Session Authentication"
+                },
+                {
+                    "date": "2023-05-29T13:17:45Z",
+                    "message": "Task 6. Use Session ID for identifying a User"
+                },
+                {
+                    "date": "2023-05-29T13:17:28Z",
+                    "message": "Task 6. Use Session ID for identifying a User"
+                },
+                {
+                    "date": "2023-05-26T19:35:45Z",
+                    "message": "Task 5. Before request"
+                },
+                {
+                    "date": "2023-05-26T19:33:39Z",
+                    "message": "Task 5. Before request"
+                },
+                {
+                    "date": "2023-05-26T19:30:22Z",
+                    "message": "Task 5. Before request"
+                },
+                {
+                    "date": "2023-05-26T19:27:40Z",
+                    "message": "Task 5. Before request"
+                },
+                {
+                    "date": "2023-05-26T19:25:45Z",
+                    "message": "Task 5. Before request"
+                },
+                {
+                    "date": "2023-05-26T19:24:25Z",
+                    "message": "Task 5. Before request"
+                },
+                {
+                    "date": "2023-05-26T19:23:27Z",
+                    "message": "Task 5. Before request"
+                },
+                {
+                    "date": "2023-05-26T19:19:11Z",
+                    "message": "Task 5. Before request"
+                },
+                {
+                    "date": "2023-05-26T19:17:50Z",
+                    "message": "Task 5. Before request"
+                },
+                {
+                    "date": "2023-05-26T19:16:32Z",
+                    "message": "Task 5. Before request"
+                },
+                {
+                    "date": "2023-05-26T19:14:52Z",
+                    "message": "Task 5. Before request"
+                },
+                {
+                    "date": "2023-05-26T19:14:02Z",
+                    "message": "Task 5. Before request"
+                },
+                {
+                    "date": "2023-05-26T19:13:02Z",
+                    "message": "Task 5. Before request"
+                },
+                {
+                    "date": "2023-05-26T19:12:21Z",
+                    "message": "Task 5. Before request"
+                },
+                {
+                    "date": "2023-05-26T19:11:15Z",
+                    "message": "Task 5. Before request"
+                },
+                {
+                    "date": "2023-05-26T19:01:05Z",
+                    "message": "Task 4. Session cookie"
+                },
+                {
+                    "date": "2023-05-26T19:00:21Z",
+                    "message": "Task 4. Session cookie"
+                },
+                {
+                    "date": "2023-05-26T18:51:34Z",
+                    "message": "Task 3. User ID for Session ID"
+                },
+                {
+                    "date": "2023-05-26T18:50:48Z",
+                    "message": "Task 3. User ID for Session ID"
+                },
+                {
+                    "date": "2023-05-26T18:49:36Z",
+                    "message": "Task 3. User ID for Session ID"
+                },
+                {
+                    "date": "2023-05-26T18:41:55Z",
+                    "message": "Task 2. Create a session"
+                },
+                {
+                    "date": "2023-05-26T18:40:23Z",
+                    "message": "Task 2. Create a session"
+                },
+                {
+                    "date": "2023-05-26T17:15:31Z",
+                    "message": "Task 1. Empty session"
+                },
+                {
+                    "date": "2023-05-26T17:09:13Z",
+                    "message": "Task 0. Et moi et moi et moi!"
+                },
+                {
+                    "date": "2023-05-26T16:47:00Z",
+                    "message": "Task 0. Et moi et moi et moi!"
+                },
+                {
+                    "date": "2023-05-26T16:13:53Z",
+                    "message": "Initial commit for project Session authentication"
+                },
+                {
+                    "date": "2023-05-26T16:05:38Z",
+                    "message": "Initial commit for project Session authentication"
+                },
+                {
+                    "date": "2023-05-25T15:43:14Z",
+                    "message": "Task 11. Basic - Overload current_user - and BOOM!"
+                },
+                {
+                    "date": "2023-05-25T15:12:38Z",
+                    "message": "Task 10. Basic - User object"
+                },
+                {
+                    "date": "2023-05-25T14:58:49Z",
+                    "message": "Task 10. Basic - User object"
+                },
+                {
+                    "date": "2023-05-25T14:43:53Z",
+                    "message": "Task 9. Basic - User credentials"
+                },
+                {
+                    "date": "2023-05-25T14:21:33Z",
+                    "message": "Task 8. Basic - Base64 decode"
+                },
+                {
+                    "date": "2023-05-25T13:32:55Z",
+                    "message": "Task 7. Basic - Base64 part"
+                },
+                {
+                    "date": "2023-05-25T13:31:33Z",
+                    "message": "Task 7. Basic - Base64 part"
+                },
+                {
+                    "date": "2023-05-25T13:06:01Z",
+                    "message": "Task 6. Basic auth"
+                },
+                {
+                    "date": "2023-05-25T13:04:07Z",
+                    "message": "Task 6. Basic auth"
+                },
+                {
+                    "date": "2023-05-25T12:58:15Z",
+                    "message": "Task 5. Request validation!"
+                },
+                {
+                    "date": "2023-05-25T12:56:23Z",
+                    "message": "Task 5. Request validation!"
+                },
+                {
+                    "date": "2023-05-25T12:52:53Z",
+                    "message": "Task 5. Request validation!"
+                },
+                {
+                    "date": "2023-05-25T12:52:34Z",
+                    "message": "Task 5. Request validation!"
+                },
+                {
+                    "date": "2023-05-25T12:49:24Z",
+                    "message": "Task 5. Request validation!"
+                },
+                {
+                    "date": "2023-05-23T20:02:49Z",
+                    "message": "Task 4. Define which routes dont need authentication"
+                },
+                {
+                    "date": "2023-05-23T20:02:23Z",
+                    "message": "Task 4. Define which routes dont need authentication"
+                },
+                {
+                    "date": "2023-05-23T19:29:19Z",
+                    "message": "Task 3. Auth class"
+                },
+                {
+                    "date": "2023-05-23T19:28:32Z",
+                    "message": "Task 3. Auth class"
+                },
+                {
+                    "date": "2023-05-23T19:27:40Z",
+                    "message": "Task 3. Auth class"
+                },
+                {
+                    "date": "2023-05-23T19:07:52Z",
+                    "message": "Task 2. Error handler: Forbidden"
+                },
+                {
+                    "date": "2023-05-23T19:02:12Z",
+                    "message": "Task 2. Error handler: Forbidden"
+                },
+                {
+                    "date": "2023-05-23T18:21:09Z",
+                    "message": "Task 1. Error handler: Unauthorized"
+                },
+                {
+                    "date": "2023-05-23T18:12:13Z",
+                    "message": "Task 1. Error handler: Unauthorized"
+                },
+                {
+                    "date": "2023-05-23T18:07:42Z",
+                    "message": "Task 1. Error handler: Unauthorized"
+                },
+                {
+                    "date": "2023-05-23T17:22:58Z",
+                    "message": "Initial commit for project Basic authentication"
+                },
+                {
+                    "date": "2023-05-23T17:11:49Z",
+                    "message": "Initial commit for project Basic authentication"
+                },
+                {
+                    "date": "2023-05-23T14:34:33Z",
+                    "message": "Task 6. Check valid password"
+                },
+                {
+                    "date": "2023-05-23T14:27:27Z",
+                    "message": "Task 5. Encrypting passwords"
+                },
+                {
+                    "date": "2023-05-23T14:26:43Z",
+                    "message": "Task 5. Encrypting passwords"
+                },
+                {
+                    "date": "2023-05-23T14:25:41Z",
+                    "message": "Task 5. Encrypting passwords"
+                },
+                {
+                    "date": "2023-05-23T13:53:51Z",
+                    "message": "Task 4. Read and filter data"
+                },
+                {
+                    "date": "2023-05-23T13:42:35Z",
+                    "message": "Merge branch 'master' of https://github.com/mdallen5393/holbertonschool-web_back_end"
+                },
+                {
+                    "date": "2023-05-23T13:40:21Z",
+                    "message": "Task 4. Read and filter data"
+                },
+                {
+                    "date": "2023-05-23T13:40:21Z",
+                    "message": "Task 3. Connect to a secure database"
+                },
+                {
+                    "date": "2023-05-23T13:16:34Z",
+                    "message": "Task 3. Connect to secure database"
+                },
+                {
+                    "date": "2023-05-23T01:24:20Z",
+                    "message": "Task 2. Create logger"
+                },
+                {
+                    "date": "2023-05-23T01:23:02Z",
+                    "message": "Task 2. Create logger"
+                },
+                {
+                    "date": "2023-05-23T01:21:52Z",
+                    "message": "Task 2. Create logger"
+                },
+                {
+                    "date": "2023-05-23T01:17:20Z",
+                    "message": "Task 2. Create logger"
+                },
+                {
+                    "date": "2023-05-23T01:16:24Z",
+                    "message": "Task 2. Create logger"
+                },
+                {
+                    "date": "2023-05-23T01:13:47Z",
+                    "message": "Task 2. Create logger"
+                },
+                {
+                    "date": "2023-05-23T01:11:05Z",
+                    "message": "Task 2. Create logger"
+                },
+                {
+                    "date": "2023-05-23T01:10:16Z",
+                    "message": "Task 2. Create logger"
+                },
+                {
+                    "date": "2023-05-23T00:22:02Z",
+                    "message": "Task 1. Log formatter"
+                },
+                {
+                    "date": "2023-05-23T00:04:36Z",
+                    "message": "Task 0. Regex-ing"
+                },
+                {
+                    "date": "2023-05-23T00:03:09Z",
+                    "message": "Task 0. Regex-ing"
+                },
+                {
+                    "date": "2023-05-23T00:02:25Z",
+                    "message": "Task 0. Regex-ing"
+                },
+                {
+                    "date": "2023-05-23T00:01:54Z",
+                    "message": "Task 0. Regex-ing"
+                },
+                {
+                    "date": "2023-05-23T00:00:45Z",
+                    "message": "Task 0. Regex-ing"
+                },
+                {
+                    "date": "2023-05-22T23:23:48Z",
+                    "message": "Initial commit for project Personal data"
+                },
+                {
+                    "date": "2023-05-17T20:20:48Z",
+                    "message": "Task 3. Deletion-resilient hypermedia pagination"
+                },
+                {
+                    "date": "2023-05-17T20:20:15Z",
+                    "message": "Task 3. Deletion-resilient hypermedia pagination"
+                },
+                {
+                    "date": "2023-05-17T20:03:24Z",
+                    "message": "Task 2. Hypermedia pagination"
+                },
+                {
+                    "date": "2023-05-17T19:37:47Z",
+                    "message": "Task 1. Simple pagination"
+                },
+                {
+                    "date": "2023-05-17T19:37:09Z",
+                    "message": "Task 1. Simple pagination"
+                },
+                {
+                    "date": "2023-05-17T19:35:34Z",
+                    "message": "Task 1. Simple pagination"
+                },
+                {
+                    "date": "2023-05-17T19:03:57Z",
+                    "message": "Task 0. Simple helper function"
+                },
+                {
+                    "date": "2023-05-17T19:03:11Z",
+                    "message": "Task 0. Simple helper function"
+                },
+                {
+                    "date": "2023-05-17T18:41:55Z",
+                    "message": "Task 0. Simple helper function"
+                },
+                {
+                    "date": "2023-05-17T18:41:36Z",
+                    "message": "Task 0. Simple helper function"
+                },
+                {
+                    "date": "2023-05-17T17:32:39Z",
+                    "message": "Initial commit for project Pagination"
+                },
+                {
+                    "date": "2023-05-17T17:25:19Z",
+                    "message": "Task 4. MRU caching"
+                },
+                {
+                    "date": "2023-05-17T16:32:12Z",
+                    "message": "Task 3. LRU caching"
+                },
+                {
+                    "date": "2023-05-16T19:49:15Z",
+                    "message": "Task 2. LIFO caching"
+                },
+                {
+                    "date": "2023-05-16T19:48:18Z",
+                    "message": "Task 2. LIFO caching"
+                },
+                {
+                    "date": "2023-05-16T19:23:35Z",
+                    "message": "Task 1. FIFO caching"
+                },
+                {
+                    "date": "2023-05-16T19:15:53Z",
+                    "message": "Task 1. FIFO caching"
+                },
+                {
+                    "date": "2023-05-16T00:35:12Z",
+                    "message": "Task 0. Basic dictionary"
+                },
+                {
+                    "date": "2023-05-16T00:31:50Z",
+                    "message": "Task 0. Basic dictionary"
+                },
+                {
+                    "date": "2023-05-16T00:22:36Z",
+                    "message": "Initial commit for project Caching"
+                },
+                {
+                    "date": "2023-05-16T00:21:31Z",
+                    "message": "Initial commit for project Caching"
+                },
+                {
+                    "date": "2023-05-15T17:53:59Z",
+                    "message": "Initial commit for project Caching"
+                },
+                {
+                    "date": "2023-05-10T15:22:45Z",
+                    "message": "Task 2. Run time for four parallel comprehensions"
+                },
+                {
+                    "date": "2023-05-10T15:01:58Z",
+                    "message": "Task 1. Async Comprehensions"
+                },
+                {
+                    "date": "2023-05-10T14:50:50Z",
+                    "message": "Task 0. Async Generator; initial commit for project Python - Async Comprehension"
+                },
+                {
+                    "date": "2023-05-10T14:16:13Z",
+                    "message": "Task 2.Task 2 correction"
+                },
+                {
+                    "date": "2023-05-09T19:19:34Z",
+                    "message": "Initial commit for project Python - Async Comprehension"
+                },
+                {
+                    "date": "2023-05-09T19:04:08Z",
+                    "message": "Task 4. Tasks"
+                },
+                {
+                    "date": "2023-05-09T18:56:45Z",
+                    "message": "Task 3. Tasks"
+                },
+                {
+                    "date": "2023-05-09T18:55:55Z",
+                    "message": "Task 3. Tasks"
+                },
+                {
+                    "date": "2023-05-09T18:49:44Z",
+                    "message": "Task 2. Measure the runtime"
+                },
+                {
+                    "date": "2023-05-09T18:33:51Z",
+                    "message": "Task 1. Lets execute multiple coroutines at the same time with async"
+                },
+                {
+                    "date": "2023-05-09T18:33:03Z",
+                    "message": "Task 1. Lets execute multiple coroutines at the same time with async"
+                },
+                {
+                    "date": "2023-05-09T16:35:11Z",
+                    "message": "Task 1. Lets execute multiple coroutines at the same time with async"
+                },
+                {
+                    "date": "2023-05-09T16:34:25Z",
+                    "message": "Task 1. Lets execute multiple coroutines at the same time with async"
+                },
+                {
+                    "date": "2023-05-09T16:30:28Z",
+                    "message": "Task 1. Lets execute multiple coroutines at the same time with async"
+                },
+                {
+                    "date": "2023-05-09T16:16:17Z",
+                    "message": "Task 0. The basics of async"
+                },
+                {
+                    "date": "2023-05-09T16:05:51Z",
+                    "message": "Task 0. The basics of async"
+                },
+                {
+                    "date": "2023-05-09T16:02:12Z",
+                    "message": "Task 0. The basics of async"
+                },
+                {
+                    "date": "2023-05-09T01:01:08Z",
+                    "message": "Initial commit for project Python - Async"
+                },
+                {
+                    "date": "2023-05-09T00:45:59Z",
+                    "message": "updated gitignore"
+                },
+                {
+                    "date": "2023-05-09T00:36:26Z",
+                    "message": "Task 9. Lets duck type an iterable object"
+                },
+                {
+                    "date": "2023-05-09T00:35:31Z",
+                    "message": "Task 9. Lets duck type an iterable object"
+                },
+                {
+                    "date": "2023-05-09T00:34:46Z",
+                    "message": "Task 9. Lets duck type an iterable object"
+                },
+                {
+                    "date": "2023-05-09T00:18:40Z",
+                    "message": "Task 8. Complex types - functions"
+                },
+                {
+                    "date": "2023-05-09T00:18:26Z",
+                    "message": "Task 8. Complex types - functions"
+                },
+                {
+                    "date": "2023-05-09T00:18:03Z",
+                    "message": "Task 8. Complex types - functions"
+                },
+                {
+                    "date": "2023-05-09T00:16:59Z",
+                    "message": "Task 8. Complex types - functions"
+                },
+                {
+                    "date": "2023-05-09T00:00:36Z",
+                    "message": "Task 7. Complex types - string and int/float to tuple"
+                },
+                {
+                    "date": "2023-05-08T19:48:55Z",
+                    "message": "Task 6. Complex types - mixed list"
+                },
+                {
+                    "date": "2023-05-08T19:40:47Z",
+                    "message": "Task 5. Complex types - list of floats"
+                },
+                {
+                    "date": "2023-05-08T19:32:16Z",
+                    "message": "Task 4. Define variables"
+                },
+                {
+                    "date": "2023-05-08T19:27:28Z",
+                    "message": "Task 4. Define variables"
+                },
+                {
+                    "date": "2023-05-08T19:24:43Z",
+                    "message": "Task 3. Basic annotations - to string"
+                },
+                {
+                    "date": "2023-05-08T19:22:02Z",
+                    "message": "Task 2. Basic annotations - floor"
+                },
+                {
+                    "date": "2023-05-08T19:18:45Z",
+                    "message": "Task 1. Basic annotations - concat"
+                },
+                {
+                    "date": "2023-05-08T19:18:11Z",
+                    "message": "Task 1. Basic annotations - concat"
+                },
+                {
+                    "date": "2023-05-08T19:12:04Z",
+                    "message": "Task 0. Basic annotations - add"
+                },
+                {
+                    "date": "2023-05-08T19:07:05Z",
+                    "message": "Task 0. Basic annotations - add"
+                },
+                {
+                    "date": "2023-05-08T19:02:21Z",
+                    "message": "Initial commit for project Python - Variable Annotations"
+                },
+                {
+                    "date": "2023-05-08T19:01:23Z",
+                    "message": "Initial commit for project Python - Variable Annotations"
+                },
+                {
+                    "date": "2023-05-08T18:58:59Z",
+                    "message": "Initial commit for project Python - Variable Annotations"
+                },
+                {
+                    "date": "2023-01-30T20:10:14Z",
+                    "message": "committing final changes"
+                },
+                {
+                    "date": "2023-01-19T03:46:04Z",
+                    "message": "Task 10"
+                },
+                {
+                    "date": "2023-01-19T03:45:22Z",
+                    "message": "Task 10"
+                },
+                {
+                    "date": "2023-01-19T03:41:18Z",
+                    "message": "Task 10"
+                },
+                {
+                    "date": "2023-01-19T03:35:18Z",
+                    "message": "Task 10"
+                },
+                {
+                    "date": "2023-01-19T03:13:03Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-19T03:11:41Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-19T03:09:34Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-19T02:49:43Z",
+                    "message": "Task 8"
+                },
+                {
+                    "date": "2023-01-19T02:39:07Z",
+                    "message": "Task 8"
+                },
+                {
+                    "date": "2023-01-19T02:37:09Z",
+                    "message": "Task 8"
+                },
+                {
+                    "date": "2023-01-19T02:09:06Z",
+                    "message": "Task 8"
+                },
+                {
+                    "date": "2023-01-19T02:07:27Z",
+                    "message": "Task 8"
+                },
+                {
+                    "date": "2023-01-19T02:05:46Z",
+                    "message": "Task 8"
+                },
+                {
+                    "date": "2023-01-19T00:55:51Z",
+                    "message": "task 8"
+                },
+                {
+                    "date": "2023-01-18T18:56:48Z",
+                    "message": "Task 7"
+                },
+                {
+                    "date": "2023-01-18T18:55:56Z",
+                    "message": "Task 7"
+                },
+                {
+                    "date": "2023-01-18T18:54:33Z",
+                    "message": "Task 7"
+                },
+                {
+                    "date": "2023-01-18T18:07:14Z",
+                    "message": "Task 6"
+                },
+                {
+                    "date": "2023-01-18T18:06:42Z",
+                    "message": "Task 6"
+                },
+                {
+                    "date": "2023-01-18T18:03:36Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-18T18:01:57Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-18T18:01:42Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-18T17:59:41Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-18T17:57:49Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-18T17:55:06Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-18T17:53:37Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-18T17:52:06Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-18T17:46:09Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-18T17:44:58Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-18T17:37:01Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-18T17:36:21Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-18T17:33:27Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-18T17:31:43Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-18T17:30:22Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-18T17:28:08Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-18T17:17:56Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-18T17:13:58Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-18T17:09:25Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-18T16:50:02Z",
+                    "message": "Task 3"
+                },
+                {
+                    "date": "2023-01-18T16:49:27Z",
+                    "message": "Task 3"
+                },
+                {
+                    "date": "2023-01-18T16:48:17Z",
+                    "message": "Task 3"
+                },
+                {
+                    "date": "2023-01-18T16:45:53Z",
+                    "message": "Task 3"
+                },
+                {
+                    "date": "2023-01-18T16:44:03Z",
+                    "message": "Task 3"
+                },
+                {
+                    "date": "2023-01-18T16:38:07Z",
+                    "message": "Task 2"
+                },
+                {
+                    "date": "2023-01-18T16:33:18Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-18T16:32:05Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-18T16:30:14Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-18T16:29:30Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-18T16:29:16Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-18T16:27:57Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-18T16:23:33Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-18T16:11:22Z",
+                    "message": "Task 0"
+                },
+                {
+                    "date": "2023-01-18T16:10:31Z",
+                    "message": "Task 0"
+                },
+                {
+                    "date": "2023-01-18T15:56:44Z",
+                    "message": "Initial commit for project 0x03. ES6 data manipulation"
+                },
+                {
+                    "date": "2023-01-18T15:51:19Z",
+                    "message": "Initial commit for project 0x03. ES6 data manipulation"
+                },
+                {
+                    "date": "2023-01-12T14:26:13Z",
+                    "message": "Committing changes for gitignore and readme"
+                },
+                {
+                    "date": "2023-01-11T20:41:16Z",
+                    "message": "Task 10"
+                },
+                {
+                    "date": "2023-01-11T20:41:02Z",
+                    "message": "Task 10"
+                },
+                {
+                    "date": "2023-01-11T20:40:22Z",
+                    "message": "Task 10"
+                },
+                {
+                    "date": "2023-01-11T20:39:28Z",
+                    "message": "Task 10"
+                },
+                {
+                    "date": "2023-01-11T20:24:37Z",
+                    "message": "Task 8"
+                },
+                {
+                    "date": "2023-01-11T20:20:23Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-11T19:58:36Z",
+                    "message": "Task 8"
+                },
+                {
+                    "date": "2023-01-11T19:46:33Z",
+                    "message": "Task 7"
+                },
+                {
+                    "date": "2023-01-11T19:45:45Z",
+                    "message": "Task 7"
+                },
+                {
+                    "date": "2023-01-11T19:44:53Z",
+                    "message": "Task 7"
+                },
+                {
+                    "date": "2023-01-11T19:40:16Z",
+                    "message": "Task 6"
+                },
+                {
+                    "date": "2023-01-11T17:49:53Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-11T16:41:16Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-11T15:52:50Z",
+                    "message": "Task 3"
+                },
+                {
+                    "date": "2023-01-11T15:38:55Z",
+                    "message": "Task 2"
+                },
+                {
+                    "date": "2023-01-11T15:15:02Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-10T21:01:23Z",
+                    "message": "Task 0"
+                },
+                {
+                    "date": "2023-01-10T21:00:24Z",
+                    "message": "Task 0"
+                },
+                {
+                    "date": "2023-01-10T20:59:34Z",
+                    "message": "Task 0"
+                },
+                {
+                    "date": "2023-01-10T20:57:09Z",
+                    "message": "Task 0"
+                },
+                {
+                    "date": "2023-01-10T20:56:42Z",
+                    "message": "Task 0"
+                },
+                {
+                    "date": "2023-01-10T20:29:36Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-10T20:09:39Z",
+                    "message": "Task 8"
+                },
+                {
+                    "date": "2023-01-10T20:03:34Z",
+                    "message": "Task 7"
+                },
+                {
+                    "date": "2023-01-10T20:02:14Z",
+                    "message": "Task 7"
+                },
+                {
+                    "date": "2023-01-10T19:34:10Z",
+                    "message": "Task 6"
+                },
+                {
+                    "date": "2023-01-10T19:33:26Z",
+                    "message": "Task 6"
+                },
+                {
+                    "date": "2023-01-10T18:17:16Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-10T18:16:32Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-10T18:14:39Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-10T18:10:10Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-10T17:17:02Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-10T17:14:58Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-10T17:06:17Z",
+                    "message": "Task 3"
+                },
+                {
+                    "date": "2023-01-10T17:04:59Z",
+                    "message": "Task 3"
+                },
+                {
+                    "date": "2023-01-10T17:03:05Z",
+                    "message": "Task 3"
+                },
+                {
+                    "date": "2023-01-10T16:53:41Z",
+                    "message": "Task 3"
+                },
+                {
+                    "date": "2023-01-10T16:04:42Z",
+                    "message": "Task 2"
+                },
+                {
+                    "date": "2023-01-10T14:56:29Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-10T14:55:20Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-10T14:36:55Z",
+                    "message": "Task 0: Thanks Lyndon"
+                },
+                {
+                    "date": "2023-01-09T00:08:35Z",
+                    "message": "Task 12"
+                },
+                {
+                    "date": "2023-01-09T00:07:23Z",
+                    "message": "Task 12"
+                },
+                {
+                    "date": "2023-01-08T19:22:08Z",
+                    "message": "Task 11"
+                },
+                {
+                    "date": "2023-01-08T19:21:00Z",
+                    "message": "Task 11"
+                },
+                {
+                    "date": "2023-01-06T21:46:05Z",
+                    "message": "Task 10"
+                },
+                {
+                    "date": "2023-01-06T21:44:09Z",
+                    "message": "Task 10"
+                },
+                {
+                    "date": "2023-01-06T21:43:17Z",
+                    "message": "Task 10"
+                },
+                {
+                    "date": "2023-01-06T21:31:36Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-06T21:27:40Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-06T21:27:13Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-06T21:11:33Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-06T21:10:36Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-06T21:08:15Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-06T21:07:10Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-06T21:06:16Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-06T20:53:10Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-06T20:52:20Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-06T20:50:56Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-06T20:46:41Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-06T20:46:27Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-06T20:36:48Z",
+                    "message": "Task 8"
+                },
+                {
+                    "date": "2023-01-06T20:32:33Z",
+                    "message": "Task 7"
+                },
+                {
+                    "date": "2023-01-06T20:31:46Z",
+                    "message": "Task 7"
+                },
+                {
+                    "date": "2023-01-06T20:21:01Z",
+                    "message": "Task 6"
+                },
+                {
+                    "date": "2023-01-06T20:03:30Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-06T20:01:22Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-06T19:55:28Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-06T19:25:25Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-06T19:24:29Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-06T19:22:17Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-06T19:18:32Z",
+                    "message": "Task 3"
+                },
+                {
+                    "date": "2023-01-06T19:15:16Z",
+                    "message": "Task 2"
+                },
+                {
+                    "date": "2023-01-06T18:36:21Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-06T18:33:49Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-06T18:32:02Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-06T18:29:47Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-06T18:29:09Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-06T18:28:41Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-06T18:27:36Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-06T18:18:00Z",
+                    "message": "Added gitignore"
+                },
+                {
+                    "date": "2023-01-06T17:57:45Z",
+                    "message": "Task 0"
+                }
+            ]
+        },
+        "holbertonschool-web_front_end": {
+            "earliest_date": "2023-01-20T19:11:14",
+            "latest_date": "2023-03-28T13:33:46",
+            "total_commits": 353,
+            "commit_messages": [
+                {
+                    "date": "2023-03-28T13:33:46Z",
+                    "message": "comitting misc. changes"
+                },
+                {
+                    "date": "2023-03-28T13:33:29Z",
+                    "message": "committing misc. changes"
+                },
+                {
+                    "date": "2023-03-28T05:32:00Z",
+                    "message": "Task 7. Advanced use of web storage"
+                },
+                {
+                    "date": "2023-03-28T04:49:55Z",
+                    "message": "Task 6. Session storage"
+                },
+                {
+                    "date": "2023-03-28T04:43:42Z",
+                    "message": "Task 5. Local storage"
+                },
+                {
+                    "date": "2023-03-28T04:16:48Z",
+                    "message": "Task 4. Use js-cookie"
+                },
+                {
+                    "date": "2023-03-28T03:58:49Z",
+                    "message": "Task 3. Delete cookie and mini application"
+                },
+                {
+                    "date": "2023-03-28T03:52:16Z",
+                    "message": "Task 3. Delete cookie and mini application"
+                },
+                {
+                    "date": "2023-03-28T03:12:38Z",
+                    "message": "Task 2. Read cookie"
+                },
+                {
+                    "date": "2023-03-27T20:11:16Z",
+                    "message": "Task 1. Create cookie with expiration date and specific path"
+                },
+                {
+                    "date": "2023-03-27T19:49:18Z",
+                    "message": "Task 0. Create basic cookie"
+                },
+                {
+                    "date": "2023-03-27T19:25:33Z",
+                    "message": "Initial commit for project 0x02. Cookies & local storage"
+                },
+                {
+                    "date": "2023-03-27T19:15:46Z",
+                    "message": "changes"
+                },
+                {
+                    "date": "2023-03-27T13:55:37Z",
+                    "message": "Task 12. Delete query"
+                },
+                {
+                    "date": "2023-03-27T13:17:08Z",
+                    "message": "Task 11. Post query"
+                },
+                {
+                    "date": "2023-03-24T19:38:43Z",
+                    "message": "Task 10. Another Get API"
+                },
+                {
+                    "date": "2023-03-24T19:24:34Z",
+                    "message": "Task 9. Wrap/unwrap"
+                },
+                {
+                    "date": "2023-03-24T19:20:30Z",
+                    "message": "Task 9. Wrap/unwrap"
+                },
+                {
+                    "date": "2023-03-24T18:03:25Z",
+                    "message": "Task 8. Pagination"
+                },
+                {
+                    "date": "2023-03-23T16:29:20Z",
+                    "message": "Task 7. Query - Setup your dev environment"
+                },
+                {
+                    "date": "2023-03-22T05:35:37Z",
+                    "message": "Task 6. Val, before, and prepend functions"
+                },
+                {
+                    "date": "2023-03-22T04:42:43Z",
+                    "message": "Task 5. Click attribute and remove function"
+                },
+                {
+                    "date": "2023-03-22T04:31:42Z",
+                    "message": "Task 4. HTML function"
+                },
+                {
+                    "date": "2023-03-22T04:23:03Z",
+                    "message": "Task 4. HTML function"
+                },
+                {
+                    "date": "2023-03-22T04:15:20Z",
+                    "message": "Updated task 3 to include thead and tbody elements in the table"
+                },
+                {
+                    "date": "2023-03-22T04:11:27Z",
+                    "message": "Task 3. Chain DOM elements"
+                },
+                {
+                    "date": "2023-03-22T03:50:59Z",
+                    "message": "updated task names for tasks 1 and 2; Task 2. Creating multiple DOM elements at once"
+                },
+                {
+                    "date": "2023-03-22T03:49:26Z",
+                    "message": "updated task names for tasks 1 and 2; Task 2. Creating multiple DOM elements at once"
+                },
+                {
+                    "date": "2023-03-22T02:29:39Z",
+                    "message": "Task 1. Creating a DOM element"
+                },
+                {
+                    "date": "2023-03-20T14:28:23Z",
+                    "message": "Task 0. Setup your dev environment"
+                },
+                {
+                    "date": "2023-03-20T13:44:45Z",
+                    "message": "Initial commit for project 0x01. jQuery advanced"
+                },
+                {
+                    "date": "2023-03-14T18:49:01Z",
+                    "message": "Task 14. Simple callback"
+                },
+                {
+                    "date": "2023-03-14T18:24:35Z",
+                    "message": "Task 13. Binding + Closure"
+                },
+                {
+                    "date": "2023-03-14T18:14:44Z",
+                    "message": "Task 12. Binding"
+                },
+                {
+                    "date": "2023-03-14T17:48:05Z",
+                    "message": "Tasks 9-11. fixed return value for countPrimeNumbers"
+                },
+                {
+                    "date": "2023-03-14T17:44:51Z",
+                    "message": "Task 11. Changing stack order using setTimeout"
+                },
+                {
+                    "date": "2023-03-14T17:41:24Z",
+                    "message": "Tasks 9 and 10 corrected isPrime function"
+                },
+                {
+                    "date": "2023-03-14T17:12:53Z",
+                    "message": "Task 10. Execution stack & timing execution"
+                },
+                {
+                    "date": "2023-03-14T17:11:47Z",
+                    "message": "Task 10. Execution stack & timing execution"
+                },
+                {
+                    "date": "2023-03-14T17:11:28Z",
+                    "message": "Task 9. Prime numbers & timing execution"
+                },
+                {
+                    "date": "2023-03-14T17:07:02Z",
+                    "message": "Task 9. Prime numbers & timing execution"
+                },
+                {
+                    "date": "2023-03-14T16:10:31Z",
+                    "message": "Task 8. Stack order in functions"
+                },
+                {
+                    "date": "2023-03-14T15:54:51Z",
+                    "message": "Task 7. Stack order and setTimeout"
+                },
+                {
+                    "date": "2023-03-14T15:49:22Z",
+                    "message": "Task 5. Changing DOM with closure"
+                },
+                {
+                    "date": "2023-03-14T14:31:08Z",
+                    "message": "Task 6. Private methods with closure"
+                },
+                {
+                    "date": "2023-03-13T14:38:59Z",
+                    "message": "Task 4. Complex closure"
+                },
+                {
+                    "date": "2023-03-13T14:23:35Z",
+                    "message": "Task 3. Closure and loops"
+                },
+                {
+                    "date": "2023-03-13T14:00:01Z",
+                    "message": "Task 2. Closure"
+                },
+                {
+                    "date": "2023-03-13T13:53:19Z",
+                    "message": "Task 1. Closure scope chain"
+                },
+                {
+                    "date": "2023-03-13T13:46:25Z",
+                    "message": "Task 0. Lexical scoping and welcome message"
+                },
+                {
+                    "date": "2023-03-12T16:52:15Z",
+                    "message": "Initial commit for project 0x00. JavaScript advanced"
+                },
+                {
+                    "date": "2023-03-01T20:11:27Z",
+                    "message": "Task 6"
+                },
+                {
+                    "date": "2023-03-01T19:50:14Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-03-01T17:52:21Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-02-28T21:16:21Z",
+                    "message": "Task 3"
+                },
+                {
+                    "date": "2023-02-28T19:42:14Z",
+                    "message": "Task 2"
+                },
+                {
+                    "date": "2023-02-28T14:59:32Z",
+                    "message": "Initial commit for project 0x00. Bootstrap; Tasks 0 & 1"
+                },
+                {
+                    "date": "2023-02-16T03:21:34Z",
+                    "message": "deleted accidental change"
+                },
+                {
+                    "date": "2023-02-16T03:19:08Z",
+                    "message": "Task 11. More than 2 elements become list"
+                },
+                {
+                    "date": "2023-02-16T03:18:00Z",
+                    "message": "Task 11. More than 2 elements become list"
+                },
+                {
+                    "date": "2023-02-16T03:14:40Z",
+                    "message": "Task 10. Document must have one main landmark"
+                },
+                {
+                    "date": "2023-02-16T03:14:03Z",
+                    "message": "Task 10. Document must have one main landmark"
+                },
+                {
+                    "date": "2023-02-16T01:47:50Z",
+                    "message": "Task 9. Heading levels should only increase by one and all page content must be contained by landmarks"
+                },
+                {
+                    "date": "2023-02-16T01:39:36Z",
+                    "message": "Task 8. Zooming and scaling must not be disabled"
+                },
+                {
+                    "date": "2023-02-16T01:38:26Z",
+                    "message": "Task 7. Links must have discernable text"
+                },
+                {
+                    "date": "2023-02-16T01:36:46Z",
+                    "message": "Task 6. Form elements must have labels"
+                },
+                {
+                    "date": "2023-02-16T01:33:01Z",
+                    "message": "Task 5. Imges must have alternative text"
+                },
+                {
+                    "date": "2023-02-16T01:30:51Z",
+                    "message": "Task 3. Documents must have <title> element to aid in navigation"
+                },
+                {
+                    "date": "2023-02-16T01:30:29Z",
+                    "message": "Task 3. Documents must have <title> element to aid in navigation"
+                },
+                {
+                    "date": "2023-02-16T01:29:04Z",
+                    "message": "Task 3. Documents must have <title> element to aid in navigation"
+                },
+                {
+                    "date": "2023-02-16T01:24:20Z",
+                    "message": "Task 2. Elements must have sufficient color contrast"
+                },
+                {
+                    "date": "2023-02-16T01:20:58Z",
+                    "message": "Task 1. add the skip-links"
+                },
+                {
+                    "date": "2023-02-16T01:12:23Z",
+                    "message": "Task 1. add the skip-links"
+                },
+                {
+                    "date": "2023-02-16T01:11:07Z",
+                    "message": "Task 1. add the skip-links"
+                },
+                {
+                    "date": "2023-02-16T01:09:33Z",
+                    "message": "Task 1. add the skip-links"
+                },
+                {
+                    "date": "2023-02-16T01:08:04Z",
+                    "message": "Task 1. add the skip-links"
+                },
+                {
+                    "date": "2023-02-16T00:26:14Z",
+                    "message": "Task 0. make the works card focus visible"
+                },
+                {
+                    "date": "2023-02-16T00:09:56Z",
+                    "message": "Initial commit for project 0x03. Accessibility"
+                },
+                {
+                    "date": "2023-02-15T23:51:59Z",
+                    "message": "fixing github..."
+                },
+                {
+                    "date": "2023-02-15T23:48:55Z",
+                    "message": "fixing github..."
+                },
+                {
+                    "date": "2023-02-15T21:10:39Z",
+                    "message": "Task 7. formatted search bar"
+                },
+                {
+                    "date": "2023-02-15T20:52:07Z",
+                    "message": "Task 6. added error handling"
+                },
+                {
+                    "date": "2023-02-15T20:30:33Z",
+                    "message": "Task 4. added help messages"
+                },
+                {
+                    "date": "2023-02-15T20:28:58Z",
+                    "message": "Task 4. added help messages"
+                },
+                {
+                    "date": "2023-02-15T20:06:59Z",
+                    "message": "Task 3. created and styled input boxes"
+                },
+                {
+                    "date": "2023-02-15T19:57:17Z",
+                    "message": "Task 3. created and styled input boxes"
+                },
+                {
+                    "date": "2023-02-15T19:54:21Z",
+                    "message": "Added form fields and button"
+                },
+                {
+                    "date": "2023-02-15T17:55:10Z",
+                    "message": "Added form fields and button"
+                },
+                {
+                    "date": "2023-02-15T17:42:11Z",
+                    "message": "Task 1. added hidden fieldsets and styling"
+                },
+                {
+                    "date": "2023-02-15T17:41:31Z",
+                    "message": "Task 1. added hidden fieldsets and styling"
+                },
+                {
+                    "date": "2023-02-15T17:40:00Z",
+                    "message": "Task 1. added hidden fieldsets and styling"
+                },
+                {
+                    "date": "2023-02-15T17:09:30Z",
+                    "message": "Task 0. added basic form"
+                },
+                {
+                    "date": "2023-02-14T14:28:54Z",
+                    "message": "Initial commit for project 0x02. Forms"
+                },
+                {
+                    "date": "2023-02-08T17:43:53Z",
+                    "message": "Task 14. add the share social icons"
+                },
+                {
+                    "date": "2023-02-08T17:43:17Z",
+                    "message": "Task 14. add the share social icons"
+                },
+                {
+                    "date": "2023-02-08T17:40:48Z",
+                    "message": "Task 14. add the share social icons"
+                },
+                {
+                    "date": "2023-02-08T17:37:15Z",
+                    "message": "Task 13. updated the meta list inside the aside section"
+                },
+                {
+                    "date": "2023-02-08T17:36:04Z",
+                    "message": "Task 13. updated the meta list inside the aside section"
+                },
+                {
+                    "date": "2023-02-08T17:35:13Z",
+                    "message": "Task 13. updated the meta list inside the aside section"
+                },
+                {
+                    "date": "2023-02-08T17:20:46Z",
+                    "message": "Task 13. updated the meta list inside the aside section"
+                },
+                {
+                    "date": "2023-02-08T17:02:17Z",
+                    "message": "Task 12. provided structure for main article"
+                },
+                {
+                    "date": "2023-02-08T16:58:02Z",
+                    "message": "Task 12. provided structure for main article"
+                },
+                {
+                    "date": "2023-02-08T16:49:57Z",
+                    "message": "Task 12. changed structure of main article"
+                },
+                {
+                    "date": "2023-02-08T16:47:01Z",
+                    "message": "Task 12. changed structure of main article"
+                },
+                {
+                    "date": "2023-02-08T16:37:12Z",
+                    "message": "Task 12. changed structure of main article"
+                },
+                {
+                    "date": "2023-02-08T16:30:00Z",
+                    "message": "Task 11. updated hero banner"
+                },
+                {
+                    "date": "2023-02-08T16:10:59Z",
+                    "message": "Task 10. updated hero styles"
+                },
+                {
+                    "date": "2023-02-08T15:57:53Z",
+                    "message": "Task 9. aligned about us section"
+                },
+                {
+                    "date": "2023-02-08T15:48:06Z",
+                    "message": "Task 8. simplify the hero banner"
+                },
+                {
+                    "date": "2023-02-08T15:42:22Z",
+                    "message": "Task 7. align center logo and navbar"
+                },
+                {
+                    "date": "2023-02-08T14:47:41Z",
+                    "message": "Task 6. flexify the navbar"
+                },
+                {
+                    "date": "2023-02-08T14:36:40Z",
+                    "message": "Task 5. flexify the header"
+                },
+                {
+                    "date": "2023-02-08T14:31:23Z",
+                    "message": "Task 4. changed spacing between services"
+                },
+                {
+                    "date": "2023-02-08T14:26:39Z",
+                    "message": "Task 3. simplifies services list by combining it and using flex-wrap to achieve same result"
+                },
+                {
+                    "date": "2023-02-08T14:19:58Z",
+                    "message": "Task 2. reversed order of latest news cards"
+                },
+                {
+                    "date": "2023-02-08T14:14:06Z",
+                    "message": "Task 1. added new classes to each section tag"
+                },
+                {
+                    "date": "2023-02-08T14:13:10Z",
+                    "message": "Task 1. added new classes to each section tag"
+                },
+                {
+                    "date": "2023-02-08T14:05:41Z",
+                    "message": "Task 0. added display flex"
+                },
+                {
+                    "date": "2023-02-08T14:05:09Z",
+                    "message": "Task 0. added display flex"
+                },
+                {
+                    "date": "2023-02-07T03:48:39Z",
+                    "message": "Initial commit for project 0x01. Flexbox"
+                },
+                {
+                    "date": "2023-02-06T02:41:10Z",
+                    "message": "Added gitignore"
+                },
+                {
+                    "date": "2023-02-06T02:39:57Z",
+                    "message": "Task 12. sass file that uses @for loop to create H* tags for each heading level"
+                },
+                {
+                    "date": "2023-02-06T02:39:09Z",
+                    "message": "Task 12. sass file that uses @for loop to create H* tags for each heading level"
+                },
+                {
+                    "date": "2023-02-06T02:35:21Z",
+                    "message": "Task 11. sass file that creates a class for each name in the list using @import and @each"
+                },
+                {
+                    "date": "2023-02-06T02:29:58Z",
+                    "message": "Task 10. sass file that uses @import for color variables from another file"
+                },
+                {
+                    "date": "2023-02-06T02:17:34Z",
+                    "message": "Task 9. corrected name of file"
+                },
+                {
+                    "date": "2023-02-06T02:16:42Z",
+                    "message": "Task 9. used extend to style .info class elements"
+                },
+                {
+                    "date": "2023-02-06T02:08:30Z",
+                    "message": "Task 8. sass file that assigns left and right margins using a mixin"
+                },
+                {
+                    "date": "2023-02-06T01:57:36Z",
+                    "message": "Task 7. sass file that assigns font sizes to body, h1, and smaller tags using nested declarations"
+                },
+                {
+                    "date": "2023-02-06T01:53:29Z",
+                    "message": "Task 6. sass file that styles button tags and hover pseudoelements using nested declarations"
+                },
+                {
+                    "date": "2023-02-06T01:50:17Z",
+                    "message": "Task 5. sass file that styles body elements and .red classes within using nested declarations"
+                },
+                {
+                    "date": "2023-02-06T01:48:39Z",
+                    "message": "Task 4. sass file that styles body tags and .red classes inside body using nested declarations"
+                },
+                {
+                    "date": "2023-02-06T01:46:27Z",
+                    "message": "Task 3. sass file that uses nested declarations to style body tags and p tags inside of the body"
+                },
+                {
+                    "date": "2023-02-06T01:43:31Z",
+                    "message": "Task 2. sass file that adds background color to body and h2 elements"
+                },
+                {
+                    "date": "2023-02-06T01:42:23Z",
+                    "message": "Task 2. sass file that adds background color to body and h2 elements"
+                },
+                {
+                    "date": "2023-02-06T01:40:04Z",
+                    "message": "Task 1. sass file that assigns the text color #3D3D3D to the HTML tags `body` and `p`"
+                },
+                {
+                    "date": "2023-02-06T01:36:09Z",
+                    "message": "Task 0. file that prints `Hello world` in the debug output"
+                },
+                {
+                    "date": "2023-02-06T01:35:16Z",
+                    "message": "Task 0. file that prints `Hello world` in the debug output"
+                },
+                {
+                    "date": "2023-02-06T01:33:30Z",
+                    "message": "Initial commit for project 0x00. sass & scss"
+                },
+                {
+                    "date": "2023-02-02T17:33:30Z",
+                    "message": "Task 9 and 10"
+                },
+                {
+                    "date": "2023-02-02T17:01:50Z",
+                    "message": "Task 8"
+                },
+                {
+                    "date": "2023-02-02T16:25:40Z",
+                    "message": "Task 7. made font size responsive"
+                },
+                {
+                    "date": "2023-02-02T16:14:00Z",
+                    "message": "Fixed task 6"
+                },
+                {
+                    "date": "2023-01-31T19:38:35Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-31T19:38:12Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-31T19:28:49Z",
+                    "message": "Tasks 3"
+                },
+                {
+                    "date": "2023-01-31T18:44:27Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-31T18:43:25Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-31T18:42:22Z",
+                    "message": "recommit task 4"
+                },
+                {
+                    "date": "2023-01-31T18:13:35Z",
+                    "message": "Task 4. Created mobile icons and hid the menu"
+                },
+                {
+                    "date": "2023-01-31T16:40:35Z",
+                    "message": "Task 3. added image breakpoints"
+                },
+                {
+                    "date": "2023-01-31T14:01:43Z",
+                    "message": "Task 1. Make the container flexible by setting max-width instead of width"
+                },
+                {
+                    "date": "2023-01-31T13:59:19Z",
+                    "message": "Task 0. fixed hero banner"
+                },
+                {
+                    "date": "2023-01-30T22:57:19Z",
+                    "message": "Initial commit for project 0x03. Responsive design"
+                },
+                {
+                    "date": "2023-01-30T20:10:27Z",
+                    "message": "committing final changes"
+                },
+                {
+                    "date": "2023-01-30T20:08:49Z",
+                    "message": "Task 34"
+                },
+                {
+                    "date": "2023-01-30T20:06:51Z",
+                    "message": "Task 33"
+                },
+                {
+                    "date": "2023-01-30T20:06:10Z",
+                    "message": "Task 33"
+                },
+                {
+                    "date": "2023-01-30T20:04:55Z",
+                    "message": "Task 32"
+                },
+                {
+                    "date": "2023-01-30T20:03:58Z",
+                    "message": "Task 31"
+                },
+                {
+                    "date": "2023-01-30T20:01:14Z",
+                    "message": "Task 30"
+                },
+                {
+                    "date": "2023-01-30T19:55:46Z",
+                    "message": "Task 29"
+                },
+                {
+                    "date": "2023-01-30T19:46:12Z",
+                    "message": "Task 28"
+                },
+                {
+                    "date": "2023-01-30T19:44:04Z",
+                    "message": "Task 27"
+                },
+                {
+                    "date": "2023-01-30T19:25:57Z",
+                    "message": "Task 26"
+                },
+                {
+                    "date": "2023-01-30T19:25:10Z",
+                    "message": "Task 26"
+                },
+                {
+                    "date": "2023-01-30T19:24:09Z",
+                    "message": "Task 25"
+                },
+                {
+                    "date": "2023-01-30T19:22:44Z",
+                    "message": "Task 24"
+                },
+                {
+                    "date": "2023-01-30T19:20:51Z",
+                    "message": "Task 23"
+                },
+                {
+                    "date": "2023-01-30T19:14:26Z",
+                    "message": "Task 22"
+                },
+                {
+                    "date": "2023-01-30T19:13:04Z",
+                    "message": "Task 21"
+                },
+                {
+                    "date": "2023-01-30T19:10:50Z",
+                    "message": "Task 20"
+                },
+                {
+                    "date": "2023-01-30T19:10:12Z",
+                    "message": "Task 20"
+                },
+                {
+                    "date": "2023-01-30T19:09:24Z",
+                    "message": "Task 19"
+                },
+                {
+                    "date": "2023-01-30T19:09:01Z",
+                    "message": "Task 19"
+                },
+                {
+                    "date": "2023-01-30T19:07:54Z",
+                    "message": "Task 18"
+                },
+                {
+                    "date": "2023-01-30T19:05:02Z",
+                    "message": "Task 17"
+                },
+                {
+                    "date": "2023-01-30T19:02:47Z",
+                    "message": "Task 16"
+                },
+                {
+                    "date": "2023-01-30T18:58:11Z",
+                    "message": "Task 15"
+                },
+                {
+                    "date": "2023-01-30T18:57:10Z",
+                    "message": "Task 14"
+                },
+                {
+                    "date": "2023-01-30T18:55:57Z",
+                    "message": "Task 13"
+                },
+                {
+                    "date": "2023-01-30T18:53:47Z",
+                    "message": "Task 13"
+                },
+                {
+                    "date": "2023-01-30T18:51:44Z",
+                    "message": "Task 12"
+                },
+                {
+                    "date": "2023-01-30T18:32:08Z",
+                    "message": "Task 11"
+                },
+                {
+                    "date": "2023-01-30T18:31:40Z",
+                    "message": "Task 11"
+                },
+                {
+                    "date": "2023-01-30T17:45:59Z",
+                    "message": "Task 10"
+                },
+                {
+                    "date": "2023-01-30T17:42:47Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-30T17:42:23Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-30T17:41:56Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-30T17:39:37Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-30T17:38:54Z",
+                    "message": "Task 9"
+                },
+                {
+                    "date": "2023-01-30T17:35:42Z",
+                    "message": "Task 8"
+                },
+                {
+                    "date": "2023-01-30T17:34:48Z",
+                    "message": "Task 8"
+                },
+                {
+                    "date": "2023-01-30T17:32:11Z",
+                    "message": "Task 7"
+                },
+                {
+                    "date": "2023-01-30T17:30:02Z",
+                    "message": "Task 6"
+                },
+                {
+                    "date": "2023-01-30T17:26:15Z",
+                    "message": "Task 5"
+                },
+                {
+                    "date": "2023-01-30T17:21:06Z",
+                    "message": "Task 4"
+                },
+                {
+                    "date": "2023-01-30T17:07:39Z",
+                    "message": "Initial commit for Project 0x02. Developer tools; tasks 0-3"
+                },
+                {
+                    "date": "2023-01-24T01:10:22Z",
+                    "message": "Task 32. added transitions"
+                },
+                {
+                    "date": "2023-01-24T01:09:51Z",
+                    "message": "Task 32. added transitions"
+                },
+                {
+                    "date": "2023-01-24T01:09:31Z",
+                    "message": "Task 32. added transitions"
+                },
+                {
+                    "date": "2023-01-24T01:04:49Z",
+                    "message": "Task 32. added transitions"
+                },
+                {
+                    "date": "2023-01-24T01:03:48Z",
+                    "message": "Task 32. added transitions"
+                },
+                {
+                    "date": "2023-01-24T00:52:49Z",
+                    "message": "Task 31. styled quotes inside of testimonials"
+                },
+                {
+                    "date": "2023-01-24T00:48:13Z",
+                    "message": "Task 30. styled the works section"
+                },
+                {
+                    "date": "2023-01-24T00:45:17Z",
+                    "message": "Task 30. styled the works section"
+                },
+                {
+                    "date": "2023-01-24T00:37:50Z",
+                    "message": "Task 29. added styling for nav"
+                },
+                {
+                    "date": "2023-01-24T00:37:08Z",
+                    "message": "Task 29. added styling for nav"
+                },
+                {
+                    "date": "2023-01-24T00:36:27Z",
+                    "message": "Task 29. added styling for nav"
+                },
+                {
+                    "date": "2023-01-24T00:35:45Z",
+                    "message": "Task 29. added styling for nav"
+                },
+                {
+                    "date": "2023-01-24T00:31:23Z",
+                    "message": "Task 28. added style to header"
+                },
+                {
+                    "date": "2023-01-24T00:25:33Z",
+                    "message": "Task 27. hero section styling"
+                },
+                {
+                    "date": "2023-01-24T00:24:37Z",
+                    "message": "Task 27. hero section styling"
+                },
+                {
+                    "date": "2023-01-24T00:23:59Z",
+                    "message": "Task 27. hero section styling"
+                },
+                {
+                    "date": "2023-01-24T00:21:12Z",
+                    "message": "Task 26. styled the card-testimonial section"
+                },
+                {
+                    "date": "2023-01-24T00:17:48Z",
+                    "message": "Task 25. Added styling to buttons"
+                },
+                {
+                    "date": "2023-01-24T00:16:49Z",
+                    "message": "Task 25. Added styling to buttons"
+                },
+                {
+                    "date": "2023-01-24T00:11:16Z",
+                    "message": "Task 24. added background and hover state to services"
+                },
+                {
+                    "date": "2023-01-24T00:10:29Z",
+                    "message": "Task 24. added background and hover state to services"
+                },
+                {
+                    "date": "2023-01-24T00:07:06Z",
+                    "message": "Task 23. added fixes to footer-address, social-link, and svg classes for dark mode"
+                },
+                {
+                    "date": "2023-01-24T00:05:56Z",
+                    "message": "Task 23. added fixes to footer-address, social-link, and svg classes for dark mode"
+                },
+                {
+                    "date": "2023-01-24T00:05:09Z",
+                    "message": "Task 23. added fixes to footer-address, social-link, and svg classes for dark mode"
+                },
+                {
+                    "date": "2023-01-24T00:04:23Z",
+                    "message": "Task 23. added fixes to footer-address, social-link, and svg classes for dark mode"
+                },
+                {
+                    "date": "2023-01-24T00:03:30Z",
+                    "message": "Task 23. added fixes to footer-address, social-link, and svg classes for dark mode"
+                },
+                {
+                    "date": "2023-01-24T00:00:14Z",
+                    "message": "Task 22. Added dark theme"
+                },
+                {
+                    "date": "2023-01-23T23:55:53Z",
+                    "message": "Task 21. added selector for classes starting with col-"
+                },
+                {
+                    "date": "2023-01-23T23:51:00Z",
+                    "message": "Task 20. added means of creating new empty rows after each instance of the class row"
+                },
+                {
+                    "date": "2023-01-23T23:38:09Z",
+                    "message": "Task 19. added grid styling"
+                },
+                {
+                    "date": "2023-01-23T23:37:34Z",
+                    "message": "Task 19. added grid styling"
+                },
+                {
+                    "date": "2023-01-23T23:28:19Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:27:23Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:25:19Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:20:25Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:19:54Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:17:44Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:17:19Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:16:42Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:16:18Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:14:21Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:14:01Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:13:37Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:10:05Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:09:30Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:08:35Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:08:14Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:06:08Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:05:42Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:05:21Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:02:41Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:01:54Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T23:00:51Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T22:59:02Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T22:58:07Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T22:50:50Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T20:44:18Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T20:43:11Z",
+                    "message": "Task 18. added styling to nav elements"
+                },
+                {
+                    "date": "2023-01-23T20:25:30Z",
+                    "message": "Task 17"
+                },
+                {
+                    "date": "2023-01-23T20:24:01Z",
+                    "message": "Task 17"
+                },
+                {
+                    "date": "2023-01-23T20:23:17Z",
+                    "message": "Task 17"
+                },
+                {
+                    "date": "2023-01-23T20:22:34Z",
+                    "message": "Task 17"
+                },
+                {
+                    "date": "2023-01-23T20:21:10Z",
+                    "message": "Task 17"
+                },
+                {
+                    "date": "2023-01-23T20:09:38Z",
+                    "message": "Task 16. added styling to container class"
+                },
+                {
+                    "date": "2023-01-23T20:04:29Z",
+                    "message": "Task 15. added universal box-sizing rule"
+                },
+                {
+                    "date": "2023-01-23T20:03:55Z",
+                    "message": "Task 15. added universal box-sizing rule"
+                },
+                {
+                    "date": "2023-01-23T19:56:13Z",
+                    "message": "Task 14. normalized css file using necolas normalize.css"
+                },
+                {
+                    "date": "2023-01-23T19:54:27Z",
+                    "message": "Task 14. normalized css file using necolas normalize.css"
+                },
+                {
+                    "date": "2023-01-23T19:53:30Z",
+                    "message": "Task 14. normalized css file using necolas normalize.css"
+                },
+                {
+                    "date": "2023-01-23T19:53:05Z",
+                    "message": "Task 14. normalized css file using necolas normalize.css"
+                },
+                {
+                    "date": "2023-01-23T19:51:48Z",
+                    "message": "Task 14. normalized css file using necolas normalize.css"
+                },
+                {
+                    "date": "2023-01-23T18:56:16Z",
+                    "message": "Task 13. added styling for links in various states"
+                },
+                {
+                    "date": "2023-01-23T18:55:49Z",
+                    "message": "Task 13. added styling for links in various states"
+                },
+                {
+                    "date": "2023-01-23T18:55:08Z",
+                    "message": "Task 13. added styling for links in various states"
+                },
+                {
+                    "date": "2023-01-23T18:27:54Z",
+                    "message": "Task 12. added styles to section-title class"
+                },
+                {
+                    "date": "2023-01-23T18:22:02Z",
+                    "message": "Task 11. transformed and added properties to section-tagline"
+                },
+                {
+                    "date": "2023-01-23T18:19:10Z",
+                    "message": "Task 10. add custom property for section-header-align"
+                },
+                {
+                    "date": "2023-01-23T18:18:27Z",
+                    "message": "Task 10. add custom property for section-header-align"
+                },
+                {
+                    "date": "2023-01-23T17:34:40Z",
+                    "message": "Task 9. removed text decoration from anchors"
+                },
+                {
+                    "date": "2023-01-23T17:22:24Z",
+                    "message": "Task 8. defined custom line heights and applied it to body"
+                },
+                {
+                    "date": "2023-01-23T17:20:26Z",
+                    "message": "Task 7. added google fonts into font-family-base and font-family-title"
+                },
+                {
+                    "date": "2023-01-23T17:18:33Z",
+                    "message": "Task 6. added font weights"
+                },
+                {
+                    "date": "2023-01-23T17:14:24Z",
+                    "message": "Task 5. added font sizes and styled html and body elements"
+                },
+                {
+                    "date": "2023-01-23T17:02:27Z",
+                    "message": "Task 4. added custom font families and applied them to body and headings"
+                },
+                {
+                    "date": "2023-01-23T17:01:46Z",
+                    "message": "Task 4. added custom font families and applied them to body and headings"
+                },
+                {
+                    "date": "2023-01-23T16:54:17Z",
+                    "message": "Task 4. added custom font families and applied them to body and headings"
+                },
+                {
+                    "date": "2023-01-23T16:50:06Z",
+                    "message": "Task 4. added custom font families and applied them to body and headings"
+                },
+                {
+                    "date": "2023-01-23T16:49:31Z",
+                    "message": "Task 4. added custom font families and applied them to body and headings"
+                },
+                {
+                    "date": "2023-01-23T16:32:24Z",
+                    "message": "Task 3. add custom colors and change defined colors to custom"
+                },
+                {
+                    "date": "2023-01-23T16:31:35Z",
+                    "message": "Task 3. add custom colors and change defined colors to custom"
+                },
+                {
+                    "date": "2023-01-23T16:30:49Z",
+                    "message": "Task 3. add custom colors and change defined colors to custom"
+                },
+                {
+                    "date": "2023-01-23T16:30:20Z",
+                    "message": "Task 3. add custom colors and change defined colors to custom"
+                },
+                {
+                    "date": "2023-01-23T16:18:53Z",
+                    "message": "Task 2. added styles for body, anchors as well as various classes"
+                },
+                {
+                    "date": "2023-01-23T15:56:00Z",
+                    "message": "Task 1. Added smooth scrolling to the html element"
+                },
+                {
+                    "date": "2023-01-23T15:52:40Z",
+                    "message": "Task 0. added readme"
+                },
+                {
+                    "date": "2023-01-23T15:32:58Z",
+                    "message": "Task 0. added project images"
+                },
+                {
+                    "date": "2023-01-22T23:47:38Z",
+                    "message": "Task 39: added iframe to styleguide"
+                },
+                {
+                    "date": "2023-01-22T23:47:00Z",
+                    "message": "Task 39: added iframe to styleguide"
+                },
+                {
+                    "date": "2023-01-22T23:44:01Z",
+                    "message": "Task 39: added audio section to styleguide"
+                },
+                {
+                    "date": "2023-01-22T23:40:51Z",
+                    "message": "Task 39: added audio section to styleguide"
+                },
+                {
+                    "date": "2023-01-22T23:39:54Z",
+                    "message": "Task 39: added audio section to styleguide"
+                },
+                {
+                    "date": "2023-01-22T23:37:35Z",
+                    "message": "Task 38"
+                },
+                {
+                    "date": "2023-01-22T23:35:26Z",
+                    "message": "Task 38"
+                },
+                {
+                    "date": "2023-01-22T23:27:47Z",
+                    "message": "Task 27: added social media icons in footer"
+                },
+                {
+                    "date": "2023-01-22T23:23:13Z",
+                    "message": "Task 36: added images"
+                },
+                {
+                    "date": "2023-01-22T22:40:13Z",
+                    "message": "Task 35: added logo to header and footer"
+                },
+                {
+                    "date": "2023-01-22T22:39:25Z",
+                    "message": "Task 35: added logo to header and footer"
+                },
+                {
+                    "date": "2023-01-22T20:50:05Z",
+                    "message": "Task 34: added details section to styleguide"
+                },
+                {
+                    "date": "2023-01-22T20:35:00Z",
+                    "message": "Task 33: added table section to styleguide"
+                },
+                {
+                    "date": "2023-01-22T20:28:58Z",
+                    "message": "Task 32: added typography section"
+                },
+                {
+                    "date": "2023-01-22T20:22:53Z",
+                    "message": "Task 31: added address into contact section as well as authors for each article in the latest news section"
+                },
+                {
+                    "date": "2023-01-22T20:20:43Z",
+                    "message": "Task 31"
+                },
+                {
+                    "date": "2023-01-22T20:16:02Z",
+                    "message": "Task 30: added blockquotes to styleguide"
+                },
+                {
+                    "date": "2023-01-22T20:11:50Z",
+                    "message": "Task 29: added testimonials with author citations"
+                },
+                {
+                    "date": "2023-01-22T20:07:10Z",
+                    "message": "Task 28: added horizontal rule section to styleguide"
+                },
+                {
+                    "date": "2023-01-22T20:05:39Z",
+                    "message": "Task 27: added horizontal rule and copyright to footer"
+                },
+                {
+                    "date": "2023-01-22T20:03:19Z",
+                    "message": "Task 26: added lists to styleguide"
+                },
+                {
+                    "date": "2023-01-22T20:02:46Z",
+                    "message": "Task 26: added lists to styleguide"
+                },
+                {
+                    "date": "2023-01-22T19:57:09Z",
+                    "message": "Task 25: added terms of use, privacy, and cookie policies to footer"
+                },
+                {
+                    "date": "2023-01-22T19:55:34Z",
+                    "message": "Task 24: moved content in nav and footer into lists"
+                },
+                {
+                    "date": "2023-01-22T19:51:23Z",
+                    "message": "Task 23: added links to level 3 heading elements in services, works, and latest news sections"
+                },
+                {
+                    "date": "2023-01-22T19:38:25Z",
+                    "message": "Task 22: Added links"
+                },
+                {
+                    "date": "2023-01-22T19:37:19Z",
+                    "message": "Task 22: Added links"
+                },
+                {
+                    "date": "2023-01-22T19:33:26Z",
+                    "message": "Task 21: added social media links to footer"
+                },
+                {
+                    "date": "2023-01-22T19:31:34Z",
+                    "message": "Task 20. Added links/anchors to nav tag"
+                },
+                {
+                    "date": "2023-01-22T19:28:14Z",
+                    "message": "Task 19. created about, latest news, and contact pages"
+                },
+                {
+                    "date": "2023-01-22T19:27:02Z",
+                    "message": "Task 19. created about, latest news, and contact pages"
+                },
+                {
+                    "date": "2023-01-22T19:25:14Z",
+                    "message": "Task 18. added link to logo"
+                },
+                {
+                    "date": "2023-01-22T19:22:48Z",
+                    "message": "Task 17: added comments for sections"
+                },
+                {
+                    "date": "2023-01-22T19:16:24Z",
+                    "message": "Task 16: added headers and divs to content"
+                },
+                {
+                    "date": "2023-01-22T19:06:55Z",
+                    "message": "Task 15. wrapped contents of header, sections, and footer into divs"
+                },
+                {
+                    "date": "2023-01-22T19:03:49Z",
+                    "message": "Task 15. wrapped contents of header, sections, and footer into divs"
+                },
+                {
+                    "date": "2023-01-22T19:02:00Z",
+                    "message": "Task 15. wrapped contents of header, sections, and footer into divs"
+                },
+                {
+                    "date": "2023-01-22T18:59:13Z",
+                    "message": "Task 14. created Techium span"
+                },
+                {
+                    "date": "2023-01-22T18:57:58Z",
+                    "message": "Added to styleguide"
+                },
+                {
+                    "date": "2023-01-22T18:56:37Z",
+                    "message": "Added to styleguide"
+                },
+                {
+                    "date": "2023-01-22T18:55:03Z",
+                    "message": "Added to styleguide"
+                },
+                {
+                    "date": "2023-01-22T18:52:32Z",
+                    "message": "Task 12. added paragraph elements to several sections"
+                },
+                {
+                    "date": "2023-01-22T18:46:19Z",
+                    "message": "Task 11. created header styleguide"
+                },
+                {
+                    "date": "2023-01-22T18:43:18Z",
+                    "message": "Task 10. Added level 3 headings"
+                },
+                {
+                    "date": "2023-01-22T18:42:39Z",
+                    "message": "Task 10. Added level 3 headings"
+                },
+                {
+                    "date": "2023-01-22T18:38:04Z",
+                    "message": "Task 9. added headers to all sections"
+                },
+                {
+                    "date": "2023-01-22T18:35:17Z",
+                    "message": "Task 8"
+                },
+                {
+                    "date": "2023-01-22T18:34:10Z",
+                    "message": "Task 7"
+                },
+                {
+                    "date": "2023-01-22T18:33:12Z",
+                    "message": "Task 6: added article tags to works, news, and testimonials section"
+                },
+                {
+                    "date": "2023-01-22T18:29:55Z",
+                    "message": "Task 5. create sections inside of main tags"
+                },
+                {
+                    "date": "2023-01-22T18:27:33Z",
+                    "message": "Added article.html with aside tag"
+                },
+                {
+                    "date": "2023-01-22T18:25:44Z",
+                    "message": "Task 3: Added header, body, and footer elements"
+                },
+                {
+                    "date": "2023-01-22T18:21:52Z",
+                    "message": "Task 2: added title, description, and favicon"
+                },
+                {
+                    "date": "2023-01-22T18:21:03Z",
+                    "message": "Task 2: added title, description, and favicon"
+                },
+                {
+                    "date": "2023-01-22T18:10:25Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-22T18:09:54Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-22T18:07:08Z",
+                    "message": "Task 0"
+                },
+                {
+                    "date": "2023-01-22T18:02:49Z",
+                    "message": "README for repo"
+                },
+                {
+                    "date": "2023-01-20T19:11:14Z",
+                    "message": "Initial commit for project 0x00. Advanced HTML"
+                }
+            ]
+        },
+        "holbertonschool-web_graphql": {
+            "earliest_date": "2023-07-13T16:44:15",
+            "latest_date": "2023-07-20T16:54:47",
+            "total_commits": 9,
+            "commit_messages": [
+                {
+                    "date": "2023-07-20T16:54:47Z",
+                    "message": "Task 13. Tasks details query"
+                },
+                {
+                    "date": "2023-07-19T14:01:52Z",
+                    "message": "Task 9. Add the front-end part and setup Apollo Client"
+                },
+                {
+                    "date": "2023-07-19T01:07:04Z",
+                    "message": "Task 6. Connecting to mongoDB Atlas and create mongoose models"
+                },
+                {
+                    "date": "2023-07-18T17:46:02Z",
+                    "message": "Task 5. More on root queries: projects and tasks"
+                },
+                {
+                    "date": "2023-07-18T16:25:50Z",
+                    "message": "Task 4. Type relations"
+                },
+                {
+                    "date": "2023-07-14T19:19:39Z",
+                    "message": "Added RootQuery"
+                },
+                {
+                    "date": "2023-07-14T18:00:01Z",
+                    "message": "Task 0. GraphQL Schema - initialized express server and added TaskType schema"
+                },
+                {
+                    "date": "2023-07-13T16:58:21Z",
+                    "message": "README.md"
+                },
+                {
+                    "date": "2023-07-13T16:44:15Z",
+                    "message": "Initial commit"
+                }
+            ]
+        },
+        "holbertonschool-web_react": {
+            "earliest_date": "2023-01-17T15:30:41",
+            "latest_date": "2023-09-28T13:23:27",
+            "total_commits": 146,
+            "commit_messages": [
+                {
+                    "date": "2023-09-28T13:23:27Z",
+                    "message": "attempted test fix"
+                },
+                {
+                    "date": "2023-09-26T16:59:51Z",
+                    "message": "Redid task 7 to fix tests; still missing 1"
+                },
+                {
+                    "date": "2023-09-26T16:44:15Z",
+                    "message": "Redid task 6 to get tests to pass"
+                },
+                {
+                    "date": "2023-09-26T15:38:05Z",
+                    "message": "Removed task_7 changes from task_6"
+                },
+                {
+                    "date": "2023-09-26T14:24:51Z",
+                    "message": "Copied from task_6 to task_7; installed testing packages"
+                },
+                {
+                    "date": "2023-09-26T14:22:40Z",
+                    "message": "Copied from task_6 to task_7; installed testing packages"
+                },
+                {
+                    "date": "2023-09-26T13:35:59Z",
+                    "message": "Task 6. bounded actions"
+                },
+                {
+                    "date": "2023-09-25T23:50:07Z",
+                    "message": "Copied task_5 to task_6"
+                },
+                {
+                    "date": "2023-09-25T23:47:41Z",
+                    "message": "Task 5. created actions for notification list and tests"
+                },
+                {
+                    "date": "2023-09-25T23:33:43Z",
+                    "message": "Copied files from task_4 to task_5"
+                },
+                {
+                    "date": "2023-09-25T23:31:47Z",
+                    "message": "Task 4. added uiActionCreators"
+                },
+                {
+                    "date": "2023-09-25T23:05:11Z",
+                    "message": "Copied files from task_3 to task_4"
+                },
+                {
+                    "date": "2023-09-25T23:02:10Z",
+                    "message": "Task 3. added course action creatorsand tests"
+                },
+                {
+                    "date": "2023-09-25T22:46:51Z",
+                    "message": "Copied task_2 to task_3"
+                },
+                {
+                    "date": "2023-09-25T22:39:48Z",
+                    "message": "Copied files from task_1 to task_2"
+                },
+                {
+                    "date": "2023-09-25T22:37:30Z",
+                    "message": "Task 2. normalized data and added normalization tests"
+                },
+                {
+                    "date": "2023-09-25T19:23:00Z",
+                    "message": "copied files from task_0 to task_1"
+                },
+                {
+                    "date": "2023-09-25T19:21:03Z",
+                    "message": "Added ability to retrieve notifications by user from JSON file"
+                },
+                {
+                    "date": "2023-09-25T17:54:49Z",
+                    "message": "Added login-success.json and notifications.json"
+                },
+                {
+                    "date": "2023-09-25T04:52:38Z",
+                    "message": "Added README.md and renamed task directory to task_0"
+                },
+                {
+                    "date": "2023-09-25T04:46:30Z",
+                    "message": "Initial commit for project React Redux action creator+normalizr"
+                },
+                {
+                    "date": "2023-09-25T04:43:56Z",
+                    "message": "Task 4. added hook to CourseListRow to change color when selected"
+                },
+                {
+                    "date": "2023-09-25T04:25:59Z",
+                    "message": "Copied files from task_3 to task_4"
+                },
+                {
+                    "date": "2023-09-25T04:21:06Z",
+                    "message": "Added/updated Notification tests"
+                },
+                {
+                    "date": "2023-09-25T03:47:47Z",
+                    "message": "Added/updated Notification tests"
+                },
+                {
+                    "date": "2023-09-25T02:27:58Z",
+                    "message": "Task 3. modified Footer to display Contact us if logged in"
+                },
+                {
+                    "date": "2023-09-25T02:09:39Z",
+                    "message": "Copied task_2 to task_3"
+                },
+                {
+                    "date": "2023-09-25T02:08:16Z",
+                    "message": "Task 2. refactored App.test.js to use state; added tests for logIn/logOut"
+                },
+                {
+                    "date": "2023-09-25T01:41:19Z",
+                    "message": "Task 2. added tests for Header logout"
+                },
+                {
+                    "date": "2023-09-25T00:27:23Z",
+                    "message": "Wrapped App with AppContext"
+                },
+                {
+                    "date": "2023-09-24T23:16:20Z",
+                    "message": "copied stuff to task 2"
+                },
+                {
+                    "date": "2023-09-24T23:04:34Z",
+                    "message": "Task 2. added new context and updated App to use context for login and logout"
+                },
+                {
+                    "date": "2023-09-24T22:10:51Z",
+                    "message": "Task 1. Added tests for login functionality"
+                },
+                {
+                    "date": "2023-09-24T22:01:39Z",
+                    "message": "Added functionality to login form"
+                },
+                {
+                    "date": "2023-09-24T21:37:59Z",
+                    "message": "Copied files from task 0 to task 1"
+                },
+                {
+                    "date": "2023-09-24T19:21:40Z",
+                    "message": "fighting with the checker..."
+                },
+                {
+                    "date": "2023-09-24T19:01:14Z",
+                    "message": "fighting with the checker..."
+                },
+                {
+                    "date": "2023-09-24T18:58:52Z",
+                    "message": "Completed task 0. can now toggle notifications panel"
+                },
+                {
+                    "date": "2023-09-24T18:57:10Z",
+                    "message": "Completed task 0. can now toggle notifications panel"
+                },
+                {
+                    "date": "2023-09-24T18:53:49Z",
+                    "message": "Completed task 0. can now toggle notifications panel"
+                },
+                {
+                    "date": "2023-09-24T18:51:15Z",
+                    "message": "Completed task 0. can now toggle notifications panel"
+                },
+                {
+                    "date": "2023-09-24T18:49:24Z",
+                    "message": "Completed task 0. can now toggle notifications panel"
+                },
+                {
+                    "date": "2023-09-24T15:54:18Z",
+                    "message": "Task 0. added state to App and displayDrawer; added tests for displayDrawer"
+                },
+                {
+                    "date": "2023-09-22T16:53:05Z",
+                    "message": "Initial commit for task 0"
+                },
+                {
+                    "date": "2023-09-21T16:51:56Z",
+                    "message": "Initial commit for project React state"
+                },
+                {
+                    "date": "2023-09-14T23:23:12Z",
+                    "message": "Added fade/bounce animation to displayDrawer element"
+                },
+                {
+                    "date": "2023-09-14T18:36:35Z",
+                    "message": "Made design responsive"
+                },
+                {
+                    "date": "2023-09-14T16:26:33Z",
+                    "message": "Made Login component responsive"
+                },
+                {
+                    "date": "2023-09-14T13:20:41Z",
+                    "message": "Task 3. copied files from task_2 directory"
+                },
+                {
+                    "date": "2023-09-14T04:28:45Z",
+                    "message": "Fixed NotificationItem; fixed broken Notifications tests due to this change"
+                },
+                {
+                    "date": "2023-09-14T04:11:55Z",
+                    "message": "Modified CourseListRow to use aphrodite"
+                },
+                {
+                    "date": "2023-09-14T04:04:57Z",
+                    "message": "copied files from task_1 to task_2"
+                },
+                {
+                    "date": "2023-09-14T04:03:45Z",
+                    "message": "copied files from task_1 to task_2"
+                },
+                {
+                    "date": "2023-09-14T03:41:39Z",
+                    "message": "fighting checker"
+                },
+                {
+                    "date": "2023-09-14T03:39:59Z",
+                    "message": "fighting checker"
+                },
+                {
+                    "date": "2023-09-14T03:38:19Z",
+                    "message": "fighting checker"
+                },
+                {
+                    "date": "2023-09-14T03:36:54Z",
+                    "message": "fighting checker"
+                },
+                {
+                    "date": "2023-09-14T03:36:21Z",
+                    "message": "fighting checker"
+                },
+                {
+                    "date": "2023-09-14T03:35:32Z",
+                    "message": "fighting checker"
+                },
+                {
+                    "date": "2023-09-14T03:34:29Z",
+                    "message": "updated style names to match checker"
+                },
+                {
+                    "date": "2023-09-14T03:32:07Z",
+                    "message": "Converted all css to aphrodite"
+                },
+                {
+                    "date": "2023-09-14T02:42:11Z",
+                    "message": "converted to using Aphrodite for css in App"
+                },
+                {
+                    "date": "2023-09-13T19:31:14Z",
+                    "message": "copied files from task 0"
+                },
+                {
+                    "date": "2023-09-13T19:30:50Z",
+                    "message": "copied files from task 0"
+                },
+                {
+                    "date": "2023-09-13T19:26:08Z",
+                    "message": "copied files from task 0"
+                },
+                {
+                    "date": "2023-09-13T19:25:10Z",
+                    "message": "Made a fix for displayDrawer and isLoggedIn"
+                },
+                {
+                    "date": "2023-09-13T18:19:17Z",
+                    "message": "Task 0. added inline styling for rows"
+                },
+                {
+                    "date": "2023-09-13T17:36:03Z",
+                    "message": "Initial commit for project React_inline_styling"
+                },
+                {
+                    "date": "2023-09-13T17:14:43Z",
+                    "message": "Initial commit for project React_inline_styling"
+                },
+                {
+                    "date": "2023-09-13T03:56:47Z",
+                    "message": "task 11. added testing for re-rendering NotificationItems"
+                },
+                {
+                    "date": "2023-09-13T03:38:40Z",
+                    "message": "Task 10. added shouldComponentUpdate to Notifications"
+                },
+                {
+                    "date": "2023-09-13T03:35:32Z",
+                    "message": "Task 9. converted NotificationItem into a PureComponent (React.memo)"
+                },
+                {
+                    "date": "2023-09-13T03:28:41Z",
+                    "message": "copied files to task_5 directory"
+                },
+                {
+                    "date": "2023-09-13T03:27:39Z",
+                    "message": "Task 8. wrote testing for WithLogging HOC"
+                },
+                {
+                    "date": "2023-09-13T03:01:31Z",
+                    "message": "Completed task 7. created an HOC that logs when a component is mounted or unmounted"
+                },
+                {
+                    "date": "2023-09-13T02:49:16Z",
+                    "message": "Copied files to task_4"
+                },
+                {
+                    "date": "2023-09-13T02:48:07Z",
+                    "message": "Task 6. added tests for BodySection and BodySectionWithMarginBottom"
+                },
+                {
+                    "date": "2023-09-13T02:29:49Z",
+                    "message": "Completed task 5: wrapped CourseList and Login and added BodySection to App"
+                },
+                {
+                    "date": "2023-09-13T02:16:44Z",
+                    "message": "copied files to task_3 directory"
+                },
+                {
+                    "date": "2023-09-13T02:00:01Z",
+                    "message": "Task 4. Specialization - added BodySectionWithMarginBottom"
+                },
+                {
+                    "date": "2023-09-13T01:43:49Z",
+                    "message": "Task 2. completed and checked"
+                },
+                {
+                    "date": "2023-09-13T01:38:55Z",
+                    "message": "Task 2. completed changes"
+                },
+                {
+                    "date": "2023-09-13T01:18:47Z",
+                    "message": "Restarting task 2"
+                },
+                {
+                    "date": "2023-09-12T21:54:23Z",
+                    "message": "Task 2. converted Notifications to React class & updated tests"
+                },
+                {
+                    "date": "2023-09-12T19:58:47Z",
+                    "message": "Moved files into task_1 directory instead of task_0"
+                },
+                {
+                    "date": "2023-09-12T19:57:07Z",
+                    "message": "Task 1. added logOut prop to App with keydown event listener; updated App tests"
+                },
+                {
+                    "date": "2023-09-12T18:50:50Z",
+                    "message": "Task 0. attempting to get check by installing jest in devDependencies"
+                },
+                {
+                    "date": "2023-09-12T18:44:22Z",
+                    "message": "Task 0. changed App to a React class"
+                },
+                {
+                    "date": "2023-09-12T18:21:49Z",
+                    "message": "Added README"
+                },
+                {
+                    "date": "2023-09-12T18:11:26Z",
+                    "message": "Copied files from last project"
+                },
+                {
+                    "date": "2023-09-12T05:00:32Z",
+                    "message": "Fixed App.js file to render Courses and Tasks"
+                },
+                {
+                    "date": "2023-09-12T04:46:11Z",
+                    "message": "Task 5. added new shapes for Courses and Notifications; updated testing"
+                },
+                {
+                    "date": "2023-09-12T03:43:56Z",
+                    "message": "Added lots of CSS to match task 4 images"
+                },
+                {
+                    "date": "2023-09-12T01:45:23Z",
+                    "message": "Fixed isLoggedIn prop"
+                },
+                {
+                    "date": "2023-09-12T01:29:18Z",
+                    "message": "Modified NotificationItem and Notifications component, as well as their tests"
+                },
+                {
+                    "date": "2023-09-12T00:52:25Z",
+                    "message": "Task 4. Created CourseListRow, CourseList, and tests; Modified App and tests to use these"
+                },
+                {
+                    "date": "2023-09-11T23:31:35Z",
+                    "message": "Completed up to and including task 3; created files for task 4"
+                },
+                {
+                    "date": "2023-09-11T19:38:21Z",
+                    "message": "Task 1. successfully created and ran tests"
+                },
+                {
+                    "date": "2023-09-11T17:49:14Z",
+                    "message": "Starting point commit: REVERT BACK TO HERE IF YOU MESS STUFF UP IN TASK 0"
+                },
+                {
+                    "date": "2023-09-11T17:46:13Z",
+                    "message": "Starting point commit: REVERT BACK TO HERE IF YOU MESS STUFF UP IN TASK 0"
+                },
+                {
+                    "date": "2023-09-11T17:41:22Z",
+                    "message": "FINALLY GOT NPM START TO WORK"
+                },
+                {
+                    "date": "2023-09-11T17:01:17Z",
+                    "message": "Attempting to fix npm start error"
+                },
+                {
+                    "date": "2023-09-11T15:41:02Z",
+                    "message": "Initial commit for project React props"
+                },
+                {
+                    "date": "2023-09-11T03:12:22Z",
+                    "message": "Couldn't figure out how to make 'npm start' work"
+                },
+                {
+                    "date": "2023-09-11T02:51:46Z",
+                    "message": "Backup before I mess with stuff..."
+                },
+                {
+                    "date": "2023-09-11T02:16:10Z",
+                    "message": "I ACTUALLY GOT TESTS TO WORK USING ENZYME. THEY SAID IT COULDN'T BE DONE"
+                },
+                {
+                    "date": "2023-09-11T01:22:52Z",
+                    "message": "Tasks 9 and 10 (performed at the same time)"
+                },
+                {
+                    "date": "2023-09-11T01:07:27Z",
+                    "message": "Attempting to get webpack to work"
+                },
+                {
+                    "date": "2023-09-11T00:19:49Z",
+                    "message": "Task 5. trying to make checker happy with importing bundle.js"
+                },
+                {
+                    "date": "2023-09-11T00:18:37Z",
+                    "message": "Task 5. added hot:true to webpack config"
+                },
+                {
+                    "date": "2023-09-11T00:17:10Z",
+                    "message": "Task 5. added hot:true to webpack config"
+                },
+                {
+                    "date": "2023-09-11T00:15:24Z",
+                    "message": "Task 5. created new webpack project"
+                },
+                {
+                    "date": "2023-09-11T00:12:56Z",
+                    "message": "Task 5. created new webpack project"
+                },
+                {
+                    "date": "2023-09-10T21:24:41Z",
+                    "message": "deployed to github"
+                },
+                {
+                    "date": "2023-09-10T21:19:49Z",
+                    "message": "Many unsuccessful tests to get testing to work"
+                },
+                {
+                    "date": "2023-09-10T19:43:16Z",
+                    "message": "Copied files from task_2 directory to task_3 directory"
+                },
+                {
+                    "date": "2023-09-10T19:41:22Z",
+                    "message": "Installed Enzyme and configured the adapter"
+                },
+                {
+                    "date": "2023-09-10T19:35:25Z",
+                    "message": "Added utils.test.js for testing utils functions"
+                },
+                {
+                    "date": "2023-09-10T19:21:53Z",
+                    "message": "Task 3. fixed onclick error on exit button"
+                },
+                {
+                    "date": "2023-09-10T19:16:42Z",
+                    "message": "Task 3. successfully created list of notifications"
+                },
+                {
+                    "date": "2023-09-08T16:45:24Z",
+                    "message": "Task 2. added labels, inputs, and a button for login"
+                },
+                {
+                    "date": "2023-09-08T16:28:03Z",
+                    "message": "Task 1. changed header, body, and footer tags to divs; added Notifications component"
+                },
+                {
+                    "date": "2023-09-08T16:12:22Z",
+                    "message": "Task 1. renamed folders and added task 1"
+                },
+                {
+                    "date": "2023-09-08T15:43:03Z",
+                    "message": "task 0. created basic react app"
+                },
+                {
+                    "date": "2023-09-07T17:05:53Z",
+                    "message": "Task 3 initial attempt"
+                },
+                {
+                    "date": "2023-09-07T17:03:27Z",
+                    "message": "Task 3 initial attempt"
+                },
+                {
+                    "date": "2023-09-07T15:48:36Z",
+                    "message": "Task 2"
+                },
+                {
+                    "date": "2023-09-07T15:47:20Z",
+                    "message": "Task 2"
+                },
+                {
+                    "date": "2023-09-07T15:21:34Z",
+                    "message": "Task 2 first attempt"
+                },
+                {
+                    "date": "2023-09-07T15:04:21Z",
+                    "message": "Removed webpack from webpack config file"
+                },
+                {
+                    "date": "2023-09-07T13:37:57Z",
+                    "message": "Fixed .gitignore file"
+                },
+                {
+                    "date": "2023-09-06T19:26:21Z",
+                    "message": "Task 1 Added timeout of 500 to debounce function call"
+                },
+                {
+                    "date": "2023-09-06T19:22:33Z",
+                    "message": "Task 1 initial attempt"
+                },
+                {
+                    "date": "2023-09-06T19:20:40Z",
+                    "message": "Task 1 initial attempt"
+                },
+                {
+                    "date": "2023-09-06T19:18:47Z",
+                    "message": "Task 1 initial attempt"
+                },
+                {
+                    "date": "2023-09-06T18:39:58Z",
+                    "message": "Task 0"
+                },
+                {
+                    "date": "2023-09-06T18:36:09Z",
+                    "message": "Task 0"
+                },
+                {
+                    "date": "2023-09-06T17:17:05Z",
+                    "message": "Initial commit for project Webpack"
+                },
+                {
+                    "date": "2023-09-06T17:16:48Z",
+                    "message": "Initial commit for project Webpack"
+                },
+                {
+                    "date": "2023-01-19T04:47:55Z",
+                    "message": "TS project"
+                },
+                {
+                    "date": "2023-01-17T19:33:18Z",
+                    "message": "Nuke it"
+                },
+                {
+                    "date": "2023-01-17T19:31:49Z",
+                    "message": "Nuke it"
+                },
+                {
+                    "date": "2023-01-17T19:30:09Z",
+                    "message": "Nuke it"
+                },
+                {
+                    "date": "2023-01-17T19:08:03Z",
+                    "message": "Task 1"
+                },
+                {
+                    "date": "2023-01-17T15:37:01Z",
+                    "message": "Initial commit for Project 0x04. Typescript"
+                },
+                {
+                    "date": "2023-01-17T15:30:41Z",
+                    "message": "Initial commit for Project 0x04. Typescript"
+                }
+            ]
+        },
+        "Misc": {
+            "earliest_date": "2023-01-12T20:54:11",
+            "latest_date": "2023-09-28T13:19:56",
+            "total_commits": 19,
+            "commit_messages": [
+                {
+                    "date": "2023-09-28T13:19:56Z",
+                    "message": "Merge branch 'main' of https://github.com/mdallen5393/Misc into main"
+                },
+                {
+                    "date": "2023-09-28T13:19:50Z",
+                    "message": "Added css-playground"
+                },
+                {
+                    "date": "2023-07-14T02:57:44Z",
+                    "message": "Added screenshot for T4WB3"
+                },
+                {
+                    "date": "2023-06-08T13:54:40Z",
+                    "message": "Completed Stalin Sort Implementation"
+                },
+                {
+                    "date": "2023-06-07T20:08:30Z",
+                    "message": "Merge branch 'main' of https://github.com/mdallen5393/Misc into main"
+                },
+                {
+                    "date": "2023-06-07T20:08:25Z",
+                    "message": "Stalin sort: added array print methods, set up basic project including support for command line arguments and options"
+                },
+                {
+                    "date": "2023-06-01T19:37:28Z",
+                    "message": "Add files via upload"
+                },
+                {
+                    "date": "2023-04-04T02:04:57Z",
+                    "message": "Finalized card_carousel"
+                },
+                {
+                    "date": "2023-03-31T19:53:17Z",
+                    "message": "Added bootstrap cards section"
+                },
+                {
+                    "date": "2023-03-29T20:33:00Z",
+                    "message": "Bootstrap carousel stuff"
+                },
+                {
+                    "date": "2023-03-29T19:19:25Z",
+                    "message": "Bootstrap carousel stuff"
+                },
+                {
+                    "date": "2023-03-29T19:13:41Z",
+                    "message": "Bootstrap carousel stuff"
+                },
+                {
+                    "date": "2023-03-29T16:35:03Z",
+                    "message": "Bootstrap carousel stuff"
+                },
+                {
+                    "date": "2023-03-29T16:32:16Z",
+                    "message": "Bootstrap carousel stuff"
+                },
+                {
+                    "date": "2023-03-09T16:11:16Z",
+                    "message": "Merge branch 'main' of https://github.com/mdallen5393/Misc into main"
+                },
+                {
+                    "date": "2023-03-09T16:11:09Z",
+                    "message": "linkedin header"
+                },
+                {
+                    "date": "2023-03-02T20:45:35Z",
+                    "message": "Add files via upload"
+                },
+                {
+                    "date": "2023-02-16T20:45:17Z",
+                    "message": "Live coding Whiteboard session 2"
+                },
+                {
+                    "date": "2023-01-12T20:54:11Z",
+                    "message": "Mock Interview #1 Whiteboard"
+                }
+            ]
+        }
+    }
+}

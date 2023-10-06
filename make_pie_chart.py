@@ -33,7 +33,6 @@ def make_pie(file):
     commit_counts = list(commit_counts)
     repo_names = list(repo_names)
 
-
     # Group all repos with less than 2.5% commit volume to 'other'
     threshold = 0.025 * sum(commit_counts)
 
@@ -53,7 +52,8 @@ def make_pie(file):
     plt.title(username + ' - Commits per Repository')
     plt.show()
 
+
 if __name__ == "__main__":
-    username = 'sarahmarkland'
+    username = 'claybowl'
     file = './json_files/' + username + '_commit_info.json'
     make_pie(file)

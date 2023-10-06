@@ -39,7 +39,7 @@ def get_github_repos(username):
 
 
 if __name__ == "__main__":
-    username = 'bsbanotto'
+    username = 'claybowl'
 
     repos = get_github_repos(username)
     if repos:

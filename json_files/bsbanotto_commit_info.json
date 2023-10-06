@@ -1,0 +1,3847 @@
+{
+    "username": "bsbanotto",
+    "commit_data_per_repo": {
+        "bsbanotto": {
+            "earliest_date": "2023-05-03T19:12:05",
+            "latest_date": "2023-09-20T20:19:35",
+            "total_commits": 8,
+            "commit_messages": [
+                {
+                    "date": "2023-09-20T20:19:35Z",
+                    "message": "Update README.md\n\nSome formatting updates"
+                },
+                {
+                    "date": "2023-06-08T17:16:38Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-05-04T16:32:55Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-05-03T19:23:37Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-05-03T19:21:19Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-05-03T19:19:23Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-05-03T19:14:46Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-05-03T19:12:05Z",
+                    "message": "Update README.md"
+                }
+            ]
+        },
+        "bsbanotto.github.io": {
+            "earliest_date": "2023-06-29T16:00:33",
+            "latest_date": "2023-09-27T19:11:24",
+            "total_commits": 36,
+            "commit_messages": [
+                {
+                    "date": "2023-09-27T19:11:24Z",
+                    "message": "Update index.html\n\nLink to updated resume"
+                },
+                {
+                    "date": "2023-09-27T19:10:26Z",
+                    "message": "Add updated resume"
+                },
+                {
+                    "date": "2023-09-07T18:48:14Z",
+                    "message": "Added Team Lead to product development engineer for Carlisle"
+                },
+                {
+                    "date": "2023-08-02T01:17:20Z",
+                    "message": "Removed z-index at line 155 instead of commenting out to see why update is taking so long"
+                },
+                {
+                    "date": "2023-08-02T01:08:32Z",
+                    "message": "Cleaning up commit history"
+                },
+                {
+                    "date": "2023-08-02T01:06:52Z",
+                    "message": "Fixed the slider so my resume download button is now clickable regardless of window width. Commented out z-index in style.css line 255"
+                },
+                {
+                    "date": "2023-07-27T15:53:06Z",
+                    "message": "Merge branch 'master' of https://github.com/bsbanotto/bsbanotto.github.io\nPulling changes\n\nMerge branch 'master' of https://github.com/bsbanotto/bsbanotto.github.io"
+                },
+                {
+                    "date": "2023-07-27T15:52:58Z",
+                    "message": "Added Time Series Forecasting blog post"
+                },
+                {
+                    "date": "2023-07-24T14:45:59Z",
+                    "message": "Delete CNAME"
+                },
+                {
+                    "date": "2023-07-24T14:40:20Z",
+                    "message": "Create CNAME"
+                },
+                {
+                    "date": "2023-07-22T05:57:32Z",
+                    "message": "Cleaned up leading spaces where should have been tabs. Removed large blocks of commented out code"
+                },
+                {
+                    "date": "2023-07-22T05:55:05Z",
+                    "message": "I think I have it where I like it. I will give it a proofread tomorrow"
+                },
+                {
+                    "date": "2023-07-22T01:22:07Z",
+                    "message": "Added README"
+                },
+                {
+                    "date": "2023-07-22T01:19:28Z",
+                    "message": "Pushing some first changes to github to test on mobile"
+                },
+                {
+                    "date": "2023-07-22T00:15:20Z",
+                    "message": "Committing template index file"
+                },
+                {
+                    "date": "2023-07-22T00:14:05Z",
+                    "message": "Lots of merge conflicts because I changed the name of my index.html file\nlocally and it didn't match github anymore. My bad\nMerge branch 'master' of https://github.com/bsbanotto/bsbanotto.github.io"
+                },
+                {
+                    "date": "2023-07-22T00:13:55Z",
+                    "message": "Committing template upload. Nothing personal yet"
+                },
+                {
+                    "date": "2023-07-22T00:12:56Z",
+                    "message": "Rename index.html to index_archived.html\n\nArchiving index file for memories sake"
+                },
+                {
+                    "date": "2023-07-22T00:12:05Z",
+                    "message": "Committing files for template. Nothing personalized yet"
+                },
+                {
+                    "date": "2023-07-11T18:04:13Z",
+                    "message": "Update index.html\n\nAdd icon to tab"
+                },
+                {
+                    "date": "2023-06-29T19:17:30Z",
+                    "message": "Update index.html\n\nMade so links open in a new tab"
+                },
+                {
+                    "date": "2023-06-29T19:14:11Z",
+                    "message": "Update index.html\n\nMade socials an unordered list"
+                },
+                {
+                    "date": "2023-06-29T19:08:04Z",
+                    "message": "Update index.html\n\nI think I have all the basic checks for the project"
+                },
+                {
+                    "date": "2023-06-29T18:46:14Z",
+                    "message": "Update index.html\n\nAdded headshot to top of page"
+                },
+                {
+                    "date": "2023-06-29T17:35:05Z",
+                    "message": "Adding images folder with headshot"
+                },
+                {
+                    "date": "2023-06-29T18:36:26Z",
+                    "message": "Update index.html\n\nChanged background color"
+                },
+                {
+                    "date": "2023-06-29T18:30:57Z",
+                    "message": "Update index.html\n\nresized photos"
+                },
+                {
+                    "date": "2023-06-29T18:25:34Z",
+                    "message": "Update index.html\n\nChanged photo for sorting algorithms"
+                },
+                {
+                    "date": "2023-06-29T17:00:15Z",
+                    "message": "Update index.html\n\nAdded some projects"
+                },
+                {
+                    "date": "2023-06-29T16:23:05Z",
+                    "message": "Update index.html\n\nLearned how to do unordered lists right"
+                },
+                {
+                    "date": "2023-06-29T16:21:32Z",
+                    "message": "Update index.html\n\nChanged Title to my name"
+                },
+                {
+                    "date": "2023-06-29T16:20:48Z",
+                    "message": "Update index.html\n\nChanged trivia facts to unordered list"
+                },
+                {
+                    "date": "2023-06-29T16:19:11Z",
+                    "message": "Update index.html\n\nFurther About Me Updates"
+                },
+                {
+                    "date": "2023-06-29T16:11:33Z",
+                    "message": "Update index.html\n\nAdded About Me paragraph from resume and want to see how the page renders"
+                },
+                {
+                    "date": "2023-06-29T16:06:58Z",
+                    "message": "Update index.html\n\nAdding template with no information yet."
+                },
+                {
+                    "date": "2023-06-29T16:00:33Z",
+                    "message": "Initial commit"
+                }
+            ]
+        },
+        "GitHub_year_in_review": {
+            "earliest_date": "2023-09-27T18:40:22",
+            "latest_date": "2023-10-04T01:07:36",
+            "total_commits": 6,
+            "commit_messages": [
+                {
+                    "date": "2023-10-04T00:35:50Z",
+                    "message": "Fixed formatting complaint for MD styling"
+                },
+                {
+                    "date": "2023-10-04T01:07:36Z",
+                    "message": "Update README.md\n\nUpdated README since it works without an access token."
+                },
+                {
+                    "date": "2023-10-04T00:31:46Z",
+                    "message": "Changed from Apache 2.0 license to MIT"
+                },
+                {
+                    "date": "2023-10-04T00:10:01Z",
+                    "message": "Removed trailing space from README"
+                },
+                {
+                    "date": "2023-10-04T00:09:22Z",
+                    "message": "Adding a README and python files that work using a persons access token. I hit my API limit debugging, but I want to update so an access token is not required"
+                },
+                {
+                    "date": "2023-09-27T18:40:22Z",
+                    "message": "Initial commit"
+                }
+            ]
+        },
+        "holbertonschool-AirBnB_clone_v2": {
+            "earliest_date": "2023-07-19T16:48:44",
+            "latest_date": "2023-07-19T16:56:54",
+            "total_commits": 3,
+            "commit_messages": [
+                {
+                    "date": "2023-07-19T16:56:54Z",
+                    "message": "Merge pull request #1 from bsbanotto/ben\n\nBen"
+                },
+                {
+                    "date": "2023-07-19T16:55:40Z",
+                    "message": "Testi"
+                },
+                {
+                    "date": "2023-07-19T16:48:44Z",
+                    "message": "Tryint to commit"
+                }
+            ]
+        },
+        "holbertonschool-AirBnB_clone_v4": {
+            "earliest_date": "2023-07-19T16:36:16",
+            "latest_date": "2023-07-19T17:07:59",
+            "total_commits": 4,
+            "commit_messages": [
+                {
+                    "date": "2023-07-19T17:07:59Z",
+                    "message": "Removing test file"
+                },
+                {
+                    "date": "2023-07-19T17:04:35Z",
+                    "message": "Adding test file"
+                },
+                {
+                    "date": "2023-07-19T16:36:47Z",
+                    "message": "Making my own repo;"
+                },
+                {
+                    "date": "2023-07-19T16:36:16Z",
+                    "message": "Making my own copy"
+                }
+            ]
+        },
+        "holbertonschool-binary_trees": {
+            "earliest_date": "2023-03-14T13:48:04",
+            "latest_date": "2023-05-04T16:53:30",
+            "total_commits": 51,
+            "commit_messages": [
+                {
+                    "date": "2023-05-04T16:53:30Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-05-04T16:51:44Z",
+                    "message": "Update README.md\n\nChanged section headings for each of the two binary trees projects"
+                },
+                {
+                    "date": "2023-03-31T20:41:46Z",
+                    "message": "Valgrind problems, but visually it works out. Memory Schmemory"
+                },
+                {
+                    "date": "2023-03-31T19:41:04Z",
+                    "message": "Fixed wrong answers"
+                },
+                {
+                    "date": "2023-03-31T19:40:30Z",
+                    "message": "Commit for task 5"
+                },
+                {
+                    "date": "2023-03-31T19:36:32Z",
+                    "message": "Commit for task 4"
+                },
+                {
+                    "date": "2023-03-31T19:19:00Z",
+                    "message": "Commit for task 3"
+                },
+                {
+                    "date": "2023-03-31T18:58:38Z",
+                    "message": "Commit for task 2"
+                },
+                {
+                    "date": "2023-03-31T18:51:14Z",
+                    "message": "Commit for task 1"
+                },
+                {
+                    "date": "2023-03-31T18:05:22Z",
+                    "message": "Fixed check for NULL node"
+                },
+                {
+                    "date": "2023-03-31T18:03:52Z",
+                    "message": "Commit for task 0"
+                },
+                {
+                    "date": "2023-03-31T17:09:47Z",
+                    "message": "Trying to test something that is wholly non functional"
+                },
+                {
+                    "date": "2023-03-31T17:07:55Z",
+                    "message": "Fixed compile issues to make sure I have everything set up right"
+                },
+                {
+                    "date": "2023-03-31T17:06:13Z",
+                    "message": "Fixed Betty style for 110-binary_tree_is_bst.c"
+                },
+                {
+                    "date": "2023-03-31T17:05:20Z",
+                    "message": "Committing updated README, header file and temp tak 0 file"
+                },
+                {
+                    "date": "2023-03-20T02:55:09Z",
+                    "message": "Reorganized file structure"
+                },
+                {
+                    "date": "2023-03-19T01:56:19Z",
+                    "message": "Commit task 18"
+                },
+                {
+                    "date": "2023-03-19T01:44:42Z",
+                    "message": "I had my returns exactly backwards and did not look close enough at the test file, apparently"
+                },
+                {
+                    "date": "2023-03-19T01:42:43Z",
+                    "message": "not sure i handled not having a sibling"
+                },
+                {
+                    "date": "2023-03-19T01:33:15Z",
+                    "message": "Commit task 16"
+                },
+                {
+                    "date": "2023-03-19T00:54:50Z",
+                    "message": "Commit for task 15"
+                },
+                {
+                    "date": "2023-03-19T00:45:15Z",
+                    "message": "Commit for task 14"
+                },
+                {
+                    "date": "2023-03-19T00:19:02Z",
+                    "message": "Commit for task 13"
+                },
+                {
+                    "date": "2023-03-19T00:03:27Z",
+                    "message": "removed else"
+                },
+                {
+                    "date": "2023-03-18T23:39:33Z",
+                    "message": "Commit for task 12"
+                },
+                {
+                    "date": "2023-03-18T23:12:22Z",
+                    "message": "Swapped which size I add to in return"
+                },
+                {
+                    "date": "2023-03-18T23:11:14Z",
+                    "message": "Trying out task 11"
+                },
+                {
+                    "date": "2023-03-18T22:57:52Z",
+                    "message": "Commit for task 10"
+                },
+                {
+                    "date": "2023-03-18T22:47:51Z",
+                    "message": "Commit for task 9"
+                },
+                {
+                    "date": "2023-03-18T22:17:48Z",
+                    "message": "Commit for task 8"
+                },
+                {
+                    "date": "2023-03-18T22:15:49Z",
+                    "message": "Commit for task 7"
+                },
+                {
+                    "date": "2023-03-15T00:59:49Z",
+                    "message": "Commit for task 6"
+                },
+                {
+                    "date": "2023-03-15T00:30:44Z",
+                    "message": "Let us see if I can get this one right first time"
+                },
+                {
+                    "date": "2023-03-14T21:18:27Z",
+                    "message": "I think I got my ors in the correct order"
+                },
+                {
+                    "date": "2023-03-14T21:13:27Z",
+                    "message": "Apparently it was not so easy lol"
+                },
+                {
+                    "date": "2023-03-14T21:12:08Z",
+                    "message": "I hope that was as easy as it seems"
+                },
+                {
+                    "date": "2023-03-14T21:06:23Z",
+                    "message": "fixed betty"
+                },
+                {
+                    "date": "2023-03-14T20:32:47Z",
+                    "message": "Commit for task 3"
+                },
+                {
+                    "date": "2023-03-14T19:18:43Z",
+                    "message": "Commit for task 2"
+                },
+                {
+                    "date": "2023-03-14T17:32:23Z",
+                    "message": "Reformatted when left exists"
+                },
+                {
+                    "date": "2023-03-14T17:08:15Z",
+                    "message": "Freed new if parent is NULL"
+                },
+                {
+                    "date": "2023-03-14T17:06:52Z",
+                    "message": "Freed new if parent is NULL"
+                },
+                {
+                    "date": "2023-03-14T16:47:45Z",
+                    "message": "Handled passing NULL as parent"
+                },
+                {
+                    "date": "2023-03-14T16:30:59Z",
+                    "message": "tried to free temp"
+                },
+                {
+                    "date": "2023-03-14T16:28:36Z",
+                    "message": "Changed where temp is mallocd"
+                },
+                {
+                    "date": "2023-03-14T16:23:47Z",
+                    "message": "Fixed return in header"
+                },
+                {
+                    "date": "2023-03-14T16:22:36Z",
+                    "message": "Commit for task 1"
+                },
+                {
+                    "date": "2023-03-14T15:18:53Z",
+                    "message": "removed commented static prototypes from header file"
+                },
+                {
+                    "date": "2023-03-14T15:16:41Z",
+                    "message": "Commit for task 0"
+                },
+                {
+                    "date": "2023-03-14T14:19:41Z",
+                    "message": "Committing README and header file"
+                },
+                {
+                    "date": "2023-03-14T13:48:04Z",
+                    "message": "Initial commit"
+                }
+            ]
+        },
+        "holbertonschool-higher_level_programming": {
+            "earliest_date": "2023-05-04T19:46:15",
+            "latest_date": "2023-06-26T14:33:38",
+            "total_commits": 7,
+            "commit_messages": [
+                {
+                    "date": "2023-06-26T14:33:38Z",
+                    "message": "Merge branch 'master' of https://github.com/bsbanotto/holbertonschool-higher_level_programming"
+                },
+                {
+                    "date": "2023-06-26T14:33:32Z",
+                    "message": "Renamed SQL_more_queries folder for intranet updates"
+                },
+                {
+                    "date": "2023-06-06T19:52:12Z",
+                    "message": "Update README.md\n\nChanged name of almost a circle directory"
+                },
+                {
+                    "date": "2023-06-06T19:51:17Z",
+                    "message": "Renamed directory to run checks on new intranet"
+                },
+                {
+                    "date": "2023-05-31T13:49:58Z",
+                    "message": "Added a working implementation of pascals triangle"
+                },
+                {
+                    "date": "2023-05-04T20:40:18Z",
+                    "message": "Updated README to more user friendly format"
+                },
+                {
+                    "date": "2023-05-04T19:46:15Z",
+                    "message": "Cleaning commit history"
+                }
+            ]
+        },
+        "holbertonschool-low_level_programming": {
+            "earliest_date": "2023-02-06T20:28:00",
+            "latest_date": "2023-07-11T19:15:14",
+            "total_commits": 26,
+            "commit_messages": [
+                {
+                    "date": "2023-07-11T19:15:14Z",
+                    "message": "Merge branch 'main' of https://github.com/bsbanotto/holbertonschool-low_level_programming into main"
+                },
+                {
+                    "date": "2023-07-11T19:15:01Z",
+                    "message": "Pushing changes from stutoring"
+                },
+                {
+                    "date": "2023-05-04T20:20:14Z",
+                    "message": "Update README.md\n\nFixed indentation for C image"
+                },
+                {
+                    "date": "2023-05-04T19:34:11Z",
+                    "message": "Updated README to more user friendly format"
+                },
+                {
+                    "date": "2023-03-13T18:28:11Z",
+                    "message": "One of my values in my print statements was not capitalized"
+                },
+                {
+                    "date": "2023-03-13T18:21:36Z",
+                    "message": "Adding in files for skiplist search and updated README"
+                },
+                {
+                    "date": "2023-03-01T15:15:00Z",
+                    "message": "Trying to fix kernel style code"
+                },
+                {
+                    "date": "2023-03-01T15:13:34Z",
+                    "message": "Improved if guard for return to fix value not in list"
+                },
+                {
+                    "date": "2023-03-01T15:11:17Z",
+                    "message": "Moved my end case test to before print array"
+                },
+                {
+                    "date": "2023-03-01T15:07:18Z",
+                    "message": "First commit for project"
+                },
+                {
+                    "date": "2023-02-19T16:52:09Z",
+                    "message": "Merge branch 'main' of https://github.com/bsbanotto/holbertonschool-low_level_programming into main"
+                },
+                {
+                    "date": "2023-02-19T15:00:27Z",
+                    "message": "Stutoring updates"
+                },
+                {
+                    "date": "2023-02-17T15:46:54Z",
+                    "message": "Committing what I know to be fresh"
+                },
+                {
+                    "date": "2023-02-17T15:44:57Z",
+                    "message": "Removing libraries for testing"
+                },
+                {
+                    "date": "2023-02-17T15:44:28Z",
+                    "message": "Adding in libmy.a"
+                },
+                {
+                    "date": "2023-02-17T15:43:10Z",
+                    "message": "Cleaning up commit history"
+                },
+                {
+                    "date": "2023-02-17T15:41:34Z",
+                    "message": "Merge branch 'main' of https://github.com/bsbanotto/holbertonschool-low_level_programming into main"
+                },
+                {
+                    "date": "2023-02-17T15:40:21Z",
+                    "message": "Working through this project again before tutoring"
+                },
+                {
+                    "date": "2023-02-16T01:16:08Z",
+                    "message": "Removed commented out test print statements and sleep timer"
+                },
+                {
+                    "date": "2023-02-16T01:13:24Z",
+                    "message": "Committing binary search"
+                },
+                {
+                    "date": "2023-02-14T21:05:29Z",
+                    "message": "Did not realize there were two integers to loop"
+                },
+                {
+                    "date": "2023-02-14T21:01:00Z",
+                    "message": "Added new line to end of all files"
+                },
+                {
+                    "date": "2023-02-14T20:59:40Z",
+                    "message": "Committing big O files"
+                },
+                {
+                    "date": "2023-02-14T19:12:40Z",
+                    "message": "Commit linear search"
+                },
+                {
+                    "date": "2023-02-08T14:54:18Z",
+                    "message": "Some sort of stutoring help I'm sure"
+                },
+                {
+                    "date": "2023-02-06T20:28:00Z",
+                    "message": "updating git"
+                }
+            ]
+        },
+        "holbertonschool-machine_learning": {
+            "earliest_date": "2023-01-09T14:02:09",
+            "latest_date": "2023-10-02T22:14:17",
+            "total_commits": 695,
+            "commit_messages": [
+                {
+                    "date": "2023-10-02T22:14:17Z",
+                    "message": "Adding keras cnn for MNIST dataset"
+                },
+                {
+                    "date": "2023-09-29T16:28:01Z",
+                    "message": "Update README.md\n\nRemoved advanced task from README."
+                },
+                {
+                    "date": "2023-09-29T16:06:53Z",
+                    "message": "Committing jupyter notebook for image augmentation"
+                },
+                {
+                    "date": "2023-09-27T15:34:24Z",
+                    "message": "Rephrased sub heading in README with help of Chat"
+                },
+                {
+                    "date": "2023-09-27T02:22:21Z",
+                    "message": "Update README.md\n\nDidn't check work before committing. My bad."
+                },
+                {
+                    "date": "2023-09-27T02:21:24Z",
+                    "message": "Update README.md\n\nChanged plot"
+                },
+                {
+                    "date": "2023-09-27T02:20:20Z",
+                    "message": "adding score plot"
+                },
+                {
+                    "date": "2023-09-27T02:17:52Z",
+                    "message": "Final work to commit for peer review"
+                },
+                {
+                    "date": "2023-09-27T00:16:12Z",
+                    "message": "Re-ran using python file and made 5000 episodes"
+                },
+                {
+                    "date": "2023-09-26T20:31:22Z",
+                    "message": "Update README.md\n\nAdded gifs to README"
+                },
+                {
+                    "date": "2023-09-26T20:28:33Z",
+                    "message": "Committing a lot of updates for final project. Need to add image links to README once on github"
+                },
+                {
+                    "date": "2023-09-25T20:05:36Z",
+                    "message": "Committing notebook for rest of project. Still need to find a way to save gifs of rendered game"
+                },
+                {
+                    "date": "2023-09-22T18:41:20Z",
+                    "message": "Committing for task 1"
+                },
+                {
+                    "date": "2023-09-22T16:34:24Z",
+                    "message": "Committing notebook for task 0"
+                },
+                {
+                    "date": "2023-09-22T15:17:21Z",
+                    "message": "Adding README to project"
+                },
+                {
+                    "date": "2023-09-21T14:40:22Z",
+                    "message": "Thanks Aaron, added env.seed(0) so my environment is statically generated so my results are repeatable"
+                },
+                {
+                    "date": "2023-09-20T18:05:42Z",
+                    "message": "Adding Jupyter notebook to github"
+                },
+                {
+                    "date": "2023-09-19T19:30:36Z",
+                    "message": "Adding in sarsa task. Some of the lines in the Q table match, others do not"
+                },
+                {
+                    "date": "2023-09-19T14:59:18Z",
+                    "message": "Moved eligibility trace outside of loop so all V values are between -1 and 1. Still not getting same answer when running on repeat, but moving on to SARSA"
+                },
+                {
+                    "date": "2023-09-18T21:00:46Z",
+                    "message": "Commit for task 1. Numbers change every time I run, but I do not want to work on it anymore today. More troubleshooting to come later"
+                },
+                {
+                    "date": "2023-09-18T20:57:54Z",
+                    "message": "Added link to colab notebook where training actually happened"
+                },
+                {
+                    "date": "2023-09-18T20:54:37Z",
+                    "message": "Committing for peer review. Tired of training"
+                },
+                {
+                    "date": "2023-09-18T18:27:40Z",
+                    "message": "Committing for task 0"
+                },
+                {
+                    "date": "2023-09-18T15:45:41Z",
+                    "message": "Adding README for project"
+                },
+                {
+                    "date": "2023-09-13T02:54:56Z",
+                    "message": "Committing checkpoint where test episodes do not time out at 500 step limit. They do not actually hit the ball either. Small victories"
+                },
+                {
+                    "date": "2023-09-13T02:31:10Z",
+                    "message": "Clearning git notification. No material changes"
+                },
+                {
+                    "date": "2023-09-13T01:56:25Z",
+                    "message": "Ran again testing x-launch"
+                },
+                {
+                    "date": "2023-09-13T01:54:46Z",
+                    "message": "Reran again for x-launch troubleshooting"
+                },
+                {
+                    "date": "2023-09-12T22:50:43Z",
+                    "message": "Re-ran notebook to check if viewer was working"
+                },
+                {
+                    "date": "2023-09-12T18:58:15Z",
+                    "message": "Adding policy.h5 file from the last checkpoint"
+                },
+                {
+                    "date": "2023-09-12T18:57:49Z",
+                    "message": "This version of the Notebook plays a game, but the bar does not move. Going to try more training steps to see if that teaches that movement is ok, but want a checkpoint here for grading"
+                },
+                {
+                    "date": "2023-09-12T18:52:31Z",
+                    "message": "Committing python files for tasks"
+                },
+                {
+                    "date": "2023-09-09T20:02:09Z",
+                    "message": "Version of notebook with training. Game plays, but player does not know it needs to move"
+                },
+                {
+                    "date": "2023-09-09T19:44:17Z",
+                    "message": "Added instructions to README to use deep_q environment in Jupyter Notebook"
+                },
+                {
+                    "date": "2023-09-09T19:41:23Z",
+                    "message": "Committing README"
+                },
+                {
+                    "date": "2023-09-09T19:40:19Z",
+                    "message": "I have something roughly working based off the cartpole example that I want to save"
+                },
+                {
+                    "date": "2023-09-08T17:46:28Z",
+                    "message": "Adding requirements.txt to github"
+                },
+                {
+                    "date": "2023-09-07T20:36:48Z",
+                    "message": "Adding README and environment files"
+                },
+                {
+                    "date": "2023-09-07T18:28:58Z",
+                    "message": "Added comment in epsilon_greedy function for why rand 0-4"
+                },
+                {
+                    "date": "2023-09-06T20:47:10Z",
+                    "message": "Adding Jupyter notebook for project. I will add python files later"
+                },
+                {
+                    "date": "2023-09-06T15:20:35Z",
+                    "message": "Update README.md\n\nAdded reinforcement learning to table"
+                },
+                {
+                    "date": "2023-09-06T15:17:33Z",
+                    "message": "Committing reinforcement_learning directory and q_learning sub-directory and READMEs"
+                },
+                {
+                    "date": "2023-08-24T14:18:18Z",
+                    "message": "Added missing documentation to semantic_search method in notebook"
+                },
+                {
+                    "date": "2023-08-21T21:00:38Z",
+                    "message": "Merge branch 'main' of https://github.com/bsbanotto/holbertonschool-machine_learning into main"
+                },
+                {
+                    "date": "2023-08-21T21:00:21Z",
+                    "message": "Changes to 2-qa to match notebook"
+                },
+                {
+                    "date": "2023-08-20T16:15:30Z",
+                    "message": "Update README.md\n\nAdded link to Google Colab notebook"
+                },
+                {
+                    "date": "2023-08-20T16:13:37Z",
+                    "message": "Committing completed notebook for project"
+                },
+                {
+                    "date": "2023-08-17T20:03:23Z",
+                    "message": "Re-ran notebook the other day"
+                },
+                {
+                    "date": "2023-08-17T20:02:55Z",
+                    "message": "Committing incomplete task 4"
+                },
+                {
+                    "date": "2023-08-17T20:01:08Z",
+                    "message": "Adding stuff for QA bot thru task 2"
+                },
+                {
+                    "date": "2023-08-16T21:54:39Z",
+                    "message": "Adding missing documentation"
+                },
+                {
+                    "date": "2023-08-16T21:30:14Z",
+                    "message": "Committing for task 3. I really do not like this project"
+                },
+                {
+                    "date": "2023-08-16T20:02:40Z",
+                    "message": "removing jupyter noteboon from git"
+                },
+                {
+                    "date": "2023-08-16T20:02:02Z",
+                    "message": "Committing jupyter notebook updates to make colors go away"
+                },
+                {
+                    "date": "2023-08-16T20:00:43Z",
+                    "message": "Adding file for task 2. Removing jupyter notebook sinc changes for task 2 made tasks 0 and 1 break"
+                },
+                {
+                    "date": "2023-08-15T20:29:51Z",
+                    "message": "Committing tasks 0 and 1"
+                },
+                {
+                    "date": "2023-08-09T15:58:46Z",
+                    "message": "Committing changes to jupyter notebook, still not working quite right but I do not want to see the modified notification"
+                },
+                {
+                    "date": "2023-08-08T02:19:51Z",
+                    "message": "Clarified how to save images to detections folder"
+                },
+                {
+                    "date": "2023-08-07T23:29:31Z",
+                    "message": "Finally remembered how to save detections"
+                },
+                {
+                    "date": "2023-08-07T18:34:14Z",
+                    "message": "Changes to notebook trying to test why last check is not going"
+                },
+                {
+                    "date": "2023-08-07T18:33:43Z",
+                    "message": "Made changes to run locally (removed .value from line ~109)"
+                },
+                {
+                    "date": "2023-08-04T16:23:16Z",
+                    "message": "Commit for task 2 hoping we can import from task 1"
+                },
+                {
+                    "date": "2023-08-04T16:06:30Z",
+                    "message": "Forgot to add module documentation"
+                },
+                {
+                    "date": "2023-08-04T16:05:03Z",
+                    "message": "Commit for task 1"
+                },
+                {
+                    "date": "2023-08-02T19:38:35Z",
+                    "message": "Commit for task 0"
+                },
+                {
+                    "date": "2023-08-02T17:51:19Z",
+                    "message": "Committing README"
+                },
+                {
+                    "date": "2023-08-02T17:51:07Z",
+                    "message": "Seeing if nltk library works for checker"
+                },
+                {
+                    "date": "2023-07-30T16:26:44Z",
+                    "message": "Last commit for project"
+                },
+                {
+                    "date": "2023-07-30T16:25:43Z",
+                    "message": "Commit multiple choice for last task"
+                },
+                {
+                    "date": "2023-07-30T16:23:15Z",
+                    "message": "Commit for task 4"
+                },
+                {
+                    "date": "2023-07-30T16:12:01Z",
+                    "message": "Committing thru task 3"
+                },
+                {
+                    "date": "2023-07-28T23:03:03Z",
+                    "message": "Commit for task 1. Very much the same as task 0, just new embedding"
+                },
+                {
+                    "date": "2023-07-28T22:12:15Z",
+                    "message": "Cleaned up code a little bit"
+                },
+                {
+                    "date": "2023-07-28T22:00:50Z",
+                    "message": "Failed to remove my test print statements"
+                },
+                {
+                    "date": "2023-07-28T21:59:52Z",
+                    "message": "I feel like I got tunnel vision trying to solve this. Let us hope this attempt works"
+                },
+                {
+                    "date": "2023-07-28T19:51:01Z",
+                    "message": "I think documentation was missing in one of my imports\""
+                },
+                {
+                    "date": "2023-07-28T19:49:06Z",
+                    "message": "I feel like I had to jump through some hoops for the checker"
+                },
+                {
+                    "date": "2023-07-28T19:24:07Z",
+                    "message": "Seeing if I fixed when vocab is not None"
+                },
+                {
+                    "date": "2023-07-28T19:21:12Z",
+                    "message": "Added sort so list is alphabetical"
+                },
+                {
+                    "date": "2023-07-28T19:19:53Z",
+                    "message": "Added string import"
+                },
+                {
+                    "date": "2023-07-28T19:18:04Z",
+                    "message": "Committing without alphabetical sorting to see if checker needs that"
+                },
+                {
+                    "date": "2023-07-28T18:37:56Z",
+                    "message": "Committing Jupyter Notebook after re-running at PLD yesterday. No real changes"
+                },
+                {
+                    "date": "2023-07-27T02:41:58Z",
+                    "message": "Committing most recent run of Jupyter Notebook"
+                },
+                {
+                    "date": "2023-07-27T02:38:50Z",
+                    "message": "Committing files for project"
+                },
+                {
+                    "date": "2023-07-26T23:31:40Z",
+                    "message": "Delete supervised_learning/time_series directory"
+                },
+                {
+                    "date": "2023-07-26T22:52:34Z",
+                    "message": "I have my Jupyter notebook where I want it now."
+                },
+                {
+                    "date": "2023-07-26T20:13:42Z",
+                    "message": "Committing Jupyter Notebook in messy, but working state as checkpoing before I refine and clean"
+                },
+                {
+                    "date": "2023-07-21T20:14:12Z",
+                    "message": "Adding README and empty Jupyter notebook"
+                },
+                {
+                    "date": "2023-07-17T19:26:30Z",
+                    "message": "Re-ran jupyter notebook"
+                },
+                {
+                    "date": "2023-07-17T18:40:52Z",
+                    "message": "Changed comment for backward method to be more witty"
+                },
+                {
+                    "date": "2023-07-17T14:20:44Z",
+                    "message": "Needed to create a backward copy of X for backward forward prop and shenanigans with array slicing"
+                },
+                {
+                    "date": "2023-07-14T21:43:37Z",
+                    "message": "Committing an attempt at task 8. I do not match output, but I am chasing myself in circles"
+                },
+                {
+                    "date": "2023-07-14T19:35:53Z",
+                    "message": "Commit for task 7"
+                },
+                {
+                    "date": "2023-07-14T18:12:27Z",
+                    "message": "Should have checked pycodestyle before submitting"
+                },
+                {
+                    "date": "2023-07-14T18:11:06Z",
+                    "message": "Had typo in file name"
+                },
+                {
+                    "date": "2023-07-14T18:09:46Z",
+                    "message": "Add for task 6, fixed some copy/paste hangovers"
+                },
+                {
+                    "date": "2023-07-14T17:53:46Z",
+                    "message": "Commit for task 5"
+                },
+                {
+                    "date": "2023-07-12T22:54:02Z",
+                    "message": "Commit for task 4"
+                },
+                {
+                    "date": "2023-07-12T21:29:49Z",
+                    "message": "Adding file for task 3"
+                },
+                {
+                    "date": "2023-07-12T20:34:56Z",
+                    "message": "Adding file for task 2"
+                },
+                {
+                    "date": "2023-07-11T19:53:13Z",
+                    "message": "Commit for task 1"
+                },
+                {
+                    "date": "2023-07-11T19:04:38Z",
+                    "message": "Had my RNN project in the wrong directory"
+                },
+                {
+                    "date": "2023-07-11T19:02:04Z",
+                    "message": "Merge branch 'main' of https://github.com/bsbanotto/holbertonschool-machine_learning into main"
+                },
+                {
+                    "date": "2023-07-11T19:01:07Z",
+                    "message": "Commit for task 0"
+                },
+                {
+                    "date": "2023-07-05T19:54:29Z",
+                    "message": "Update README.md\n\nAdded unsupervised learning to table."
+                },
+                {
+                    "date": "2023-07-05T18:45:04Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-07-03T18:41:06Z",
+                    "message": "Committing the rest of the project."
+                },
+                {
+                    "date": "2023-07-03T17:38:07Z",
+                    "message": "Made lots of changes to lots of files to where I think I have task 3 working"
+                },
+                {
+                    "date": "2023-07-03T15:50:30Z",
+                    "message": "Committing for task 2"
+                },
+                {
+                    "date": "2023-07-03T14:11:04Z",
+                    "message": "Removed unnecessary comma at end of layers in generator, created discriminator"
+                },
+                {
+                    "date": "2023-07-03T14:01:04Z",
+                    "message": "Committing readme and task 0"
+                },
+                {
+                    "date": "2023-06-30T20:42:09Z",
+                    "message": "Removing checkpoint file"
+                },
+                {
+                    "date": "2023-06-30T18:37:52Z",
+                    "message": "Add checkpoint file"
+                },
+                {
+                    "date": "2023-06-30T18:35:58Z",
+                    "message": "Added line breaks to output to improve readability"
+                },
+                {
+                    "date": "2023-06-30T18:18:43Z",
+                    "message": "Committing Jupyter Notebook for task 6"
+                },
+                {
+                    "date": "2023-06-30T13:35:17Z",
+                    "message": "Removing test files from github. May revisit task 3 after GAN project"
+                },
+                {
+                    "date": "2023-06-29T18:40:45Z",
+                    "message": "Still messing with task 3"
+                },
+                {
+                    "date": "2023-06-29T18:34:04Z",
+                    "message": "Added documentation"
+                },
+                {
+                    "date": "2023-06-29T18:33:34Z",
+                    "message": "Added documentation"
+                },
+                {
+                    "date": "2023-06-29T18:32:24Z",
+                    "message": "Fixed imports and styling"
+                },
+                {
+                    "date": "2023-06-29T18:25:32Z",
+                    "message": "Trying out from the internet"
+                },
+                {
+                    "date": "2023-06-28T01:58:16Z",
+                    "message": "visually I match the output, but my numbers do not look so good. Let us see what the checker thinks"
+                },
+                {
+                    "date": "2023-06-27T22:47:18Z",
+                    "message": "committing updated jupyter notebook"
+                },
+                {
+                    "date": "2023-06-27T22:19:08Z",
+                    "message": "Removed test files"
+                },
+                {
+                    "date": "2023-06-27T22:16:18Z",
+                    "message": "Trying some funky stuff to get past checker"
+                },
+                {
+                    "date": "2023-06-27T16:29:38Z",
+                    "message": "Commit for task 2. My loss is significantly lower than the example, so we will see how this goes"
+                },
+                {
+                    "date": "2023-06-27T14:49:13Z",
+                    "message": "Added sparse encoder for task 1"
+                },
+                {
+                    "date": "2023-06-26T18:03:41Z",
+                    "message": "Removed checker main file from notebook.Turns out it was the missing , after latent_dims in my decoder image shape that was causing me problems"
+                },
+                {
+                    "date": "2023-06-26T17:56:59Z",
+                    "message": "Tried a lot of testing. Input shape is a list instead of a tuple and that is giving me problems"
+                },
+                {
+                    "date": "2023-06-26T17:07:51Z",
+                    "message": "Adding README and file for task 0"
+                },
+                {
+                    "date": "2023-06-14T20:44:00Z",
+                    "message": "Added a nice comment to how I passed the checker"
+                },
+                {
+                    "date": "2023-06-14T20:39:01Z",
+                    "message": "Commented out sandbox file path, kept local file path"
+                },
+                {
+                    "date": "2023-06-14T20:33:39Z",
+                    "message": "Added path for sandbox vs local"
+                },
+                {
+                    "date": "2023-06-14T20:26:22Z",
+                    "message": "Removed 0-main testing file from checker"
+                },
+                {
+                    "date": "2023-06-14T20:18:56Z",
+                    "message": "Trying to force out the last element of the X numpy.ndarray"
+                },
+                {
+                    "date": "2023-06-14T20:02:40Z",
+                    "message": "Refactored task 5 after some questionable AI assistance"
+                },
+                {
+                    "date": "2023-06-14T19:34:45Z",
+                    "message": "Committing chat work to see if it passes checker"
+                },
+                {
+                    "date": "2023-06-14T17:26:02Z",
+                    "message": "Made changes to task 4 to try to troubleshoot divide by zero error on task 5 and want to see if 4 still gets checks"
+                },
+                {
+                    "date": "2023-06-14T17:16:40Z",
+                    "message": "Curious to see what the checker says"
+                },
+                {
+                    "date": "2023-06-14T16:04:25Z",
+                    "message": "Commit for task 4"
+                },
+                {
+                    "date": "2023-06-13T20:39:07Z",
+                    "message": "Adding \"empty\" file for task 4 to clean up git"
+                },
+                {
+                    "date": "2023-06-13T16:24:12Z",
+                    "message": "First commit task 3"
+                },
+                {
+                    "date": "2023-06-13T15:21:44Z",
+                    "message": "Commit for task 2"
+                },
+                {
+                    "date": "2023-06-13T14:51:15Z",
+                    "message": "Commit for task 1"
+                },
+                {
+                    "date": "2023-06-12T20:49:22Z",
+                    "message": "Commit README, task 0, and test files"
+                },
+                {
+                    "date": "2023-06-06T19:08:36Z",
+                    "message": "Fix styling"
+                },
+                {
+                    "date": "2023-06-06T19:07:42Z",
+                    "message": "Re did task 1 in brute force manner that I like better, commit for task 5"
+                },
+                {
+                    "date": "2023-06-06T18:39:27Z",
+                    "message": "Committing dummy file for task 6"
+                },
+                {
+                    "date": "2023-06-06T18:19:57Z",
+                    "message": "Commit dummy file for task 5"
+                },
+                {
+                    "date": "2023-06-06T17:58:46Z",
+                    "message": "Made some updates to return list of integers, Still not finding the correct path"
+                },
+                {
+                    "date": "2023-06-06T17:22:50Z",
+                    "message": "Commit for task 4. P is correct to main file, path is not quite correct yet"
+                },
+                {
+                    "date": "2023-06-06T14:40:52Z",
+                    "message": "Updated some comments as I keep reading over this algorithm"
+                },
+                {
+                    "date": "2023-06-05T22:35:55Z",
+                    "message": "Added a simple explanation to start of function doc string for later reference"
+                },
+                {
+                    "date": "2023-06-05T22:18:56Z",
+                    "message": "First attempt at forward algorithm"
+                },
+                {
+                    "date": "2023-06-05T18:59:10Z",
+                    "message": "Fixed ambiguous name I"
+                },
+                {
+                    "date": "2023-06-05T18:57:46Z",
+                    "message": "I am missing one of the cases on the main file bugt want to see what the checker looks like"
+                },
+                {
+                    "date": "2023-06-05T17:47:00Z",
+                    "message": "I think I shortcutted my way with if np.any(P == 0) return none. This works for the main file we are given but will fail the checker"
+                },
+                {
+                    "date": "2023-06-02T18:02:41Z",
+                    "message": "Reverted last changes because they messed up my local testing"
+                },
+                {
+                    "date": "2023-06-02T18:00:55Z",
+                    "message": "Added some if guards while checker is acting up"
+                },
+                {
+                    "date": "2023-06-02T17:54:38Z",
+                    "message": "Commit for task 0"
+                },
+                {
+                    "date": "2023-06-02T17:46:50Z",
+                    "message": "Added photos to README and test files"
+                },
+                {
+                    "date": "2023-06-02T17:38:47Z",
+                    "message": "Adding README and photos that I need to add to the readme"
+                },
+                {
+                    "date": "2023-05-31T19:45:47Z",
+                    "message": "Thanks Aaron"
+                },
+                {
+                    "date": "2023-05-31T19:38:08Z",
+                    "message": "Maybe I am closer to good now"
+                },
+                {
+                    "date": "2023-05-31T19:30:29Z",
+                    "message": "One last commit before I go home"
+                },
+                {
+                    "date": "2023-05-31T19:22:08Z",
+                    "message": "Shoot ya shot"
+                },
+                {
+                    "date": "2023-05-31T18:53:54Z",
+                    "message": "It is not really a commit if I do not have the word for in a comment"
+                },
+                {
+                    "date": "2023-05-31T18:52:33Z",
+                    "message": "Gotta shoot ya shot"
+                },
+                {
+                    "date": "2023-05-31T18:26:21Z",
+                    "message": "New test for g.shape"
+                },
+                {
+                    "date": "2023-05-31T18:16:19Z",
+                    "message": "Commit for task 7"
+                },
+                {
+                    "date": "2023-05-31T17:54:08Z",
+                    "message": "Changed to use np.isclose for pi to sum close to 1 for rounding"
+                },
+                {
+                    "date": "2023-05-31T17:47:00Z",
+                    "message": "Trying something new"
+                },
+                {
+                    "date": "2023-05-31T17:42:49Z",
+                    "message": "Removed my check for pi to sum to 1 to get output checks"
+                },
+                {
+                    "date": "2023-05-31T17:19:25Z",
+                    "message": "Commit for task 6"
+                },
+                {
+                    "date": "2023-05-30T23:49:59Z",
+                    "message": "Committing for task 12"
+                },
+                {
+                    "date": "2023-05-30T18:37:33Z",
+                    "message": "Commit for task 11. Did not quite match test output, but here we go"
+                },
+                {
+                    "date": "2023-05-30T18:22:10Z",
+                    "message": "Moved import back below doc, removed n_init=auto from *args"
+                },
+                {
+                    "date": "2023-05-30T18:17:00Z",
+                    "message": "removed the word import from doc"
+                },
+                {
+                    "date": "2023-05-30T18:08:35Z",
+                    "message": "Moved import before doc"
+                },
+                {
+                    "date": "2023-05-30T18:07:26Z",
+                    "message": "Removed import from doc string"
+                },
+                {
+                    "date": "2023-05-30T17:54:26Z",
+                    "message": "Updating github to match local to evaluate checker"
+                },
+                {
+                    "date": "2023-05-30T17:34:10Z",
+                    "message": "Trying a different kind of import"
+                },
+                {
+                    "date": "2023-05-30T17:14:09Z",
+                    "message": "Trying something new before possibly starting over"
+                },
+                {
+                    "date": "2023-05-30T17:08:07Z",
+                    "message": "Trying to see if the way I imported made the checker angry"
+                },
+                {
+                    "date": "2023-05-30T17:05:56Z",
+                    "message": "Commit for task 10, labels are not in correct order"
+                },
+                {
+                    "date": "2023-05-30T16:27:40Z",
+                    "message": "I think I got all my if guards this time. I never checked them all together, so let us shoot our shot"
+                },
+                {
+                    "date": "2023-05-30T16:20:58Z",
+                    "message": "First pass at getting all of my if guards in for task 9"
+                },
+                {
+                    "date": "2023-05-30T15:45:35Z",
+                    "message": "Committing if guard testing for task 8"
+                },
+                {
+                    "date": "2023-05-30T15:32:45Z",
+                    "message": "Added test for priors to sum to 1"
+                },
+                {
+                    "date": "2023-05-30T15:29:21Z",
+                    "message": "Adding if guards for task 7"
+                },
+                {
+                    "date": "2023-05-30T15:24:15Z",
+                    "message": "Fixed styling like a dummy"
+                },
+                {
+                    "date": "2023-05-30T15:23:36Z",
+                    "message": "Added test that pi must sum to 1"
+                },
+                {
+                    "date": "2023-05-30T15:16:18Z",
+                    "message": "Committing edge cases for task 6"
+                },
+                {
+                    "date": "2023-05-30T15:06:01Z",
+                    "message": "Made updates for task 5 once I had the checker files"
+                },
+                {
+                    "date": "2023-05-30T14:12:54Z",
+                    "message": "Committing where P is an np.zeros matrix, but edge cases"
+                },
+                {
+                    "date": "2023-05-29T22:35:33Z",
+                    "message": "Updated documentation"
+                },
+                {
+                    "date": "2023-05-29T22:27:30Z",
+                    "message": "Commit for task 4"
+                },
+                {
+                    "date": "2023-05-29T22:00:01Z",
+                    "message": "Committing to see if I got my if guards right. I am shaken up after that last one"
+                },
+                {
+                    "date": "2023-05-29T21:40:47Z",
+                    "message": "I am pretty sure I passed all tests when I ran locally"
+                },
+                {
+                    "date": "2023-05-29T21:14:52Z",
+                    "message": "Who knew that when kmax=0, if not kmax would return true?"
+                },
+                {
+                    "date": "2023-05-29T20:36:05Z",
+                    "message": "Added test for if kmax is not passed as an arg"
+                },
+                {
+                    "date": "2023-05-29T20:19:24Z",
+                    "message": "Fixed styling"
+                },
+                {
+                    "date": "2023-05-29T20:17:48Z",
+                    "message": "Think I got all of the testing fixed"
+                },
+                {
+                    "date": "2023-05-29T20:12:36Z",
+                    "message": "Fixed guards for type on iterations"
+                },
+                {
+                    "date": "2023-05-29T20:11:18Z",
+                    "message": "Fixed styling"
+                },
+                {
+                    "date": "2023-05-29T20:09:58Z",
+                    "message": "Had wrong return on all of my if guards"
+                },
+                {
+                    "date": "2023-05-29T20:07:20Z",
+                    "message": "Again with the for in a comment"
+                },
+                {
+                    "date": "2023-05-29T20:06:29Z",
+                    "message": "Again with the for in a comment"
+                },
+                {
+                    "date": "2023-05-29T20:05:19Z",
+                    "message": "Commit for task 3"
+                },
+                {
+                    "date": "2023-05-29T19:24:49Z",
+                    "message": "Added check for d to be the same in X and C"
+                },
+                {
+                    "date": "2023-05-29T19:15:58Z",
+                    "message": "Added test for X and C to be same shape"
+                },
+                {
+                    "date": "2023-05-29T19:09:51Z",
+                    "message": "Had the word \"for\" in a comment line again"
+                },
+                {
+                    "date": "2023-05-29T19:09:01Z",
+                    "message": "Commit for task 2"
+                },
+                {
+                    "date": "2023-05-26T23:10:20Z",
+                    "message": "Had for in a comment again"
+                },
+                {
+                    "date": "2023-05-26T23:08:02Z",
+                    "message": "Added some documentation and generally cleaned up code. Added plot image files for 5 iterations"
+                },
+                {
+                    "date": "2023-05-26T21:07:25Z",
+                    "message": "Un commented part about the X.shape"
+                },
+                {
+                    "date": "2023-05-26T19:57:18Z",
+                    "message": "Moved testing earlier in file"
+                },
+                {
+                    "date": "2023-05-26T19:55:46Z",
+                    "message": "Removed second test for X to test checker"
+                },
+                {
+                    "date": "2023-05-26T19:54:07Z",
+                    "message": "Added a couple of tests for X"
+                },
+                {
+                    "date": "2023-05-26T19:51:43Z",
+                    "message": "Added a couple of tests for iterations"
+                },
+                {
+                    "date": "2023-05-26T19:49:57Z",
+                    "message": "Added try except back in to initialize function"
+                },
+                {
+                    "date": "2023-05-26T19:30:20Z",
+                    "message": "Still chasing why I have more than 2 loops"
+                },
+                {
+                    "date": "2023-05-26T19:28:27Z",
+                    "message": "Chasing the checker"
+                },
+                {
+                    "date": "2023-05-26T19:25:52Z",
+                    "message": "added varable to counter for outer loop"
+                },
+                {
+                    "date": "2023-05-26T19:23:55Z",
+                    "message": "Removed try except to see if that is messing up the loop counter"
+                },
+                {
+                    "date": "2023-05-26T19:19:39Z",
+                    "message": "Committing for task 1 and all test files"
+                },
+                {
+                    "date": "2023-05-26T15:28:42Z",
+                    "message": "Moved my k value test into the try"
+                },
+                {
+                    "date": "2023-05-26T15:27:03Z",
+                    "message": "These exception tests are killing me"
+                },
+                {
+                    "date": "2023-05-26T15:25:15Z",
+                    "message": "tried to do try/except to catch all exceptions"
+                },
+                {
+                    "date": "2023-05-26T15:22:31Z",
+                    "message": "Added test for X to be numpy.ndarray"
+                },
+                {
+                    "date": "2023-05-26T15:17:29Z",
+                    "message": "Reverting past few changes"
+                },
+                {
+                    "date": "2023-05-26T15:15:54Z",
+                    "message": "bad test for k <= 0"
+                },
+                {
+                    "date": "2023-05-26T15:14:33Z",
+                    "message": "Added if guards for k"
+                },
+                {
+                    "date": "2023-05-26T15:11:16Z",
+                    "message": "Adding task 0 and readme"
+                },
+                {
+                    "date": "2023-05-23T01:30:36Z",
+                    "message": "Commit for task1"
+                },
+                {
+                    "date": "2023-05-23T01:09:22Z",
+                    "message": "refactored using np.linalg.scd"
+                },
+                {
+                    "date": "2023-05-23T00:36:50Z",
+                    "message": "Committing what I have for task 0. Third column sign is wrong"
+                },
+                {
+                    "date": "2023-05-15T12:20:51Z",
+                    "message": "Added file for task 3"
+                },
+                {
+                    "date": "2023-05-15T12:16:03Z",
+                    "message": "Added margin calculation. Did not update exceptions, so we will see if those should have stayed the same"
+                },
+                {
+                    "date": "2023-05-14T14:41:31Z",
+                    "message": "Added in missing check for type and shape of Pr"
+                },
+                {
+                    "date": "2023-05-14T14:39:42Z",
+                    "message": "Fixed my misunderstanding of value error for P and Pr"
+                },
+                {
+                    "date": "2023-05-14T14:38:28Z",
+                    "message": "Commit for task 1"
+                },
+                {
+                    "date": "2023-05-14T14:17:09Z",
+                    "message": "Committing test files and rest of task 0"
+                },
+                {
+                    "date": "2023-05-14T14:02:33Z",
+                    "message": "New approach to valid values in P"
+                },
+                {
+                    "date": "2023-05-13T14:46:28Z",
+                    "message": "still messing with this last one"
+                },
+                {
+                    "date": "2023-05-13T14:44:32Z",
+                    "message": "Reversed logic on P value range"
+                },
+                {
+                    "date": "2023-05-13T14:43:40Z",
+                    "message": "typo in P must be 1D numpy.ndarray"
+                },
+                {
+                    "date": "2023-05-13T14:42:40Z",
+                    "message": "It did not like my line break on x valueerror"
+                },
+                {
+                    "date": "2023-05-13T14:40:51Z",
+                    "message": "Still tweaking all of the type/value errors"
+                },
+                {
+                    "date": "2023-05-13T14:38:29Z",
+                    "message": "maybe fixed last value error"
+                },
+                {
+                    "date": "2023-05-13T14:37:06Z",
+                    "message": "Checking all of my value/type errors are correct"
+                },
+                {
+                    "date": "2023-05-13T00:50:50Z",
+                    "message": "Last commit. Going to leave well enough alone, even though the 19th decimal place does not match"
+                },
+                {
+                    "date": "2023-05-13T00:49:20Z",
+                    "message": "There is no way this is going to work"
+                },
+                {
+                    "date": "2023-05-13T00:47:24Z",
+                    "message": "Trying to force this last number to be 19 digits long"
+                },
+                {
+                    "date": "2023-05-13T00:43:16Z",
+                    "message": "Added documentation for def pdf(self, x) function"
+                },
+                {
+                    "date": "2023-05-13T00:39:59Z",
+                    "message": "Adding for tasks 2 and 3. Last two decimal places of PDF are different, so lets see what happens with the checker"
+                },
+                {
+                    "date": "2023-05-13T00:21:14Z",
+                    "message": "Commit for task 1"
+                },
+                {
+                    "date": "2023-05-12T14:10:46Z",
+                    "message": "Fixing pycodestyle"
+                },
+                {
+                    "date": "2023-05-12T14:10:09Z",
+                    "message": "Refactored code for task zero. Rounding differences in my first approach after second or third decimal place"
+                },
+                {
+                    "date": "2023-05-09T20:50:49Z",
+                    "message": "Added in section for covariance calculations"
+                },
+                {
+                    "date": "2023-05-09T20:13:30Z",
+                    "message": "Changed and to or in TypeError check"
+                },
+                {
+                    "date": "2023-05-09T20:11:32Z",
+                    "message": "Changed test for X being 2D array"
+                },
+                {
+                    "date": "2023-05-09T20:09:57Z",
+                    "message": "Committing mean calculation for task 0"
+                },
+                {
+                    "date": "2023-05-09T19:33:52Z",
+                    "message": "Removed test print statement"
+                },
+                {
+                    "date": "2023-05-09T19:27:35Z",
+                    "message": "Made some changes while figuring out the negative definite and negative semi-definite not working the way I wanted it to"
+                },
+                {
+                    "date": "2023-05-09T19:07:59Z",
+                    "message": "Added check for symmetry for checker?"
+                },
+                {
+                    "date": "2023-05-09T18:53:10Z",
+                    "message": "Swapped order of negative definite and semi-definite and got a different result"
+                },
+                {
+                    "date": "2023-05-09T18:38:33Z",
+                    "message": "Commit for task 5"
+                },
+                {
+                    "date": "2023-05-09T18:18:14Z",
+                    "message": "Commit for task 4"
+                },
+                {
+                    "date": "2023-05-09T18:06:42Z",
+                    "message": "Commit task 3, adjugate"
+                },
+                {
+                    "date": "2023-05-09T17:49:36Z",
+                    "message": "Commit for task 2, cofactor"
+                },
+                {
+                    "date": "2023-05-09T01:51:00Z",
+                    "message": "I feel like I forced in the solution for that 1 x 1 matrix"
+                },
+                {
+                    "date": "2023-05-09T01:45:46Z",
+                    "message": "Does not seem to be working 1 x 1 matrix yet"
+                },
+                {
+                    "date": "2023-05-09T00:52:04Z",
+                    "message": "fixed pycodestyle. playing with the grading on the new intranet"
+                },
+                {
+                    "date": "2023-05-09T00:50:35Z",
+                    "message": "Checking to see if I got all the errors"
+                },
+                {
+                    "date": "2023-05-08T20:23:04Z",
+                    "message": "Added all test files"
+                },
+                {
+                    "date": "2023-05-08T20:18:14Z",
+                    "message": "Now comparing the length of each row to the number of rows"
+                },
+                {
+                    "date": "2023-05-08T20:00:25Z",
+                    "message": "Changed up how to check for square matrix to ensure all rows are correct length"
+                },
+                {
+                    "date": "2023-05-08T19:55:43Z",
+                    "message": "Committing files for task 0"
+                },
+                {
+                    "date": "2023-05-08T15:45:06Z",
+                    "message": "Committing READMEs for bayesian_prob and multivariate_prob"
+                },
+                {
+                    "date": "2023-05-08T15:23:16Z",
+                    "message": "Added README for advanced_linear_algebra directory"
+                },
+                {
+                    "date": "2023-05-04T19:05:50Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-05-04T19:03:56Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-05-04T18:24:42Z",
+                    "message": "Merge branch 'main' of https://github.com/bsbanotto/holbertonschool-machine_learning into main"
+                },
+                {
+                    "date": "2023-05-04T18:24:02Z",
+                    "message": "Updated README to make more user friendly"
+                },
+                {
+                    "date": "2023-04-21T22:38:57Z",
+                    "message": "Delete Office_Desk_Objects_2.JPG"
+                },
+                {
+                    "date": "2023-04-21T22:38:08Z",
+                    "message": "Added street photo"
+                },
+                {
+                    "date": "2023-04-21T17:37:33Z",
+                    "message": "More .gitignore updates"
+                },
+                {
+                    "date": "2023-04-21T17:37:13Z",
+                    "message": "Committing new testing object detected images"
+                },
+                {
+                    "date": "2023-04-21T17:07:18Z",
+                    "message": "Updated gitignore to ignore images"
+                },
+                {
+                    "date": "2023-04-21T17:06:34Z",
+                    "message": "Playing around with non-max-suppression in jupyter notebook"
+                },
+                {
+                    "date": "2023-04-21T16:15:27Z",
+                    "message": "Committing labeled images"
+                },
+                {
+                    "date": "2023-04-21T16:05:35Z",
+                    "message": "Commit for task 7"
+                },
+                {
+                    "date": "2023-04-20T16:38:42Z",
+                    "message": "Commit for task 6"
+                },
+                {
+                    "date": "2023-04-19T18:38:54Z",
+                    "message": "Normalizing by divide by 255 instead of cv2.NORMALIZE"
+                },
+                {
+                    "date": "2023-04-19T17:56:23Z",
+                    "message": "Changed upper bound of normalize from 1.0 to 1 to try to fix rounding errors."
+                },
+                {
+                    "date": "2023-04-19T17:53:05Z",
+                    "message": "changed base image size to call instead of hard coded size"
+                },
+                {
+                    "date": "2023-04-19T17:45:21Z",
+                    "message": "Normalized after resizing this time"
+                },
+                {
+                    "date": "2023-04-19T17:35:42Z",
+                    "message": "Forgot to normalize pixel values between 0 and 1"
+                },
+                {
+                    "date": "2023-04-19T17:23:19Z",
+                    "message": "Commit for task 6"
+                },
+                {
+                    "date": "2023-04-19T16:23:40Z",
+                    "message": "Committing for task 4"
+                },
+                {
+                    "date": "2023-04-18T02:24:53Z",
+                    "message": "Added .value back to that one thing"
+                },
+                {
+                    "date": "2023-04-18T02:24:31Z",
+                    "message": "Committing code for task 3, I think I found two extra boxes"
+                },
+                {
+                    "date": "2023-04-17T18:04:29Z",
+                    "message": "Trying out task 2"
+                },
+                {
+                    "date": "2023-04-17T15:50:39Z",
+                    "message": "Final file update before re-running checker and moving on"
+                },
+                {
+                    "date": "2023-04-17T15:47:21Z",
+                    "message": "Committing with pycodestyle fixes"
+                },
+                {
+                    "date": "2023-04-17T15:44:07Z",
+                    "message": "Playing with tensorflow versions"
+                },
+                {
+                    "date": "2023-04-17T15:34:54Z",
+                    "message": "Added .value to input height and width"
+                },
+                {
+                    "date": "2023-04-17T15:31:55Z",
+                    "message": "Moved sigmoid outside process_outputs function"
+                },
+                {
+                    "date": "2023-04-17T14:53:32Z",
+                    "message": "Had height and width mixed up when moving box location from corner to center"
+                },
+                {
+                    "date": "2023-04-17T14:45:30Z",
+                    "message": "Committing files for task 1"
+                },
+                {
+                    "date": "2023-04-10T18:18:55Z",
+                    "message": "cleared outputs from jupyter notebook"
+                },
+                {
+                    "date": "2023-04-10T19:47:02Z",
+                    "message": "Update 0-yolo.py\n\nFixed how new line at end of text file pulled int class_names list"
+                },
+                {
+                    "date": "2023-04-10T17:53:34Z",
+                    "message": "Commit for task 0 after pycodestyle check"
+                },
+                {
+                    "date": "2023-04-10T17:52:47Z",
+                    "message": "Commit for task 0"
+                },
+                {
+                    "date": "2023-04-10T14:39:03Z",
+                    "message": "Committing README and gitignore. Test files are stored locally"
+                },
+                {
+                    "date": "2023-04-04T02:55:42Z",
+                    "message": "Updated README Table\nMerge branch 'main' of https://github.com/bsbanotto/holbertonschool-machine_learning into main"
+                },
+                {
+                    "date": "2023-04-04T02:54:56Z",
+                    "message": "Committing final training updates"
+                },
+                {
+                    "date": "2023-04-03T19:52:46Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-04-03T19:52:21Z",
+                    "message": "Update README.md\n\nChanged order of columns in blog post table."
+                },
+                {
+                    "date": "2023-04-03T16:14:38Z",
+                    "message": "Ran python script locally to create cifar10.h5 file. Created 0-evaluate.py to evaluate model"
+                },
+                {
+                    "date": "2023-03-28T22:03:19Z",
+                    "message": "Changed batch size to be able to train on CPU"
+                },
+                {
+                    "date": "2023-03-27T21:33:09Z",
+                    "message": "Obtained 87.52% accuracy with this model"
+                },
+                {
+                    "date": "2023-03-27T20:21:54Z",
+                    "message": "Typo on task 0 title"
+                },
+                {
+                    "date": "2023-03-27T20:10:56Z",
+                    "message": "Adding in current model state. 83.34% accuracy on evaluation"
+                },
+                {
+                    "date": "2023-03-27T20:00:49Z",
+                    "message": "Updated format of README"
+                },
+                {
+                    "date": "2023-03-24T16:30:41Z",
+                    "message": "Fixed broken table in README"
+                },
+                {
+                    "date": "2023-03-24T16:25:20Z",
+                    "message": "Adding README to directory"
+                },
+                {
+                    "date": "2023-03-21T20:50:39Z",
+                    "message": "Trying out more stuff"
+                },
+                {
+                    "date": "2023-03-21T20:46:54Z",
+                    "message": "For some reason, the checker does not like K.layers.Relu()(batch_norm)"
+                },
+                {
+                    "date": "2023-03-21T20:42:53Z",
+                    "message": "Reverting previous change"
+                },
+                {
+                    "date": "2023-03-21T20:41:55Z",
+                    "message": "Trying something new on task 7"
+                },
+                {
+                    "date": "2023-03-21T20:31:35Z",
+                    "message": "Trying out task 7"
+                },
+                {
+                    "date": "2023-03-21T17:56:13Z",
+                    "message": "Typecasted filters to integer. I did not realize it was a float"
+                },
+                {
+                    "date": "2023-03-21T17:53:41Z",
+                    "message": "Commit for task 6"
+                },
+                {
+                    "date": "2023-03-21T17:20:08Z",
+                    "message": "Commit for task 5"
+                },
+                {
+                    "date": "2023-03-21T15:49:49Z",
+                    "message": "Changed avgpool size from 1x1 to 7x7"
+                },
+                {
+                    "date": "2023-03-21T15:41:18Z",
+                    "message": "Trying out task 4"
+                },
+                {
+                    "date": "2023-03-20T19:47:22Z",
+                    "message": "Misread which layers have s strides"
+                },
+                {
+                    "date": "2023-03-20T19:38:34Z",
+                    "message": "Commit for task 3"
+                },
+                {
+                    "date": "2023-03-20T17:32:25Z",
+                    "message": "Changed order of list to add_layer"
+                },
+                {
+                    "date": "2023-03-20T17:22:37Z",
+                    "message": "fixed pycodestyle"
+                },
+                {
+                    "date": "2023-03-20T17:21:02Z",
+                    "message": "Removed activation from each convolutional layer. Removed last ReLU before add"
+                },
+                {
+                    "date": "2023-03-20T16:53:39Z",
+                    "message": "Commit for task 2"
+                },
+                {
+                    "date": "2023-03-20T16:03:37Z",
+                    "message": "Commit for task 1"
+                },
+                {
+                    "date": "2023-03-17T18:47:41Z",
+                    "message": "Commit for task 0"
+                },
+                {
+                    "date": "2023-03-17T16:53:19Z",
+                    "message": "Added images to README"
+                },
+                {
+                    "date": "2023-03-17T16:46:52Z",
+                    "message": "Committing README template and images. Need to add images to README"
+                },
+                {
+                    "date": "2023-03-13T16:59:35Z",
+                    "message": "Commit for task 5"
+                },
+                {
+                    "date": "2023-03-13T16:07:02Z",
+                    "message": "Forgot to change my init from jupyter to checker"
+                },
+                {
+                    "date": "2023-03-13T16:03:42Z",
+                    "message": "Committing for task 4"
+                },
+                {
+                    "date": "2023-03-11T19:53:40Z",
+                    "message": "Checker did not seem to care about suppress print options. I left it in so it prints nice on my machine"
+                },
+                {
+                    "date": "2023-03-11T19:52:30Z",
+                    "message": "Removed np.set_printoptions to see if checker is ok with scientific notation in matrix"
+                },
+                {
+                    "date": "2023-03-11T19:51:34Z",
+                    "message": "Called wrong dA matrix for avg"
+                },
+                {
+                    "date": "2023-03-11T19:49:58Z",
+                    "message": "Commit for task 3"
+                },
+                {
+                    "date": "2023-03-11T15:39:07Z",
+                    "message": "Added keepdims=True after comparing to passing code"
+                },
+                {
+                    "date": "2023-03-11T15:32:50Z",
+                    "message": "Testing the checker"
+                },
+                {
+                    "date": "2023-03-11T15:23:22Z",
+                    "message": "Changed c_new to be equal to b.shape[3]"
+                },
+                {
+                    "date": "2023-03-11T15:15:40Z",
+                    "message": "Changed linebreaks in dW and dA_prev hoping for rounding error for some reason"
+                },
+                {
+                    "date": "2023-03-10T22:39:21Z",
+                    "message": "Reverted prior change"
+                },
+                {
+                    "date": "2023-03-10T22:37:28Z",
+                    "message": "Removed +1 from my padding formula"
+                },
+                {
+                    "date": "2023-03-10T22:30:44Z",
+                    "message": "Commit on task 2"
+                },
+                {
+                    "date": "2023-03-10T18:35:29Z",
+                    "message": "Commit for task 1"
+                },
+                {
+                    "date": "2023-03-10T18:20:30Z",
+                    "message": "Removed +1 from padding same calculations"
+                },
+                {
+                    "date": "2023-03-10T18:14:30Z",
+                    "message": "Committing for task 0"
+                },
+                {
+                    "date": "2023-03-10T17:10:58Z",
+                    "message": "updated README to show images"
+                },
+                {
+                    "date": "2023-03-10T17:08:11Z",
+                    "message": "Committing images folder"
+                },
+                {
+                    "date": "2023-03-10T17:06:06Z",
+                    "message": "Adding README to repo"
+                },
+                {
+                    "date": "2023-03-08T03:43:22Z",
+                    "message": "Committing updates to convolution Jupyter notebook"
+                },
+                {
+                    "date": "2023-03-08T03:42:53Z",
+                    "message": "Committing animals data file"
+                },
+                {
+                    "date": "2023-03-07T21:06:52Z",
+                    "message": "Removed test print"
+                },
+                {
+                    "date": "2023-03-07T21:05:17Z",
+                    "message": "Commit for task 6"
+                },
+                {
+                    "date": "2023-03-07T20:28:15Z",
+                    "message": "Committing for tasks 4 and 5"
+                },
+                {
+                    "date": "2023-03-07T19:14:05Z",
+                    "message": "Changed output image size calculation to outside of test case loops"
+                },
+                {
+                    "date": "2023-03-07T19:06:18Z",
+                    "message": "Changed padding calculations for same"
+                },
+                {
+                    "date": "2023-03-07T18:58:54Z",
+                    "message": "Added padding this time"
+                },
+                {
+                    "date": "2023-03-07T18:18:42Z",
+                    "message": "Delete supervised_learning/0x03-convolutions_and_pooling directory"
+                },
+                {
+                    "date": "2023-03-07T18:17:09Z",
+                    "message": "commented out test print statement"
+                },
+                {
+                    "date": "2023-03-07T18:14:06Z",
+                    "message": "Commit task 3"
+                },
+                {
+                    "date": "2023-03-07T16:39:21Z",
+                    "message": "Removed commented lines"
+                },
+                {
+                    "date": "2023-03-07T16:37:58Z",
+                    "message": "Commit for task 2"
+                },
+                {
+                    "date": "2023-03-07T14:53:11Z",
+                    "message": "stupid pycodestyle"
+                },
+                {
+                    "date": "2023-03-07T14:52:06Z",
+                    "message": "Cleaned up a lot of my hang over logic from forcing padding side to hopefully help"
+                },
+                {
+                    "date": "2023-03-07T14:44:49Z",
+                    "message": "Commit for task 1"
+                },
+                {
+                    "date": "2023-03-06T23:04:35Z",
+                    "message": "Commit for task 0"
+                },
+                {
+                    "date": "2023-03-06T21:13:21Z",
+                    "message": "Committing Jupyter notebook with cleared outputs"
+                },
+                {
+                    "date": "2023-03-06T21:11:18Z",
+                    "message": "Commit for task 13"
+                },
+                {
+                    "date": "2023-03-06T21:06:30Z",
+                    "message": "Added Keras import even though I am not using it"
+                },
+                {
+                    "date": "2023-03-06T21:05:35Z",
+                    "message": "Commit task 12"
+                },
+                {
+                    "date": "2023-03-06T20:57:46Z",
+                    "message": "Commit for task 11"
+                },
+                {
+                    "date": "2023-03-06T20:42:50Z",
+                    "message": "Committing for task 10"
+                },
+                {
+                    "date": "2023-03-06T20:23:48Z",
+                    "message": "commit for task 9"
+                },
+                {
+                    "date": "2023-03-06T20:01:08Z",
+                    "message": "Commit for task 8"
+                },
+                {
+                    "date": "2023-03-06T19:46:42Z",
+                    "message": "was my function name wrong this whole time?"
+                },
+                {
+                    "date": "2023-03-06T19:31:32Z",
+                    "message": "I am getting close to my end"
+                },
+                {
+                    "date": "2023-03-06T18:58:00Z",
+                    "message": "Added comments to task 7 to run through checker"
+                },
+                {
+                    "date": "2023-03-06T18:54:33Z",
+                    "message": "Task 7 attempts at fixes"
+                },
+                {
+                    "date": "2023-03-06T18:39:13Z",
+                    "message": "Trying out task 7"
+                },
+                {
+                    "date": "2023-03-06T18:32:53Z",
+                    "message": "Refactored task 6 while working on 7"
+                },
+                {
+                    "date": "2023-03-06T17:52:04Z",
+                    "message": "That name thing really sent me down a rabbit hole"
+                },
+                {
+                    "date": "2023-03-06T17:50:32Z",
+                    "message": "Fixed naming error in function"
+                },
+                {
+                    "date": "2023-03-06T17:49:35Z",
+                    "message": "Had return at wrong tab level"
+                },
+                {
+                    "date": "2023-03-06T17:43:00Z",
+                    "message": "Changed up return if validation data is None"
+                },
+                {
+                    "date": "2023-03-06T17:40:22Z",
+                    "message": "Commit for task 7"
+                },
+                {
+                    "date": "2023-03-06T16:57:16Z",
+                    "message": "Trying again to capture no validation data passed"
+                },
+                {
+                    "date": "2023-03-06T16:49:40Z",
+                    "message": "Changed if guard"
+                },
+                {
+                    "date": "2023-03-06T16:40:37Z",
+                    "message": "Commit for task 6"
+                },
+                {
+                    "date": "2023-03-06T16:20:15Z",
+                    "message": "Fixed pycodestyle after function name change"
+                },
+                {
+                    "date": "2023-03-06T16:19:18Z",
+                    "message": "Fixed name of function"
+                },
+                {
+                    "date": "2023-03-06T16:19:02Z",
+                    "message": "Commit for task 5"
+                },
+                {
+                    "date": "2023-03-03T21:25:18Z",
+                    "message": "Commit for tasks 3 and 4"
+                },
+                {
+                    "date": "2023-03-03T19:08:23Z",
+                    "message": "Commit for task 2"
+                },
+                {
+                    "date": "2023-03-03T17:53:38Z",
+                    "message": "Turns out I was making changes to my Jupyter file and not 1-input.py"
+                },
+                {
+                    "date": "2023-03-03T17:52:22Z",
+                    "message": "Had an errant comma that may be what is stumpiung the checker"
+                },
+                {
+                    "date": "2023-03-03T17:37:24Z",
+                    "message": "Fixed indent on where model is declared to handle single layer created"
+                },
+                {
+                    "date": "2023-03-03T17:31:43Z",
+                    "message": "Commit for task 1"
+                },
+                {
+                    "date": "2023-03-03T16:34:50Z",
+                    "message": "Reverted to first try with regularizers.l2 lowercase"
+                },
+                {
+                    "date": "2023-03-03T16:33:07Z",
+                    "message": "Changed regularizers.L2 to regularizers.l2"
+                },
+                {
+                    "date": "2023-03-03T16:30:04Z",
+                    "message": "Refactored to try to appease checker"
+                },
+                {
+                    "date": "2023-03-03T15:45:55Z",
+                    "message": "Committing for task 0"
+                },
+                {
+                    "date": "2023-03-03T15:07:09Z",
+                    "message": "Added README for 0x03. Convolutions and Pooling"
+                },
+                {
+                    "date": "2023-03-03T15:02:12Z",
+                    "message": "Updated .gitignore to have fully functional jupyter notebooks in my github"
+                },
+                {
+                    "date": "2023-03-01T19:51:45Z",
+                    "message": "More straws to grasp"
+                },
+                {
+                    "date": "2023-03-01T19:50:10Z",
+                    "message": "More straws to grasp"
+                },
+                {
+                    "date": "2023-03-01T19:48:16Z",
+                    "message": "I think I had my saver and return at the wrong tab"
+                },
+                {
+                    "date": "2023-03-01T19:46:34Z",
+                    "message": "Grasping at straws"
+                },
+                {
+                    "date": "2023-03-01T19:42:46Z",
+                    "message": "Fixed pycodestyle"
+                },
+                {
+                    "date": "2023-03-01T19:41:27Z",
+                    "message": "Reworked how my mini-batches loop through"
+                },
+                {
+                    "date": "2023-03-01T17:45:49Z",
+                    "message": "Changed to break when epochs == epoch"
+                },
+                {
+                    "date": "2023-03-01T17:44:43Z",
+                    "message": "Changed if epochs < epoch to while epochs < epoch"
+                },
+                {
+                    "date": "2023-03-01T17:36:04Z",
+                    "message": "Trying out a few things on task 15"
+                },
+                {
+                    "date": "2023-03-01T17:35:30Z",
+                    "message": "Trying out a few things on task 15"
+                },
+                {
+                    "date": "2023-03-01T17:33:37Z",
+                    "message": "Trying out a few things on task 15"
+                },
+                {
+                    "date": "2023-02-28T04:12:43Z",
+                    "message": "Commit for task 7"
+                },
+                {
+                    "date": "2023-02-28T03:16:02Z",
+                    "message": "Committing for task 6"
+                },
+                {
+                    "date": "2023-02-28T02:53:45Z",
+                    "message": "Commit for task 5"
+                },
+                {
+                    "date": "2023-02-28T02:29:10Z",
+                    "message": "Committing task 4"
+                },
+                {
+                    "date": "2023-02-27T19:02:35Z",
+                    "message": "Committing thru task 3. Hoping I got all of the jupyter to old stuff fixed right"
+                },
+                {
+                    "date": "2023-02-27T15:21:55Z",
+                    "message": "Merge branch 'main' of https://github.com/bsbanotto/holbertonschool-machine_learning into main"
+                },
+                {
+                    "date": "2023-02-27T15:21:44Z",
+                    "message": "Committing README"
+                },
+                {
+                    "date": "2023-02-24T20:42:07Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-02-24T20:39:49Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-02-24T20:23:26Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-02-24T20:19:03Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-02-24T20:18:41Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-02-24T20:17:12Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-02-24T20:16:33Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-02-24T20:15:26Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-02-24T20:15:08Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-02-24T20:10:17Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-02-24T20:09:55Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-02-24T20:08:49Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-02-24T20:08:21Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-02-24T20:06:51Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-02-24T20:05:40Z",
+                    "message": "Added photos for readme"
+                },
+                {
+                    "date": "2023-02-24T20:01:54Z",
+                    "message": "Updated README"
+                },
+                {
+                    "date": "2023-02-24T19:49:45Z",
+                    "message": "Fixed answer. Should have done math and not assumed"
+                },
+                {
+                    "date": "2023-02-24T19:48:18Z",
+                    "message": "Choosing C because training and validation matrices are similar when considering human error is ~14%"
+                },
+                {
+                    "date": "2023-02-24T19:45:35Z",
+                    "message": "Removed spaces and changed answer for question 3"
+                },
+                {
+                    "date": "2023-02-24T19:44:34Z",
+                    "message": "Updated answers to questions 1 and 2"
+                },
+                {
+                    "date": "2023-02-24T19:43:00Z",
+                    "message": "Commit for task 5"
+                },
+                {
+                    "date": "2023-02-24T19:25:57Z",
+                    "message": "Added imports to task 4"
+                },
+                {
+                    "date": "2023-02-24T19:24:57Z",
+                    "message": "Apparently I broke my code when I pycodestyled it"
+                },
+                {
+                    "date": "2023-02-24T19:20:40Z",
+                    "message": "Typo in 3-specificity filename"
+                },
+                {
+                    "date": "2023-02-24T19:19:11Z",
+                    "message": "Committing files thru task 4"
+                },
+                {
+                    "date": "2023-02-24T17:40:10Z",
+                    "message": "Adding readme for checker"
+                },
+                {
+                    "date": "2023-02-24T17:38:24Z",
+                    "message": "Commit for task 0"
+                },
+                {
+                    "date": "2023-02-24T00:54:28Z",
+                    "message": "Committing for task 15"
+                },
+                {
+                    "date": "2023-02-21T00:22:29Z",
+                    "message": "Further improvement to variable names in task 3"
+                },
+                {
+                    "date": "2023-02-20T23:44:12Z",
+                    "message": "Changed if to while for mini_batch size catching"
+                },
+                {
+                    "date": "2023-02-20T23:04:23Z",
+                    "message": "Removed activation pass to layer creation. Allow default init values"
+                },
+                {
+                    "date": "2023-02-20T22:58:45Z",
+                    "message": "I did not realize I needed to pass the batch normalization to activation"
+                },
+                {
+                    "date": "2023-02-20T22:46:53Z",
+                    "message": "I really do not understand why this is not working"
+                },
+                {
+                    "date": "2023-02-20T22:39:27Z",
+                    "message": "Rewrote using tf.layers.Dense instead of tf.layers.dense"
+                },
+                {
+                    "date": "2023-02-20T22:02:53Z",
+                    "message": "Reverted last change"
+                },
+                {
+                    "date": "2023-02-20T21:57:28Z",
+                    "message": "switched order beta and gamma are passed"
+                },
+                {
+                    "date": "2023-02-20T21:56:22Z",
+                    "message": "Removed [] around zero in variance calculation"
+                },
+                {
+                    "date": "2023-02-20T21:52:45Z",
+                    "message": "remived activation from layer creation"
+                },
+                {
+                    "date": "2023-02-20T21:50:16Z",
+                    "message": "changed epsilon from fraction to sci notation"
+                },
+                {
+                    "date": "2023-02-20T21:36:52Z",
+                    "message": "Trying out task 14."
+                },
+                {
+                    "date": "2023-02-20T19:43:22Z",
+                    "message": "I thought I was smarter than Andrew Ng.....silly, silly me."
+                },
+                {
+                    "date": "2023-02-20T19:31:15Z",
+                    "message": "Commit for task 13"
+                },
+                {
+                    "date": "2023-02-20T19:07:24Z",
+                    "message": "Commit for task 12"
+                },
+                {
+                    "date": "2023-02-20T18:50:15Z",
+                    "message": "Commit task 11"
+                },
+                {
+                    "date": "2023-02-20T18:34:37Z",
+                    "message": "Commit for task 10"
+                },
+                {
+                    "date": "2023-02-20T17:55:48Z",
+                    "message": "Commit for task 9"
+                },
+                {
+                    "date": "2023-02-20T15:47:53Z",
+                    "message": "Passed beta2 in as decay instead of momentum this time"
+                },
+                {
+                    "date": "2023-02-20T15:46:07Z",
+                    "message": "Commit for task 8"
+                },
+                {
+                    "date": "2023-02-20T15:18:03Z",
+                    "message": "Commit for task 7"
+                },
+                {
+                    "date": "2023-02-20T14:52:47Z",
+                    "message": "Commit for task 6"
+                },
+                {
+                    "date": "2023-02-19T19:59:16Z",
+                    "message": "changed object names to match function"
+                },
+                {
+                    "date": "2023-02-19T19:53:09Z",
+                    "message": "changed object names to match function"
+                },
+                {
+                    "date": "2023-02-19T19:47:08Z",
+                    "message": "Committing for task 5"
+                },
+                {
+                    "date": "2023-02-19T18:17:14Z",
+                    "message": "Commit for task 4"
+                },
+                {
+                    "date": "2023-02-18T03:36:57Z",
+                    "message": "Added in if guard to adjust for smaller final mini-batch"
+                },
+                {
+                    "date": "2023-02-18T03:33:16Z",
+                    "message": "Messed with the if settings on my mini batch loops chashing checker"
+                },
+                {
+                    "date": "2023-02-18T03:22:13Z",
+                    "message": "Removed +1 from mini_batch starting calculation to try to get step cost and accuracy for checker"
+                },
+                {
+                    "date": "2023-02-18T03:13:32Z",
+                    "message": "Removed numpy import"
+                },
+                {
+                    "date": "2023-02-18T03:12:34Z",
+                    "message": "Removed tensorflow import"
+                },
+                {
+                    "date": "2023-02-18T03:11:39Z",
+                    "message": "Removed tensorflow imports"
+                },
+                {
+                    "date": "2023-02-18T03:10:38Z",
+                    "message": "Committing files thru task 3 from Colab"
+                },
+                {
+                    "date": "2023-02-14T18:27:45Z",
+                    "message": "Updated readme, bolded tasks the right way"
+                },
+                {
+                    "date": "2023-02-14T18:04:27Z",
+                    "message": "Committing for task 7 while colab is running"
+                },
+                {
+                    "date": "2023-02-14T16:24:44Z",
+                    "message": "Reverted back all changes to when I was getting checks"
+                },
+                {
+                    "date": "2023-02-14T16:21:57Z",
+                    "message": "Reminder, 0th iteration is before any training has occurred"
+                },
+                {
+                    "date": "2023-02-14T16:18:23Z",
+                    "message": "Fixed pycodestyle in documentation"
+                },
+                {
+                    "date": "2023-02-14T16:15:15Z",
+                    "message": "Updated some documentation, re-ordered if operations"
+                },
+                {
+                    "date": "2023-02-14T16:00:34Z",
+                    "message": "I thought the variable initializer would automatically make sess.run(init) work. Too much documentation"
+                },
+                {
+                    "date": "2023-02-14T15:41:34Z",
+                    "message": "Fixed documentation and pycodestyle"
+                },
+                {
+                    "date": "2023-02-14T15:37:53Z",
+                    "message": "Keep getting init is not defined, but seeing if checker is ok"
+                },
+                {
+                    "date": "2023-02-13T16:53:15Z",
+                    "message": "Commit for task 5"
+                },
+                {
+                    "date": "2023-02-13T16:21:12Z",
+                    "message": "Named file wrong"
+                },
+                {
+                    "date": "2023-02-13T16:19:55Z",
+                    "message": "Commit for task 4"
+                },
+                {
+                    "date": "2023-02-13T15:58:39Z",
+                    "message": "Commit for task 3. Thanks for the link Zach"
+                },
+                {
+                    "date": "2023-02-13T15:24:45Z",
+                    "message": "Forgot to import tensorflow from Colab"
+                },
+                {
+                    "date": "2023-02-13T15:24:15Z",
+                    "message": "Commit for task 2"
+                },
+                {
+                    "date": "2023-02-12T18:54:25Z",
+                    "message": "Commit for task 1. Tested in Colab, will rely on checker"
+                },
+                {
+                    "date": "2023-02-10T22:32:47Z",
+                    "message": "Stupid checker"
+                },
+                {
+                    "date": "2023-02-10T22:32:18Z",
+                    "message": "Beating that checker"
+                },
+                {
+                    "date": "2023-02-10T22:31:33Z",
+                    "message": "Trying again to beat the checker"
+                },
+                {
+                    "date": "2023-02-10T22:28:55Z",
+                    "message": "Trying again to get past checker on imports"
+                },
+                {
+                    "date": "2023-02-10T22:28:03Z",
+                    "message": "Improved README, trying commenting out imports differently"
+                },
+                {
+                    "date": "2023-02-10T21:42:39Z",
+                    "message": "Trying again for checker"
+                },
+                {
+                    "date": "2023-02-10T21:41:42Z",
+                    "message": "Fixing import for checker"
+                },
+                {
+                    "date": "2023-02-10T21:40:58Z",
+                    "message": "Committing for task 0"
+                },
+                {
+                    "date": "2023-02-09T19:41:46Z",
+                    "message": "Committing PLD changes, meeting pycodestyle this time"
+                },
+                {
+                    "date": "2023-02-09T19:40:02Z",
+                    "message": "Committing PLD changes"
+                },
+                {
+                    "date": "2023-02-09T19:39:27Z",
+                    "message": "Merge branch 'main' of https://github.com/bsbanotto/holbertonschool-machine_learning into main"
+                },
+                {
+                    "date": "2023-02-09T19:39:19Z",
+                    "message": "Committing PLD fixes to task 26"
+                },
+                {
+                    "date": "2023-02-09T00:24:27Z",
+                    "message": "Update 26-deep_neural_network.py\n\nReverted last change"
+                },
+                {
+                    "date": "2023-02-09T00:22:30Z",
+                    "message": "Update 26-deep_neural_network.py\n\nRemoved + 1 from training loop"
+                },
+                {
+                    "date": "2023-02-08T17:07:23Z",
+                    "message": "Recommitting task 26, leaving save broken"
+                },
+                {
+                    "date": "2023-02-08T15:14:16Z",
+                    "message": "Moved where plot is printed to try to get save checks"
+                },
+                {
+                    "date": "2023-02-08T14:53:39Z",
+                    "message": "Updated main file for task 26 to test vs checker"
+                },
+                {
+                    "date": "2023-02-07T17:20:55Z",
+                    "message": "Reverted changes. I think the checker is kaput"
+                },
+                {
+                    "date": "2023-02-07T17:17:47Z",
+                    "message": "Testing with open on save to see if that gets checks"
+                },
+                {
+                    "date": "2023-02-07T17:04:10Z",
+                    "message": "Committ for task 26 and main files through end of project"
+                },
+                {
+                    "date": "2023-02-07T02:43:59Z",
+                    "message": "Added if checks instead of try/except"
+                },
+                {
+                    "date": "2023-02-07T02:40:45Z",
+                    "message": "Forgot I could not use loops"
+                },
+                {
+                    "date": "2023-02-07T02:01:56Z",
+                    "message": "I thought I had tried this already"
+                },
+                {
+                    "date": "2023-02-07T02:00:09Z",
+                    "message": "Chasing the last check"
+                },
+                {
+                    "date": "2023-02-07T01:59:18Z",
+                    "message": "Chasing the last check on this one"
+                },
+                {
+                    "date": "2023-02-07T01:58:06Z",
+                    "message": "Fixed pycodestyle and added check for Y as np.array"
+                },
+                {
+                    "date": "2023-02-07T01:47:39Z",
+                    "message": "Committing one-hot encode and decode"
+                },
+                {
+                    "date": "2023-02-06T20:25:19Z",
+                    "message": "Committing files for task 23"
+                },
+                {
+                    "date": "2023-02-06T19:29:59Z",
+                    "message": "Committing for tasks 21 and 22"
+                },
+                {
+                    "date": "2023-02-06T17:32:35Z",
+                    "message": "Commit for task 20"
+                },
+                {
+                    "date": "2023-02-06T17:04:55Z",
+                    "message": "Commit for task 19"
+                },
+                {
+                    "date": "2023-02-06T16:58:51Z",
+                    "message": "Commit for task 18"
+                },
+                {
+                    "date": "2023-02-06T16:33:53Z",
+                    "message": "commit for task 17"
+                },
+                {
+                    "date": "2023-02-06T16:23:51Z",
+                    "message": "Changed up weights calculations"
+                },
+                {
+                    "date": "2023-02-06T16:11:58Z",
+                    "message": "Trying out task 16, confusing to validate"
+                },
+                {
+                    "date": "2023-02-05T22:27:28Z",
+                    "message": "Commit for task 15"
+                },
+                {
+                    "date": "2023-02-05T21:32:30Z",
+                    "message": "Commit for task 14"
+                },
+                {
+                    "date": "2023-02-05T21:17:57Z",
+                    "message": "Added back in print statements I used for testing"
+                },
+                {
+                    "date": "2023-02-05T20:47:16Z",
+                    "message": "Committing for task 13"
+                },
+                {
+                    "date": "2023-02-05T20:07:39Z",
+                    "message": "Commit task 12"
+                },
+                {
+                    "date": "2023-02-05T19:59:19Z",
+                    "message": "Cost for a neural network is same as neuron"
+                },
+                {
+                    "date": "2023-02-05T19:53:53Z",
+                    "message": "Fixed pycodestyle for all files, add for task 10"
+                },
+                {
+                    "date": "2023-02-05T19:38:45Z",
+                    "message": "Fixed pycodestyle"
+                },
+                {
+                    "date": "2023-02-05T19:37:59Z",
+                    "message": "Committing for task 9"
+                },
+                {
+                    "date": "2023-02-05T19:30:17Z",
+                    "message": "Removed matplotlib import"
+                },
+                {
+                    "date": "2023-02-05T19:28:46Z",
+                    "message": "Commit for task 8"
+                },
+                {
+                    "date": "2023-02-04T00:13:20Z",
+                    "message": "Commit for task 7"
+                },
+                {
+                    "date": "2023-02-03T22:37:43Z",
+                    "message": "Did pycodestyle fixes before pushing"
+                },
+                {
+                    "date": "2023-02-03T22:37:13Z",
+                    "message": "Commit for task 6"
+                },
+                {
+                    "date": "2023-02-03T22:27:38Z",
+                    "message": "pycodestyle fix task 5"
+                },
+                {
+                    "date": "2023-02-03T22:26:34Z",
+                    "message": "Commits for task 5"
+                },
+                {
+                    "date": "2023-02-03T19:00:00Z",
+                    "message": "Committing tasks 3 and 4"
+                },
+                {
+                    "date": "2023-02-03T16:40:03Z",
+                    "message": "Better understanding of propogation"
+                },
+                {
+                    "date": "2023-02-03T15:52:20Z",
+                    "message": "fixed pycodestyle"
+                },
+                {
+                    "date": "2023-02-03T15:49:49Z",
+                    "message": "Trying out task 2"
+                },
+                {
+                    "date": "2023-02-03T15:13:59Z",
+                    "message": "getter, no setter dammit"
+                },
+                {
+                    "date": "2023-02-03T14:45:16Z",
+                    "message": "Priatizing is not working quite yet"
+                },
+                {
+                    "date": "2023-02-03T14:24:28Z",
+                    "message": "Now I understand this task"
+                },
+                {
+                    "date": "2023-02-03T14:23:58Z",
+                    "message": "Now I understand this task"
+                },
+                {
+                    "date": "2023-02-03T14:21:12Z",
+                    "message": "Committing for task 0, not sure on rand array size"
+                },
+                {
+                    "date": "2023-02-03T14:04:34Z",
+                    "message": "Committing README, data files, and show data files"
+                },
+                {
+                    "date": "2023-01-24T18:09:24Z",
+                    "message": "commit updates for task 12"
+                },
+                {
+                    "date": "2023-01-24T18:02:52Z",
+                    "message": "Double checked valid range of k"
+                },
+                {
+                    "date": "2023-01-24T18:01:31Z",
+                    "message": "Chasing that last check"
+                },
+                {
+                    "date": "2023-01-24T17:59:31Z",
+                    "message": "I think\nI was calling k wrong"
+                },
+                {
+                    "date": "2023-01-24T17:57:40Z",
+                    "message": "Typecasted everything as int before factorial call"
+                },
+                {
+                    "date": "2023-01-24T17:55:26Z",
+                    "message": "Adding updates to binomial.py for task 11"
+                },
+                {
+                    "date": "2023-01-24T17:11:01Z",
+                    "message": "Calculated n and p for task 10"
+                },
+                {
+                    "date": "2023-01-24T16:36:46Z",
+                    "message": "Fixed pycodestyle"
+                },
+                {
+                    "date": "2023-01-23T18:40:00Z",
+                    "message": "and and or do not mean the same thing"
+                },
+                {
+                    "date": "2023-01-23T18:22:31Z",
+                    "message": "Double checking given test cases"
+                },
+                {
+                    "date": "2023-01-23T18:21:15Z",
+                    "message": "Double checking given test cases"
+                },
+                {
+                    "date": "2023-01-23T18:15:47Z",
+                    "message": "Checking to make sure I covered all of the required tests"
+                },
+                {
+                    "date": "2023-01-23T17:36:48Z",
+                    "message": "Changed to clarify variable names"
+                },
+                {
+                    "date": "2023-01-23T17:33:18Z",
+                    "message": "First commit task 9"
+                },
+                {
+                    "date": "2023-01-23T17:01:18Z",
+                    "message": "fixed pycodestyle. I think it should not check comments for style"
+                },
+                {
+                    "date": "2023-01-23T17:00:23Z",
+                    "message": "Commit for task 8"
+                },
+                {
+                    "date": "2023-01-23T16:45:21Z",
+                    "message": "Added methods for task 7"
+                },
+                {
+                    "date": "2023-01-23T16:21:29Z",
+                    "message": "Fixed pycodestyle, before running the checker!"
+                },
+                {
+                    "date": "2023-01-23T16:21:04Z",
+                    "message": "First commit task 6"
+                },
+                {
+                    "date": "2023-01-23T16:06:11Z",
+                    "message": "Removed else in if/else stataments. I cannot remember if python works like that"
+                },
+                {
+                    "date": "2023-01-23T15:39:44Z",
+                    "message": "Commit for task 5"
+                },
+                {
+                    "date": "2023-01-23T15:35:37Z",
+                    "message": "It would help if I grouped my exponents correctly"
+                },
+                {
+                    "date": "2023-01-23T15:30:35Z",
+                    "message": "Commit task 4"
+                },
+                {
+                    "date": "2023-01-23T15:26:36Z",
+                    "message": "Commit for task 3"
+                },
+                {
+                    "date": "2023-01-23T15:17:49Z",
+                    "message": "Fixed typecasting issue"
+                },
+                {
+                    "date": "2023-01-23T14:57:18Z",
+                    "message": "Commit for task 3"
+                },
+                {
+                    "date": "2023-01-21T21:21:44Z",
+                    "message": "Forgot to call self.k in pmf function, so float was not getting converted to int"
+                },
+                {
+                    "date": "2023-01-21T21:17:18Z",
+                    "message": "First commit task 1"
+                },
+                {
+                    "date": "2023-01-21T21:05:46Z",
+                    "message": "Turns out another way to say \"expected number of occurences\" is to say \"Expected value\" is to say \"arithmetic mean\""
+                },
+                {
+                    "date": "2023-01-21T20:58:12Z",
+                    "message": "pycodesdyle, new line at end"
+                },
+                {
+                    "date": "2023-01-21T20:57:33Z",
+                    "message": "I do not know what it means to calculate lambtha"
+                },
+                {
+                    "date": "2023-01-21T20:24:05Z",
+                    "message": "Changed test condition on lambtha"
+                },
+                {
+                    "date": "2023-01-21T20:21:54Z",
+                    "message": "Checking to see if I can still construct a class and raise errors"
+                },
+                {
+                    "date": "2023-01-20T19:14:16Z",
+                    "message": "Cleaning up git"
+                },
+                {
+                    "date": "2023-01-20T19:06:48Z",
+                    "message": "Cleaned up repo organization"
+                },
+                {
+                    "date": "2023-01-20T19:04:46Z",
+                    "message": "Updated gitignore to allow main files"
+                },
+                {
+                    "date": "2023-01-20T19:03:58Z",
+                    "message": "Committing main files for project"
+                },
+                {
+                    "date": "2023-01-20T19:03:30Z",
+                    "message": "Committing main files for project"
+                },
+                {
+                    "date": "2023-01-20T18:55:05Z",
+                    "message": "Committing directory and README"
+                },
+                {
+                    "date": "2023-01-18T17:31:22Z",
+                    "message": "Adding in task 100"
+                },
+                {
+                    "date": "2023-01-17T21:03:51Z",
+                    "message": "I am getting close to over this"
+                },
+                {
+                    "date": "2023-01-17T20:41:04Z",
+                    "message": "Not checking for valid C yet"
+                },
+                {
+                    "date": "2023-01-17T20:37:42Z",
+                    "message": "Task 17"
+                },
+                {
+                    "date": "2023-01-17T20:34:42Z",
+                    "message": "trying again"
+                },
+                {
+                    "date": "2023-01-17T20:32:56Z",
+                    "message": "Added in if-guards that seem to work"
+                },
+                {
+                    "date": "2023-01-17T20:27:22Z",
+                    "message": "Remembered my if-guards"
+                },
+                {
+                    "date": "2023-01-17T20:24:35Z",
+                    "message": "Commit for task 17"
+                },
+                {
+                    "date": "2023-01-17T19:35:18Z",
+                    "message": "Maybe this is it now"
+                },
+                {
+                    "date": "2023-01-17T19:33:28Z",
+                    "message": "trying this for what might be the last time"
+                },
+                {
+                    "date": "2023-01-17T19:26:26Z",
+                    "message": "Changed from return 0 to return [0]"
+                },
+                {
+                    "date": "2023-01-17T19:25:09Z",
+                    "message": "Finally got my if guard logic correct"
+                },
+                {
+                    "date": "2023-01-17T19:23:10Z",
+                    "message": "Added some guards for poly"
+                },
+                {
+                    "date": "2023-01-17T19:22:19Z",
+                    "message": "Added some guards for poly"
+                },
+                {
+                    "date": "2023-01-16T20:35:31Z",
+                    "message": "Added if guard for poly to be list"
+                },
+                {
+                    "date": "2023-01-16T20:33:20Z",
+                    "message": "First crack at task 10"
+                },
+                {
+                    "date": "2023-01-16T20:23:06Z",
+                    "message": "Updating file permissions"
+                },
+                {
+                    "date": "2023-01-16T20:09:00Z",
+                    "message": "Pycodestyle fix"
+                },
+                {
+                    "date": "2023-01-16T20:08:21Z",
+                    "message": "Remembering lambda functions"
+                },
+                {
+                    "date": "2023-01-16T19:53:52Z",
+                    "message": "I used a for loop"
+                },
+                {
+                    "date": "2023-01-16T19:46:34Z",
+                    "message": "I knew I got it narrowed down to two choices"
+                },
+                {
+                    "date": "2023-01-16T19:45:56Z",
+                    "message": "Trying out task 8"
+                },
+                {
+                    "date": "2023-01-16T19:43:44Z",
+                    "message": "I keep forgetting 27 divided by 3 is 9, also that anything to -1 power is same as 1 over whatever"
+                },
+                {
+                    "date": "2023-01-16T19:38:59Z",
+                    "message": "Commit for task 16"
+                },
+                {
+                    "date": "2023-01-15T20:32:07Z",
+                    "message": "15-definite"
+                },
+                {
+                    "date": "2023-01-15T20:30:48Z",
+                    "message": "Committing task 14"
+                },
+                {
+                    "date": "2023-01-15T20:29:57Z",
+                    "message": "I knew the answer was 9"
+                },
+                {
+                    "date": "2023-01-15T20:29:24Z",
+                    "message": "Commit task 13"
+                },
+                {
+                    "date": "2023-01-15T20:25:48Z",
+                    "message": "Guess on task 12"
+                },
+                {
+                    "date": "2023-01-15T20:24:18Z",
+                    "message": "Committing for task 11"
+                },
+                {
+                    "date": "2023-01-13T19:04:44Z",
+                    "message": "Commit task 7, partial derivative"
+                },
+                {
+                    "date": "2023-01-13T17:54:15Z",
+                    "message": "Committing through task 6"
+                },
+                {
+                    "date": "2023-01-13T17:52:25Z",
+                    "message": "Committing through task 6"
+                },
+                {
+                    "date": "2023-01-13T17:30:40Z",
+                    "message": "Correcting answer for task 2. I over thought it"
+                },
+                {
+                    "date": "2023-01-13T17:29:09Z",
+                    "message": "Commit tasks 0 thru 4"
+                },
+                {
+                    "date": "2023-01-10T16:05:35Z",
+                    "message": "Changed from #FF00FF to magenta"
+                },
+                {
+                    "date": "2023-01-10T16:03:08Z",
+                    "message": "Added documentation to each module"
+                },
+                {
+                    "date": "2023-01-10T15:56:30Z",
+                    "message": "Added bar width requirements"
+                },
+                {
+                    "date": "2023-01-10T15:53:03Z",
+                    "message": "Commit for task 6"
+                },
+                {
+                    "date": "2023-01-10T15:17:47Z",
+                    "message": "Pycodestyle fixes throughout"
+                },
+                {
+                    "date": "2023-01-10T15:14:48Z",
+                    "message": "Commit for task 5"
+                },
+                {
+                    "date": "2023-01-10T14:55:14Z",
+                    "message": "Cleaning up task 4, I was doing my range weird before but not affecting output"
+                },
+                {
+                    "date": "2023-01-10T01:34:09Z",
+                    "message": "Commit task 4"
+                },
+                {
+                    "date": "2023-01-10T01:12:26Z",
+                    "message": "Commit task 3"
+                },
+                {
+                    "date": "2023-01-10T00:57:51Z",
+                    "message": "Commit task 2"
+                },
+                {
+                    "date": "2023-01-10T00:41:31Z",
+                    "message": "Changed marker to point per task requirements"
+                },
+                {
+                    "date": "2023-01-10T00:30:33Z",
+                    "message": "Commit for task 1"
+                },
+                {
+                    "date": "2023-01-09T20:02:40Z",
+                    "message": "pycodestyle fix"
+                },
+                {
+                    "date": "2023-01-09T20:01:49Z",
+                    "message": "Commit task 0"
+                },
+                {
+                    "date": "2023-01-09T19:25:55Z",
+                    "message": "Committing README for project"
+                },
+                {
+                    "date": "2023-01-09T19:19:46Z",
+                    "message": "Updated README"
+                },
+                {
+                    "date": "2023-01-09T19:11:39Z",
+                    "message": "Forgot documentation"
+                },
+                {
+                    "date": "2023-01-09T19:10:27Z",
+                    "message": "Commit task 14"
+                },
+                {
+                    "date": "2023-01-09T19:05:37Z",
+                    "message": "Committing for task 13"
+                },
+                {
+                    "date": "2023-01-09T19:05:17Z",
+                    "message": "Committing for task 13"
+                },
+                {
+                    "date": "2023-01-09T18:57:43Z",
+                    "message": "pycodestyle fix"
+                },
+                {
+                    "date": "2023-01-09T18:57:11Z",
+                    "message": "Commit for task 12"
+                },
+                {
+                    "date": "2023-01-09T18:46:13Z",
+                    "message": "First commit task 11"
+                },
+                {
+                    "date": "2023-01-09T18:42:05Z",
+                    "message": "Commit task 10"
+                },
+                {
+                    "date": "2023-01-09T18:35:50Z",
+                    "message": "Commit for task 9"
+                },
+                {
+                    "date": "2023-01-09T18:25:47Z",
+                    "message": "Fixxed pycodestyle"
+                },
+                {
+                    "date": "2023-01-09T18:25:03Z",
+                    "message": "typo in shebang fixed"
+                },
+                {
+                    "date": "2023-01-09T18:24:35Z",
+                    "message": "Commit for task 8"
+                },
+                {
+                    "date": "2023-01-09T17:51:49Z",
+                    "message": "Trying again task 7, added checks for matrix size)"
+                },
+                {
+                    "date": "2023-01-09T17:48:37Z",
+                    "message": "First commit taqsk 7"
+                },
+                {
+                    "date": "2023-01-09T17:18:08Z",
+                    "message": "Commit task 6"
+                },
+                {
+                    "date": "2023-01-09T16:57:19Z",
+                    "message": "Commit task 5"
+                },
+                {
+                    "date": "2023-01-09T15:50:16Z",
+                    "message": "Added to ignore main files"
+                },
+                {
+                    "date": "2023-01-09T15:45:52Z",
+                    "message": "First commit task 4"
+                },
+                {
+                    "date": "2023-01-09T15:31:52Z",
+                    "message": "Trying task 3"
+                },
+                {
+                    "date": "2023-01-09T14:59:00Z",
+                    "message": "Commit for task 2"
+                },
+                {
+                    "date": "2023-01-09T14:25:17Z",
+                    "message": "Commits for task 1"
+                },
+                {
+                    "date": "2023-01-09T14:19:56Z",
+                    "message": "Cleaned up pycodestyle. I will get back in the groove of things"
+                },
+                {
+                    "date": "2023-01-09T14:17:50Z",
+                    "message": "Added new line to python file"
+                },
+                {
+                    "date": "2023-01-09T14:17:16Z",
+                    "message": "Named folders correctly"
+                },
+                {
+                    "date": "2023-01-09T14:07:44Z",
+                    "message": "Committing files for task 0"
+                },
+                {
+                    "date": "2023-01-09T14:03:10Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-01-09T14:02:09Z",
+                    "message": "Initial commit"
+                }
+            ]
+        },
+        "holbertonschool-monty": {
+            "earliest_date": "2023-05-04T20:46:37",
+            "latest_date": "2023-05-04T20:46:37",
+            "total_commits": 1,
+            "commit_messages": [
+                {
+                    "date": "2023-05-04T20:46:37Z",
+                    "message": "Updated README to more user friendly format"
+                }
+            ]
+        },
+        "holbertonschool-printf": {
+            "earliest_date": "2023-03-13T20:54:55",
+            "latest_date": "2023-03-13T20:54:55",
+            "total_commits": 1,
+            "commit_messages": [
+                {
+                    "date": "2023-03-13T20:54:55Z",
+                    "message": "Update man_3_printf\n\nFixed some typos in the man page."
+                }
+            ]
+        },
+        "holbertonschool-softy-pinko-docker": {
+            "earliest_date": "2023-08-25T15:37:06",
+            "latest_date": "2023-08-28T19:56:10",
+            "total_commits": 5,
+            "commit_messages": [
+                {
+                    "date": "2023-08-28T19:56:10Z",
+                    "message": "Committing for task 5, getting 502 error"
+                },
+                {
+                    "date": "2023-08-25T18:00:03Z",
+                    "message": "Cleaning commit history"
+                },
+                {
+                    "date": "2023-08-25T17:57:25Z",
+                    "message": "Trying to clean commit status"
+                },
+                {
+                    "date": "2023-08-25T17:51:44Z",
+                    "message": "Commit thru task 4"
+                },
+                {
+                    "date": "2023-08-25T15:37:06Z",
+                    "message": "Committing for task 0"
+                }
+            ]
+        },
+        "holbertonschool-sorting_algorithms": {
+            "earliest_date": "2023-01-10T16:24:52",
+            "latest_date": "2023-02-19T17:02:56",
+            "total_commits": 31,
+            "commit_messages": [
+                {
+                    "date": "2023-02-19T17:02:56Z",
+                    "message": "Main and compiled file updates"
+                },
+                {
+                    "date": "2023-02-19T16:59:32Z",
+                    "message": "Settling for not setting 100 element list"
+                },
+                {
+                    "date": "2023-02-19T16:43:22Z",
+                    "message": "Hoping updating size data type helps"
+                },
+                {
+                    "date": "2023-02-19T16:36:52Z",
+                    "message": "Not sure why it does not like the large array"
+                },
+                {
+                    "date": "2023-02-19T16:34:01Z",
+                    "message": "If I keep allocating more memory, I will find space for the digits"
+                },
+                {
+                    "date": "2023-02-19T16:29:57Z",
+                    "message": "malloc is a pain in the balloc"
+                },
+                {
+                    "date": "2023-02-19T16:25:00Z",
+                    "message": "mallocd a lot of space"
+                },
+                {
+                    "date": "2023-02-19T16:23:10Z",
+                    "message": "allocated fixed size for arrays"
+                },
+                {
+                    "date": "2023-02-19T16:21:35Z",
+                    "message": "It works when I run it"
+                },
+                {
+                    "date": "2023-02-19T16:16:43Z",
+                    "message": "Trying to typedast size in malloc"
+                },
+                {
+                    "date": "2023-02-19T16:13:54Z",
+                    "message": "Had extra space in radix prototype"
+                },
+                {
+                    "date": "2023-02-19T16:13:09Z",
+                    "message": "Malloc issues came back"
+                },
+                {
+                    "date": "2023-02-19T16:12:13Z",
+                    "message": "I think I got it this time"
+                },
+                {
+                    "date": "2023-02-19T16:00:48Z",
+                    "message": "Continuing to troubleshoot. Looks like I forgot curly braces"
+                },
+                {
+                    "date": "2023-02-19T15:58:28Z",
+                    "message": "Updated mallocs"
+                },
+                {
+                    "date": "2023-02-19T15:55:18Z",
+                    "message": "Typecast size to in, fixed grouping parentheses when if-guarding radix_sort"
+                },
+                {
+                    "date": "2023-02-19T15:49:32Z",
+                    "message": "Committing radix sort, Betty compliance all files in directory"
+                },
+                {
+                    "date": "2023-01-17T18:28:46Z",
+                    "message": "Improved documentation on heapify function"
+                },
+                {
+                    "date": "2023-01-15T20:08:58Z",
+                    "message": "I think I have heap sort working, tough to compare to output"
+                },
+                {
+                    "date": "2023-01-11T19:23:50Z",
+                    "message": "Heap sort is working, not printing when it should"
+                },
+                {
+                    "date": "2023-01-11T19:11:44Z",
+                    "message": "Committing files. Implemenatation not working but want to check bigO"
+                },
+                {
+                    "date": "2023-01-11T17:37:54Z",
+                    "message": "Fixed typo in betty documentation for print_my_array"
+                },
+                {
+                    "date": "2023-01-11T17:35:09Z",
+                    "message": "Cleaned up comments"
+                },
+                {
+                    "date": "2023-01-11T17:30:48Z",
+                    "message": "I think I got it."
+                },
+                {
+                    "date": "2023-01-11T16:34:29Z",
+                    "message": "Successfully splits an array into individual elements"
+                },
+                {
+                    "date": "2023-01-10T21:25:15Z",
+                    "message": "added in a copy_array function"
+                },
+                {
+                    "date": "2023-01-10T21:16:39Z",
+                    "message": "Writing some functions to print and copy arrays"
+                },
+                {
+                    "date": "2023-01-10T16:34:14Z",
+                    "message": "Committing to see what works with C"
+                },
+                {
+                    "date": "2023-01-10T16:30:20Z",
+                    "message": "Betty compliant empty file for merge sort"
+                },
+                {
+                    "date": "2023-01-10T16:29:31Z",
+                    "message": "Committing file for merge_sort"
+                },
+                {
+                    "date": "2023-01-10T16:24:52Z",
+                    "message": "Committing Big-O notation for merge sort"
+                }
+            ]
+        },
+        "holbertonschool-system_engineering-devops": {
+            "earliest_date": "2023-03-21T20:58:40",
+            "latest_date": "2023-05-04T18:06:35",
+            "total_commits": 4,
+            "commit_messages": [
+                {
+                    "date": "2023-05-04T18:06:35Z",
+                    "message": "Removed temp files"
+                },
+                {
+                    "date": "2023-05-04T18:05:15Z",
+                    "message": "Updated readme with links to projects and descriptions"
+                },
+                {
+                    "date": "2023-05-04T17:10:18Z",
+                    "message": "Combined holberton-system_devops with holbertonschool-system_engineering_devops"
+                },
+                {
+                    "date": "2023-03-21T20:58:40Z",
+                    "message": "Added bash script to ssh into web-02 server"
+                }
+            ]
+        },
+        "hyperparameter_tuning": {
+            "earliest_date": "2023-09-21T19:10:39",
+            "latest_date": "2023-09-21T19:23:10",
+            "total_commits": 2,
+            "commit_messages": [
+                {
+                    "date": "2023-09-21T19:23:10Z",
+                    "message": "Adding in files for hyper parameter tuning project"
+                },
+                {
+                    "date": "2023-09-21T19:10:39Z",
+                    "message": "Initial commit"
+                }
+            ]
+        },
+        "Learning_C-sharp": {
+            "earliest_date": "2023-06-25T22:20:53",
+            "latest_date": "2023-06-25T22:45:17",
+            "total_commits": 5,
+            "commit_messages": [
+                {
+                    "date": "2023-06-25T22:45:17Z",
+                    "message": "Added HelloWorld file"
+                },
+                {
+                    "date": "2023-06-25T22:39:36Z",
+                    "message": "Adding README for first sprint"
+                },
+                {
+                    "date": "2023-06-25T22:24:37Z",
+                    "message": "Create README.md"
+                },
+                {
+                    "date": "2023-06-25T22:23:28Z",
+                    "message": "Renamed folder from HelloWorld to Week1"
+                },
+                {
+                    "date": "2023-06-25T22:20:53Z",
+                    "message": "Committing first weeks of projects"
+                }
+            ]
+        },
+        "object_detection": {
+            "earliest_date": "2023-05-31T02:18:11",
+            "latest_date": "2023-05-31T02:34:38",
+            "total_commits": 10,
+            "commit_messages": [
+                {
+                    "date": "2023-05-31T02:34:38Z",
+                    "message": "unlabeled photos"
+                },
+                {
+                    "date": "2023-05-31T02:32:51Z",
+                    "message": "photos"
+                },
+                {
+                    "date": "2023-05-31T02:32:29Z",
+                    "message": "photo"
+                },
+                {
+                    "date": "2023-05-31T02:32:07Z",
+                    "message": "Desk"
+                },
+                {
+                    "date": "2023-05-31T02:26:46Z",
+                    "message": "coco"
+                },
+                {
+                    "date": "2023-05-31T02:26:15Z",
+                    "message": "animals"
+                },
+                {
+                    "date": "2023-05-31T02:25:59Z",
+                    "message": "commint"
+                },
+                {
+                    "date": "2023-05-31T02:25:36Z",
+                    "message": "commit"
+                },
+                {
+                    "date": "2023-05-31T02:25:19Z",
+                    "message": "Commit"
+                },
+                {
+                    "date": "2023-05-31T02:18:11Z",
+                    "message": "Committing README and Jupyter Notebook"
+                }
+            ]
+        },
+        "Student_Tutor_Live_Coding": {
+            "earliest_date": "2023-01-27T15:48:35",
+            "latest_date": "2023-09-13T16:03:58",
+            "total_commits": 34,
+            "commit_messages": [
+                {
+                    "date": "2023-09-13T16:03:58Z",
+                    "message": "Committing changes after live coding"
+                },
+                {
+                    "date": "2023-09-04T18:19:29Z",
+                    "message": "Update README.md\n\nchanged = to -"
+                },
+                {
+                    "date": "2023-09-04T18:19:10Z",
+                    "message": "Update README.md\n\nFixed typo"
+                },
+                {
+                    "date": "2023-09-04T18:18:50Z",
+                    "message": "Update README.md\n\nAdded test driven development slide deck"
+                },
+                {
+                    "date": "2023-09-04T18:16:04Z",
+                    "message": "README updates"
+                },
+                {
+                    "date": "2023-09-02T19:40:03Z",
+                    "message": "Removing __pycache__ file. Forgot to create .gitignore"
+                },
+                {
+                    "date": "2023-09-02T19:39:07Z",
+                    "message": "Committing files for live code"
+                },
+                {
+                    "date": "2023-07-11T19:14:36Z",
+                    "message": "Pushing delayed live coding files"
+                },
+                {
+                    "date": "2023-06-21T19:26:22Z",
+                    "message": "Added python file"
+                },
+                {
+                    "date": "2023-06-12T20:06:54Z",
+                    "message": "Updated notebook to add a new book"
+                },
+                {
+                    "date": "2023-06-09T15:25:47Z",
+                    "message": "Merge branch 'main' of https://github.com/bsbanotto/Student_Tutor_Live_Coding into main"
+                },
+                {
+                    "date": "2023-06-09T15:25:41Z",
+                    "message": "Added prints after adding and removing Ray Bradbury"
+                },
+                {
+                    "date": "2023-06-09T14:31:54Z",
+                    "message": "Update README.md\n\nAdded C20 MySQL"
+                },
+                {
+                    "date": "2023-06-09T14:23:19Z",
+                    "message": "Merge branch 'main' of https://github.com/bsbanotto/Student_Tutor_Live_Coding into main"
+                },
+                {
+                    "date": "2023-06-09T14:23:10Z",
+                    "message": "Commit MySQL Jupyter Notebook"
+                },
+                {
+                    "date": "2023-05-04T16:49:05Z",
+                    "message": "Update README.md\n\nCleaning up README to make it fancier."
+                },
+                {
+                    "date": "2023-05-04T16:47:57Z",
+                    "message": "Added image for readme"
+                },
+                {
+                    "date": "2023-03-27T19:59:43Z",
+                    "message": "Merge branch 'main' of https://github.com/bsbanotto/Student_Tutor_Live_Coding into main"
+                },
+                {
+                    "date": "2023-03-27T19:59:26Z",
+                    "message": "Deleted test file"
+                },
+                {
+                    "date": "2023-03-14T19:03:14Z",
+                    "message": "Update README.md"
+                },
+                {
+                    "date": "2023-03-14T18:56:06Z",
+                    "message": "Committing updates to share"
+                },
+                {
+                    "date": "2023-03-14T15:45:21Z",
+                    "message": "Removed length"
+                },
+                {
+                    "date": "2023-03-14T15:44:52Z",
+                    "message": "Removed string length from structure"
+                },
+                {
+                    "date": "2023-03-08T17:25:46Z",
+                    "message": "Played around with it some"
+                },
+                {
+                    "date": "2023-03-08T03:40:49Z",
+                    "message": "Updating github"
+                },
+                {
+                    "date": "2023-03-08T03:37:48Z",
+                    "message": "Simplified print file, may be able to live code that"
+                },
+                {
+                    "date": "2023-03-08T03:36:08Z",
+                    "message": "Committing live code files. Will delete what should not be shared before sharing"
+                },
+                {
+                    "date": "2023-03-08T02:55:46Z",
+                    "message": "Committing live code files. Will delete what should not be shared before sharing"
+                },
+                {
+                    "date": "2023-02-06T20:27:38Z",
+                    "message": "updating git"
+                },
+                {
+                    "date": "2023-02-01T19:13:03Z",
+                    "message": "Merge pull request #2 from bsbanotto/LiveCoding\n\nCommitting test file for branch demo"
+                },
+                {
+                    "date": "2023-02-01T19:09:23Z",
+                    "message": "Committing test file for branch demo"
+                },
+                {
+                    "date": "2023-01-27T15:50:08Z",
+                    "message": "Cleaning up repo"
+                },
+                {
+                    "date": "2023-01-27T15:58:16Z",
+                    "message": "Merge pull request #1 from bsbanotto/LiveCode\n\nCommitting newfile on LiveCode branch"
+                },
+                {
+                    "date": "2023-01-27T15:48:35Z",
+                    "message": "Committing newfile on LiveCode branch"
+                }
+            ]
+        }
+    }
+}

@@ -159,7 +159,7 @@ def create_commit_data_json(username, commit_data_per_repo, output_file):
 if __name__ == "__main__":
     get_github_repos = __import__('get_repos').get_github_repos
 
-    username = 'bsbanotto'
+    username = 'claybowl'
     repo_names = get_github_repos(username)
     filename = './json_files/' + username + '_commit_info.json'
     start_date = datetime(2023, 1, 1)
