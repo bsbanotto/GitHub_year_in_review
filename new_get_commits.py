@@ -54,6 +54,6 @@ def get_user_commits_for_date_range(username, start_date, end_date, access_token
 github_username = 'claybowl'
 start_date = '2023-01-01T00:00:00Z'
 end_date = '2023-12-31T23:59:59Z'
-access_token = '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'
+access_token = 'ACCESS_TOKEN'
 
 get_user_commits_for_date_range(github_username, start_date, end_date, access_token)
