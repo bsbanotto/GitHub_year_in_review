@@ -5,7 +5,7 @@ This file will return a list of a users github repos
 import requests
 
 
-def get_github_repos(username):
+def get_github_repos(username, access_token):
     """
     Extracts a users GitHub repositories
 
@@ -18,6 +18,7 @@ def get_github_repos(username):
     base_url = 'https://api.github.com'
     endpoint = f'/users/{username}/repos'
     headers = {
+        'Authorization': f'Bearer {access_token}',
         'Accept': 'application/vnd.github.v3+json'
     }
 
@@ -39,9 +40,10 @@ def get_github_repos(username):
 
 
 if __name__ == "__main__":
-    username = 'claybowl'
+    username = 'bsbanotto'
+    access_token = 'ACCESS_TOKEN'
 
-    repos = get_github_repos(username)
+    repos = get_github_repos(username, access_token)
     if repos:
         print(f"GitHub repositories for {username}:")
         for repo in repos:

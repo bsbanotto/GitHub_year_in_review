@@ -55,6 +55,6 @@ def make_wordcloud(file):
     plt.show()
 
 if __name__ == "__main__":
-    username = 'mdallen5393'
+    username = 'bsbanotto'
     file = './json_files/' + username + '_commit_info.json'
     make_wordcloud(file)

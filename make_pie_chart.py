@@ -54,6 +54,6 @@ def make_pie(file):
 
 
 if __name__ == "__main__":
-    username = 'claybowl'
+    username = 'bsbanotto'
     file = './json_files/' + username + '_commit_info.json'
     make_pie(file)

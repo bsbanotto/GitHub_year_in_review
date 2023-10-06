@@ -28,6 +28,7 @@ def get_commit_info(commit):
 def get_commit_metrics(
         username,
         repo_name,
+        access_token,
         start_date,
         end_date
         ):
@@ -46,8 +47,13 @@ def get_commit_metrics(
         tuple: A tuple containing earliest date, latest date, total commits,
                and commit messages.
     """
+    headers = {
+        'Authorization': f'Bearer {access_token}',
+        'Accept': 'application/vnd.github.v3+json'
+    }
     base_url = f'https://api.github.com/repos/{username}/{repo_name}/commits'
     params = {
+        'author': username,
         'since': start_date.isoformat(),
         'until': end_date.isoformat(),
         'page': 1,
@@ -63,7 +69,11 @@ def get_commit_metrics(
             response = requests.get(
                 base_url,
                 params=params,
+                headers=headers,
                 )
+
+            print("Metrics: " + str(params) + str(repo_name) + str(response), end="\r", flush=False)
+
             response.raise_for_status()
             commits = response.json()
 
@@ -101,6 +111,7 @@ def get_commit_metrics(
 def get_commit_data_for_repos(
         username,
         repo_names,
+        access_token,
         start_date,
         end_date
         ):
@@ -123,6 +134,7 @@ def get_commit_data_for_repos(
             get_commit_metrics(
                                username,
                                repo_name,
+                               access_token,
                                start_date,
                                end_date
                                )
@@ -159,8 +171,10 @@ def create_commit_data_json(username, commit_data_per_repo, output_file):
 if __name__ == "__main__":
     get_github_repos = __import__('get_repos').get_github_repos
 
-    username = 'claybowl'
-    repo_names = get_github_repos(username)
+    username = 'bsbanotto'
+    access_token = 'ACCESS_TOKEN'
+
+    repo_names = get_github_repos(username, access_token)
     filename = './json_files/' + username + '_commit_info.json'
     start_date = datetime(2023, 1, 1)
     end_date = datetime(2023, 12, 31)
@@ -168,6 +182,7 @@ if __name__ == "__main__":
     commit_info_per_repo = get_commit_data_for_repos(
         username,
         repo_names,
+        access_token,
         start_date,
         end_date
         )
