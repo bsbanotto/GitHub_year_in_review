@@ -51,3 +51,7 @@ if __name__ == "__main__":
     # Create a word cloud
     make_wordcloud = __import__('make_word_cloud').make_wordcloud
     make_wordcloud(filename)
+
+    # Sentiment Analysis Violin Plot
+    sentiment_analysis = __import__('sentiment_analysis').sentiment
+    sentiment_analysis(filename, username)
