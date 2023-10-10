@@ -9,3 +9,4 @@ dependencies:
     - matplotlib==3.6.2
     - requests
     - transformers
+    - imageio==2.31.5

@@ -51,7 +51,7 @@ def sentiment(file, username):
             sentiment_scores_dict[repository] += classifier(commit_message)
 
     # Create a violin plot of sentiment
-    labels = ['joy', 'fear', 'anger', 'sadness', 'surprise', 'love']
+    labels = ['joy', 'fear', 'anger', 'sadness', 'surprise']
     score_data = {label: [] for label in labels}
 
     for entry in sentiment_scores_dict[max_repo]:
@@ -100,5 +100,5 @@ def sentiment(file, username):
 
     # Set text color to white
     plt.rcParams['text.color'] = 'white'
-
-    plt.show()
+    fname = './png_files/' + username + 'sentiment.png'
+    plt.savefig(fname=fname, format='png')

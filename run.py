@@ -8,14 +8,15 @@ import os
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("Usage: python3 run.y <username> <access_token>")
+    if len(sys.argv) != 4:
+        print("Usage: python3 run.y <username> <access_token> <year>")
         sys.exit(1)
 
     username = sys.argv[1]
     access_token = sys.argv[2]
-    start_date = datetime(2023, 1, 1)
-    end_date = datetime(2023, 12, 31)
+    year = int(sys.argv[3])
+    start_date = datetime(year, 1, 1)
+    end_date = datetime(year, 12, 31)
     filename = './json_files/' + username + '_commit_info.json'
 
     # First, get all of a users repositories
@@ -40,6 +41,11 @@ if __name__ == "__main__":
 
     create_commit_data_json(username, commit_info_per_repo, filename)
 
+    # Create folder to store .png images, if not exists
+    path = 'png_files'
+    if not os.path.exists(path):
+        os.makedirs(path)
+
     # Create a pie chart
     make_pie = __import__('make_pie_chart').make_pie
     make_pie(filename, username)
@@ -50,8 +56,12 @@ if __name__ == "__main__":
 
     # Create a word cloud
     make_wordcloud = __import__('make_word_cloud').make_wordcloud
-    make_wordcloud(filename)
+    make_wordcloud(filename, username)
 
     # Sentiment Analysis Violin Plot
     sentiment_analysis = __import__('sentiment_analysis').sentiment
     sentiment_analysis(filename, username)
+
+    # Combine plots to a gif
+    create_gif = __import__('create_gif').create_gif
+    create_gif('./png_files')

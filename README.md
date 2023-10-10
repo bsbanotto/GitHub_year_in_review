@@ -48,7 +48,7 @@ Proceed ([y]/n)?
 
 enter 'Y'
 
-If you don't want to use a conda environment, the versions of the Python libraries for this code are below in the Technologies section. You can install locally and run without anaconda.
+If you don't want to use a conda environment, the Python libraries for this code are below in the Technologies section. You can install locally and run without anaconda.
 
 - Comming Soon - Google COLAB notebook so you won't have to worryabout a conda environment
 - Comming Soon - Optional usage without access token (may not get all of your commits due to API limits)
@@ -69,4 +69,5 @@ Something else I want to learn / focus on is making a good looking repo that's m
   - matplotlib
   - sys
   - os
+  - imageio
 - Anaconda

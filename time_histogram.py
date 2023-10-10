@@ -60,4 +60,5 @@ def what_times(file, username):
     plt.tight_layout()
     ax = plt.gca()
     ax.set_facecolor('black')
-    plt.show()
+    fname = './png_files/' + username + 'histogram.png'
+    plt.savefig(fname=fname, format='png')

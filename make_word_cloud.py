@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import json
 
 
-def make_wordcloud(file):
+def make_wordcloud(file, username):
     """
     Args:
         file (str): file name to extract information from
@@ -47,14 +47,16 @@ def make_wordcloud(file):
 
     # Create a WordCloud object
     wordcloud = WordCloud(
-        width=800,
-        height=400,
+        width=960,
+        height=576,
         background_color='black').generate_from_frequencies(
         word_frequencies
         )
 
     # Display the word cloud using matplotlib
-    plt.figure(figsize=(10, 5))
+    plt.figure(figsize=(10, 6), facecolor='black')
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis('off')
-    plt.show()
+    plt.tight_layout(pad=0)
+    fname = './png_files/' + username + 'wordcloud.png'
+    plt.savefig(fname=fname, format='png')

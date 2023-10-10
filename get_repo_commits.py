@@ -74,7 +74,7 @@ def get_commit_metrics(
                 )
 
             # Print message to console
-            print("Metrics: " + str(repo_name) +
+            print("Retrieving: " + str(repo_name) +
                   "\t\tPage: " + str(params['page']), end="\r", flush=True)
 
             response.raise_for_status()

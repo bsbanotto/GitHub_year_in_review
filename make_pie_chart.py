@@ -58,5 +58,5 @@ def make_pie(file, username):
 
     ax.set_title(username + ' - Commits per Repository', color='white',
                  fontweight='bold', fontsize='x-large')
-
-    plt.show()
+    fname = './png_files/' + username + 'piechart.png'
+    plt.savefig(fname=fname, format='png')
