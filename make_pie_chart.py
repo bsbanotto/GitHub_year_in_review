@@ -3,29 +3,19 @@
 The method in this file will extract number of commits per repo
 from a users json file and create a pie chart with the distribution
 """
-import json
 import matplotlib.pyplot as plt
 
 
-def make_pie(file, username):
+def make_pie(username, repo_names, commit_counts):
     """
     Args:
         file (str): file name to extract information from
+        username (str): github username
+        repo_names (list): list of a users repos
+        commit_counts (list): list of commits per repo
     """
-    with open(file) as f:
-        parsed_data = json.load(f)
-
-    commit_data_per_repo = parsed_data.get("commit_data_per_repo", {})
-
-    repo_names = []
-    commit_counts = []
     other = 0
     to_pop = 0
-
-    for repo_name, repo_data in commit_data_per_repo.items():
-        total_commits = repo_data.get("total_commits", 0)
-        repo_names.append(repo_name)
-        commit_counts.append(total_commits)
 
     # Sort the lists by commit counts in descending order
     sorted_data = sorted(zip(commit_counts, repo_names), reverse=True)
@@ -48,11 +38,24 @@ def make_pie(file, username):
     commit_counts.append(other)
 
     # Build the Pie Chart
-    fig, ax = plt.subplots(figsize=(10, 6))
+    fig, ax = plt.subplots(figsize=(8, 8))
+    plt.gca().set_position([0, 0, 1, .9])
     fig.patch.set_facecolor('black')
     ax.set_facecolor('black')
 
-    ax.pie(commit_counts, labels=repo_names, autopct='%1.1f%%')
+    to_explode = []
+    for x in range(0, len(repo_names)):
+        to_explode.append(0.01)
+
+    to_explode[0] = 0.05
+
+    ax.pie(commit_counts,
+           labels=repo_names,
+           autopct='%1.1f%%',
+           shadow=True,
+           explode=tuple(to_explode),
+           startangle=0)
+
     for text in ax.texts:
         text.set_color('white')
 

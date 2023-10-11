@@ -60,7 +60,7 @@ def sentiment(file, username):
             if scores:
                 score_data[label].extend(scores)
 
-    plt.figure(figsize=(10, 6), facecolor='black')
+    plt.figure(figsize=(8, 8), facecolor='black')
     violin_parts = plt.violinplot(
         [score_data[label] for label in labels],
         showmeans=False,

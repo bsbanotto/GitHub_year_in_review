@@ -47,14 +47,14 @@ def make_wordcloud(file, username):
 
     # Create a WordCloud object
     wordcloud = WordCloud(
-        width=960,
-        height=576,
+        width=768,
+        height=768,
         background_color='black').generate_from_frequencies(
         word_frequencies
         )
 
     # Display the word cloud using matplotlib
-    plt.figure(figsize=(10, 6), facecolor='black')
+    plt.figure(figsize=(8, 8), facecolor='black')
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis('off')
     plt.tight_layout(pad=0)

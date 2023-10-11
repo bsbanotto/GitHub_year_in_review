@@ -45,7 +45,7 @@ def what_times(file, username):
               '9AM', '10AM', '11AM', '12PM', '1PM', '2PM', '3PM', '4PM', '5PM',
               '6PM', '7PM', '8PM', '9PM', '10PM', '11PM', '12AM']
 
-    plt.figure(figsize=(10, 6), facecolor='black')
+    plt.figure(figsize=(8, 8), facecolor='black')
     plt.hist(commit_hours, bins=bins, edgecolor='black', alpha=0.7)
     plt.xlabel('Commit Hour', color='white', fontweight='bold',
                fontsize='x-large')
