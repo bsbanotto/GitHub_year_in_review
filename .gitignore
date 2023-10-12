@@ -161,3 +161,4 @@ cython_debug/
 
 # Want to ignore .json files for now
 *.json
+*.png

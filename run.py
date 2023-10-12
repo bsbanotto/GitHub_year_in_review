@@ -72,4 +72,5 @@ if __name__ == "__main__":
     create_gif('./png_files')
 
     # Print the number of repos committed to
-    print('In ' + str(year) + ' You made ' + str(num_commits) + ' commits to ' + str(num_repos) + ' repos!')
+    print('In ' + str(year) + ' You made ' + str(num_commits) +
+          ' commits to ' + str(num_repos) + ' repos!')

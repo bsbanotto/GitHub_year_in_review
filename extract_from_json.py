@@ -15,7 +15,7 @@ def extract(filename):
         commit_counts (list): list of commit counts per repo
         num_repos (int): total number of repos committed to
         num_commits (int): total number of commit messages
-    """ 
+    """
     with open(filename) as f:
         parsed_data = json.load(f)
 

@@ -8,12 +8,23 @@ import numpy as np
 import os
 import imageio.v2 as imageio
 
+# Define the colors for our palette
+TEAL = (0/255, 149/255, 168/255)
+NAVY = (17/255, 46/255, 81/255)
+ORANGE = (255/255, 112/255, 67/255)
+GREY = (120/255, 144/255, 156/255)
+BLUE = (46/255, 120/255, 210/255)
+DARK_TEAL = (0/255, 108/255, 122/255)
+LIGHT_ORANGE = (255/255, 151/255, 118/255)
+WHITE = (224/255, 224/255, 224/255)
+BLACK = (33/255, 33/255, 33/255)
+
 text_kwargs = dict(
     family='sans-serif',
     ha='center',
     va='center',
     fontsize=45,
-    color='black',
+    color=BLACK,
     wrap=True,
     fontweight='semibold',
     )
@@ -31,13 +42,13 @@ ax.axis('off')
 
 # Putting a bunch of circles on that screen
 radius = .72
-colors = ['black',
-          'red',
-          'orange',
-          'yellow',
-          'green',
-          'blue',
-          'violet',
+colors = [TEAL,
+          NAVY,
+          ORANGE,
+          GREY,
+          BLUE,
+          DARK_TEAL,
+          LIGHT_ORANGE,
           ]
 for circles in range(0, 7):
     circle = patches.Circle(xy=(.5, .5), radius=radius, color=colors[circles])
@@ -64,24 +75,37 @@ midpoint = (vertices[0] + vertices[1]) / 2.0
 num_triangles = 18
 
 # Calculate the rotation angle for each triangle
-rotation_angle = 360.0 / num_triangles
+rot_ang = 360.0 / num_triangles
 
 # Plot the original isosceles triangle
-triangle = patches.Polygon(vertices, closed=True, edgecolor=(224/255, 224/255, 224/255), facecolor=(224/255, 224/255, 224/255))
+triangle = patches.Polygon(vertices,
+                           closed=True,
+                           edgecolor=WHITE,
+                           facecolor=WHITE,
+                           )
 ax.add_patch(triangle)
 
 # Rotate and plot the remaining triangles
 for i in range(1, num_triangles):
     # Rotate the vertices using a rotation matrix
-    rotation_matrix = np.array([[np.cos(np.radians(i * rotation_angle)), -np.sin(np.radians(i * rotation_angle))],
-                                [np.sin(np.radians(i * rotation_angle)), np.cos(np.radians(i * rotation_angle))]])
-    rotated_vertices = np.dot(vertices - midpoint, rotation_matrix) + midpoint
+    rot_mat = np.array([[np.cos(
+        np.radians(i * rot_ang)
+        ), -np.sin(np.radians(i * rot_ang))],
+                        [np.sin(
+                            np.radians(i * rot_ang)
+                            ), np.cos(np.radians(i * rot_ang))]])
+    rotated_vertices = np.dot(vertices - midpoint, rot_mat) + midpoint
 
     # Plot the rotated triangle
-    rotated_triangle = patches.Polygon(rotated_vertices, closed=True, edgecolor=(224/255, 224/255, 224/255), facecolor=(224/255, 224/255, 224/255))
+    rotated_triangle = patches.Polygon(rotated_vertices,
+                                       closed=True,
+                                       edgecolor=WHITE,
+                                       facecolor=WHITE,
+                                       )
     ax.add_patch(rotated_triangle)
 
 # Displaying lines of font with a pause between each one
+plt.savefig(fname='0.png', format='png')
 text1 = 'Welcome to ' + user + '\'s'
 plt.text(.5, .73, text1, **text_kwargs)
 plt.savefig(fname='1.png', format='png')
