@@ -8,6 +8,8 @@ from transformers import pipeline
 import json
 from collections import defaultdict
 import matplotlib.pyplot as plt
+from colors import *
+import statistics
 
 
 def sentiment(file, username):
@@ -60,7 +62,20 @@ def sentiment(file, username):
             if scores:
                 score_data[label].extend(scores)
 
-    plt.figure(figsize=(8, 8), facecolor='black')
+    # Calculate the median value for each emotion
+    median_values = {}
+    for emotion, scores in score_data.items():
+        median = statistics.median(scores)
+        median_values[emotion] = median
+
+    # Get the Highest and Second highest values
+    sorted_medians = sorted(median_values.items(),
+                            key=lambda x: x[1],
+                            reverse=True)
+    highest = sorted_medians[0][0]
+    second_highest = sorted_medians[1][0]
+
+    plt.figure(figsize=(8, 8), facecolor=BLACK)
     violin_parts = plt.violinplot(
         [score_data[label] for label in labels],
         showmeans=False,
@@ -69,25 +84,25 @@ def sentiment(file, username):
     )
 
     # Customize colors for the violins
-    colors = ['purple', 'blue', 'green', 'orange', 'red', 'pink']
+    colors = [TEAL, BLUE, NAVY, ORANGE, DARK_TEAL, LIGHT_ORANGE]
     for i, pc in enumerate(violin_parts['bodies']):
         pc.set_facecolor(colors[i])
-        pc.set_edgecolor('white')
+        pc.set_edgecolor(WHITE)
 
     # Customize the plot
     plt.xticks(range(1, len(labels) + 1), labels)
     plt.title('Sentiment Analysis for ' + username + '/' + max_repo,
-              color='white',
+              color=WHITE,
               fontweight='bold',
               fontsize='xx-large',
               )
     plt.xlabel('Sentiment Labels',
-               color='white',
+               color=WHITE,
                fontweight='bold',
                fontsize='x-large',
                )
     plt.ylabel('Scores',
-               color='white',
+               color=WHITE,
                fontweight='bold',
                fontsize='x-large',
                )
@@ -95,10 +110,10 @@ def sentiment(file, username):
     plt.gca().spines['right'].set_visible(False)
     plt.gca().xaxis.set_ticks_position('bottom')
     plt.gca().yaxis.set_ticks_position('left')
-    plt.gca().tick_params(axis='both', colors='white')
-    plt.gca().set_facecolor('black')
+    plt.gca().tick_params(axis='both', colors=WHITE)
+    plt.gca().set_facecolor(BLACK)
 
     # Set text color to white
-    plt.rcParams['text.color'] = 'white'
+    plt.rcParams['text.color'] = WHITE
     fname = './png_files/' + username + 'sentiment.png'
     plt.savefig(fname=fname, format='png')

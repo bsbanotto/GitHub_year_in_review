@@ -7,6 +7,8 @@ import json
 import matplotlib.pyplot as plt
 from datetime import datetime
 import pytz
+from colors import *
+from collections import Counter
 
 
 def what_times(file, username):
@@ -39,26 +41,34 @@ def what_times(file, username):
             commit_date).astimezone(central_timezone)
         commit_hours.append(central_date.hour)
 
+    # Finding the hour window with the most commits
+    most_hours = [sorted(Counter(commit_hours).items(),
+                         key=lambda x: x[1],
+                         reverse=True)[i][0] for i in range(0, 1)]
+    print(most_hours[0])
+
+    # TODO Add logic for what to return in the animation
+
     # Create a histogram
     bins = [x for x in range(25)]
     labels = ['12AM', '1AM', '2AM', '3AM', '4AM', '5AM', '6AM', '7AM', '8AM',
               '9AM', '10AM', '11AM', '12PM', '1PM', '2PM', '3PM', '4PM', '5PM',
               '6PM', '7PM', '8PM', '9PM', '10PM', '11PM', '12AM']
 
-    plt.figure(figsize=(8, 8), facecolor='black')
-    plt.hist(commit_hours, bins=bins, edgecolor='black', alpha=0.7)
-    plt.xlabel('Commit Hour', color='white', fontweight='bold',
+    plt.figure(figsize=(8, 8), facecolor=BLACK)
+    plt.hist(commit_hours, bins=bins, edgecolor=BLACK, alpha=0.7)
+    plt.xlabel('Commit Hour', color=WHITE, fontweight='bold',
                fontsize='x-large')
-    plt.ylabel('Number of Commits', color='white', fontweight='bold',
+    plt.ylabel('Number of Commits', color=WHITE, fontweight='bold',
                fontsize='x-large')
     plt.title(username + ' Commit Time Distribution (in Hours)',
-              color='white', fontweight='bold', fontsize='xx-large')
-    plt.xticks(bins, labels, rotation=45, ha='right', color='white',
+              color=WHITE, fontweight='bold', fontsize='xx-large')
+    plt.xticks(bins, labels, rotation=45, ha='right', color=WHITE,
                fontweight='bold')
-    plt.yticks(color='white', fontweight='bold')
+    plt.yticks(color=WHITE, fontweight='bold')
     plt.grid(axis='y', linestyle='--', alpha=0.7)
     plt.tight_layout()
     ax = plt.gca()
-    ax.set_facecolor('black')
+    ax.set_facecolor(BLACK)
     fname = './png_files/' + username + 'histogram.png'
     plt.savefig(fname=fname, format='png')

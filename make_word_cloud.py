@@ -5,6 +5,7 @@ Given our JSON containing commit messages, create a word cloud
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import json
+from colors import *
 
 
 def make_wordcloud(file, username):
@@ -49,7 +50,8 @@ def make_wordcloud(file, username):
     wordcloud = WordCloud(
         width=768,
         height=768,
-        background_color='black').generate_from_frequencies(
+        background_color='black',
+        colormap='Set2').generate_from_frequencies(
         word_frequencies
         )
 

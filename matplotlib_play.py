@@ -7,17 +7,7 @@ import matplotlib.patches as patches
 import numpy as np
 import os
 import imageio.v2 as imageio
-
-# Define the colors for our palette
-TEAL = (0/255, 149/255, 168/255)
-NAVY = (17/255, 46/255, 81/255)
-ORANGE = (255/255, 112/255, 67/255)
-GREY = (120/255, 144/255, 156/255)
-BLUE = (46/255, 120/255, 210/255)
-DARK_TEAL = (0/255, 108/255, 122/255)
-LIGHT_ORANGE = (255/255, 151/255, 118/255)
-WHITE = (224/255, 224/255, 224/255)
-BLACK = (33/255, 33/255, 33/255)
+from colors import *
 
 text_kwargs = dict(
     family='sans-serif',

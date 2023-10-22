@@ -4,6 +4,7 @@ The method in this file will extract number of commits per repo
 from a users json file and create a pie chart with the distribution
 """
 import matplotlib.pyplot as plt
+from colors import *
 
 
 def make_pie(username, repo_names, commit_counts):
@@ -40,8 +41,8 @@ def make_pie(username, repo_names, commit_counts):
     # Build the Pie Chart
     fig, ax = plt.subplots(figsize=(8, 8))
     plt.gca().set_position([0, 0, 1, .9])
-    fig.patch.set_facecolor('black')
-    ax.set_facecolor('black')
+    fig.patch.set_facecolor(BLACK)
+    ax.set_facecolor(BLACK)
 
     to_explode = []
     for x in range(0, len(repo_names)):
@@ -49,17 +50,20 @@ def make_pie(username, repo_names, commit_counts):
 
     to_explode[0] = 0.05
 
+    colors = [NAVY, ORANGE, BLUE, DARK_TEAL, LIGHT_ORANGE, GREY, TEAL]
+
     ax.pie(commit_counts,
            labels=repo_names,
            autopct='%1.1f%%',
            shadow=True,
            explode=tuple(to_explode),
-           startangle=0)
+           startangle=0,
+           colors=colors)
 
     for text in ax.texts:
-        text.set_color('white')
+        text.set_color(WHITE)
 
-    ax.set_title(username + ' - Commits per Repository', color='white',
+    ax.set_title(username + ' - Commits per Repository', color=WHITE,
                  fontweight='bold', fontsize='x-large')
     fname = './png_files/' + username + 'piechart.png'
     plt.savefig(fname=fname, format='png')
