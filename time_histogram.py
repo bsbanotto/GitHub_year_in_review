@@ -45,9 +45,46 @@ def what_times(file, username):
     most_hours = [sorted(Counter(commit_hours).items(),
                          key=lambda x: x[1],
                          reverse=True)[i][0] for i in range(0, 1)]
-    print(most_hours[0])
 
-    # TODO Add logic for what to return in the animation
+    # If most hours is 0, do Midnight to 1:00AM
+    if most_hours[0] == 0:
+        print("You were most active between Midnight and " +
+              str(most_hours[0] + 1) + ":00 AM")
+    # If most hours is 1 thru 10
+    if most_hours[0] >= 1 and most_hours[0] <= 10:
+        print("You were most active between " + str(most_hours[0]) +
+              ":00 and " + str(most_hours[0] + 1) + ":00 AM")
+
+    # If most hours is 11, do 11:00AM to Noon
+    if most_hours[0] == 11:
+        print("You were most active between " + str(most_hours[0]) +
+              " and Noon")
+
+    # If most hours is 12, do Noon to 1:00PM
+    if most_hours[0] == 12:
+        print("You were most active between Noon and 1:00 PM")
+
+    # If most hours is 13 thru 22
+    if most_hours[0] >= 13 and most_hours[0] <= 22:
+        print_time = most_hours[0] - 12
+        print("You were most active between " + str(print_time) +
+              ":00 and " + str(print_time + 1) + ":00 PM")
+
+    # If most hours is 23, do 11:00PM to Midnight
+    if most_hours[0] == 23:
+        print("You were most active between 11:00 PM and Midnight")
+
+    # Logic for what to return in the animation
+    if most_hours[0] < 4:
+        print("You are quite the Night Owl")
+    elif most_hours[0] >= 4 and most_hours[0] < 9:
+        print("You are an Early Bird")
+    elif most_hours[0] >= 9 and most_hours[0] < 18:
+        print("You are a Typical Daytimer")
+    elif most_hours[0] >= 19 and most_hours[0] < 22:
+        print("Looks like you're a Hobbyist")
+    else:
+        print("You are quite the Night Owl")
 
     # Create a histogram
     bins = [x for x in range(25)]

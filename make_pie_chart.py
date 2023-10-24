@@ -24,6 +24,11 @@ def make_pie(username, repo_names, commit_counts):
     commit_counts = list(commit_counts)
     repo_names = list(repo_names)
 
+    percent = round((commit_counts[0] / sum(commit_counts)) * 100)
+
+    # print("You were most active in " + repo_names[0] + " with " +
+    #       str(percent) + "% of your total commits")
+
     # Group all repos with less than 2.5% commit volume to 'other'
     threshold = 0.025 * sum(commit_counts)
 
@@ -53,17 +58,17 @@ def make_pie(username, repo_names, commit_counts):
     colors = [NAVY, ORANGE, BLUE, DARK_TEAL, LIGHT_ORANGE, GREY, TEAL]
 
     ax.pie(commit_counts,
-           labels=repo_names,
            autopct='%1.1f%%',
            shadow=True,
            explode=tuple(to_explode),
            startangle=0,
-           colors=colors)
-
-    for text in ax.texts:
-        text.set_color(WHITE)
+           colors=colors,
+           textprops={'color': WHITE}
+           )
 
     ax.set_title(username + ' - Commits per Repository', color=WHITE,
                  fontweight='bold', fontsize='x-large')
     fname = './png_files/' + username + 'piechart.png'
+    plt.legend(labels=repo_names,
+               )
     plt.savefig(fname=fname, format='png')

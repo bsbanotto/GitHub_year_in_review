@@ -53,12 +53,12 @@ if __name__ == "__main__":
         os.makedirs(path)
 
     # Create a pie chart
-    make_pie = __import__('make_pie_chart').make_pie
-    make_pie(username, repo_names, commit_counts)
+    # make_pie = __import__('make_pie_chart').make_pie
+    # make_pie(username, repo_names, commit_counts)
 
-    # Create a histogram
-    # make_histogram = __import__('time_histogram').what_times
-    # make_histogram(filename, username)
+    # Create a time histogram
+    make_histogram = __import__('time_histogram').what_times
+    make_histogram(filename, username)
 
     # Create a word cloud
     # make_wordcloud = __import__('make_word_cloud').make_wordcloud

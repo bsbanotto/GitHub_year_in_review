@@ -75,6 +75,9 @@ def sentiment(file, username):
     highest = sorted_medians[0][0]
     second_highest = sorted_medians[1][0]
 
+    # print("Most of your commits displayed the emotion " + highest)
+    # print("With the emotion " + second_highest + " in second place.")
+
     plt.figure(figsize=(8, 8), facecolor=BLACK)
     violin_parts = plt.violinplot(
         [score_data[label] for label in labels],
@@ -91,7 +94,7 @@ def sentiment(file, username):
 
     # Customize the plot
     plt.xticks(range(1, len(labels) + 1), labels)
-    plt.title('Sentiment Analysis for ' + username + '/' + max_repo,
+    plt.title('Sentiment Analysis for ' + max_repo,
               color=WHITE,
               fontweight='bold',
               fontsize='xx-large',
