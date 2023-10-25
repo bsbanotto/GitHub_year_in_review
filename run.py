@@ -52,26 +52,30 @@ if __name__ == "__main__":
     if not os.path.exists(path):
         os.makedirs(path)
 
+    # Make the title animation
+    make_title = __import__('make_title').make_title
+    make_title()
+
     # Create a pie chart
-    # make_pie = __import__('make_pie_chart').make_pie
-    # make_pie(username, repo_names, commit_counts)
+    make_pie = __import__('make_pie_chart').make_pie
+    make_pie(username, repo_names, commit_counts)
 
     # Create a time histogram
     make_histogram = __import__('time_histogram').what_times
     make_histogram(filename, username)
 
     # Create a word cloud
-    # make_wordcloud = __import__('make_word_cloud').make_wordcloud
-    # make_wordcloud(filename, username)
+    make_wordcloud = __import__('make_word_cloud').make_wordcloud
+    make_wordcloud(filename, username)
 
     # Sentiment Analysis Violin Plot
-    # sentiment_analysis = __import__('sentiment_analysis').sentiment
-    # sentiment_analysis(filename, username)
+    sentiment_analysis = __import__('sentiment_analysis').sentiment
+    sentiment_analysis(filename, username)
 
     # Combine plots to a gif
-    # create_gif = __import__('create_gif').create_gif
-    # create_gif('./png_files')
+    create_gif = __import__('create_gif').create_gif
+    create_gif('./png_files')
 
     # Print the number of repos committed to
-    # print('In ' + str(year) + ' You made ' + str(num_commits) +
-    #       ' commits to ' + str(num_repos) + ' repos!')
+    print('In ' + str(year) + ' You made ' + str(num_commits) +
+          ' commits to ' + str(num_repos) + ' repos!')
