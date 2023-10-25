@@ -9,6 +9,7 @@ from datetime import datetime
 import pytz
 from colors import *
 from collections import Counter
+from tzlocal import get_localzone
 
 
 def what_times(file, username):
@@ -33,10 +34,11 @@ def what_times(file, username):
             commit_dates.append(commit.get('date'))
 
     # Convert those timestamps to something usable for the plot
+    local_tz = get_localzone()
     for date in commit_dates:
         commit_date = datetime.strptime(date, "%Y-%m-%dT%H:%M:%SZ")
         utc_timezone = pytz.timezone('UTC')
-        central_timezone = pytz.timezone('America/Chicago')
+        central_timezone = pytz.timezone(str(local_tz))
         central_date = utc_timezone.localize(
             commit_date).astimezone(central_timezone)
         commit_hours.append(central_date.hour)

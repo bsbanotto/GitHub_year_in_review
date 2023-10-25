@@ -10,3 +10,4 @@ dependencies:
     - requests
     - transformers
     - imageio==2.31.5
+    - tzlocal==5.2

@@ -10,13 +10,13 @@ from colors import *
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 4:
-        print("Usage: python3 run.y <username> <access_token> <year>")
+    if len(sys.argv) != 3:
+        print("Usage: python3 run.y <username> <access_token>")
         sys.exit(1)
 
     username = sys.argv[1]
     access_token = sys.argv[2]
-    year = int(sys.argv[3])
+    year = datetime.now().year
     start_date = datetime(year, 1, 1)
     end_date = datetime(year, 12, 31)
     filename = './json_files/' + username + '_commit_info.json'
